@@ -1,0 +1,1 @@
+minecraft-france.fr##body > div[id]:first-child
