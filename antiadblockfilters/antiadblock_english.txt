@@ -5,7 +5,6 @@ play44.net,videobug.net,videofun.me,vidzur.com##[style^="position: absolute; wid
 hatemtai.com##[id^="bsa"]
 themittani.com##.bf-
 filmovizija.com###container + div[style*="background-color:"]
-
 filmovizija.com###footer-detalj + div[style]
 pes-patch.com##font[style="background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); opacity: 0.95;"]
 ||www.google.*/ajax/pi/phd?abd=0$xmlhttprequest
