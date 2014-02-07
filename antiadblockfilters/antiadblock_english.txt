@@ -7,4 +7,5 @@ themittani.com##.bf-
 filmovizija.com###container + div[style*="background-color:"]
 filmovizija.com###footer-detalj + div[style]
 pes-patch.com##font[style="background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); opacity: 0.95;"]
+/cus/blocages/*$third-party,xmlhttprequest
 ||www.google.*/ajax/pi/phd?abd=0$xmlhttprequest
