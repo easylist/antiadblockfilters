@@ -1,3 +1,3 @@
 mobilfunk-geschichte.de,nachrichtenamort.de,wwwok.at##body > :nth-child(n) + style + div[id]:last-child
-mobilfunk-geschichte.de,nachrichtenamort.de,rene-neuweiler.ch##body > noscript > style + div[id]:last-child
+mobilfunk-geschichte.de,nachrichtenamort.de##body > noscript > style + div[id]:last-child
 wwwok.at##body div > font > noscript > div[id]:last-child
