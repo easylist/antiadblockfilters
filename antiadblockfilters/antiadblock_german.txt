@@ -1,4 +1,6 @@
 mobilfunk-geschichte.de,nachrichtenamort.de,wwwok.at##body > :nth-child(n) + style + div[id]:last-child
 mobilfunk-geschichte.de,nachrichtenamort.de##body > noscript > style + div[id]:last-child
 wwwok.at##body div > font > noscript > div[id]:last-child
-web.de,gmx.net##BODY.defaultHero > DIV[id]:first-child
+gmx.net,web.de##BODY.defaultHero > DIV[id] > P:first-child
+gmx.net,web.de##BODY.defaultHero > DIV[id] > P:first-child + STYLE + A
+gmx.net,web.de##BODY.defaultHero > DIV[id] > P:first-child + STYLE + A + A:last-child
