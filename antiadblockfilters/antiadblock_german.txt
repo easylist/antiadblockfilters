@@ -4,3 +4,4 @@ wwwok.at##body div > font > noscript > div[id]:last-child
 gmx.net,web.de##BODY.defaultHero > DIV[id] > P:first-child
 gmx.net,web.de##BODY.defaultHero > DIV[id] > P:first-child + STYLE + A
 gmx.net,web.de##BODY.defaultHero > DIV[id] > P:first-child + STYLE + A + A:last-child
+web.de,gmx.net##BODY.defaultHero div[id]:not(#container):not(#wrapper):not(#wrapper2):not(#logo):not(#mainnav):not(#weather):not(#helplinks):not(#promoline):not(#loginsearch-login):not(#loginsearch-header-ad):not(#loginsearch-status):not(#loginsearch-search):not(#search):not(#searchControls):not(#searchDropdown):not(#searchesContainer):not(#search-textlink):not(#loginsearch-ad):not(#sepResp1):not(#sepResp2):not(#footer-bubble):not(#footer-socialmarks):not(#social-simfy):not(#social-topde):not(#social-autoservice):not(#multiadContainer):not(#adv-current-container)
