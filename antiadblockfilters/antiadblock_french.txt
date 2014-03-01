@@ -1,2 +1,0 @@
-minecraft-france.fr##body > div[id]:first-child
-/s/blocages/*$xmlhttprequest,third-party
