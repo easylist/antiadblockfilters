@@ -1,3 +1,4 @@
 phonandroid.com###aub_modal_flattr + SCRIPT + DIV
 gamers-city.eu###aub_modal_flattr + DIV
 rue89strasbourg.com###aub_modal_flattr + SCRIPT + DIV
+moto85.com###aub_modal_flattr + DIV
