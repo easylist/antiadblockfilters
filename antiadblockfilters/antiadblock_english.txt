@@ -1,4 +1,3 @@
-germancarforum.com##.adBox + .noticeBox
 videobug.net###flowplayer > [style]:first-child
 videofun.me###flowplayer > div[class][style]:first-child
 videobug.net,videofun.me,vidzur.com##.randid
