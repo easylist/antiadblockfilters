@@ -6,3 +6,4 @@ leetgamerz.net##.reveal-modal + DIV
 pix-geeks.com##.reveal-modal + SCRIPT + DIV
 loractu.fr##.reveal-modal.large
 loractu.fr##.reveal-modal-bg
+degrouptest.com##.reveal-modal + DIV
