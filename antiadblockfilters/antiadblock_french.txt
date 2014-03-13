@@ -7,3 +7,5 @@ pix-geeks.com##.reveal-modal + SCRIPT + DIV
 loractu.fr##.reveal-modal.large
 loractu.fr##.reveal-modal-bg
 degrouptest.com##.reveal-modal + DIV
+xavboxforum.com###ipboard_body > DIV + [style="display: block;"]
+xavboxforum.com##[style="top: 100px; opacity: 1; visibility: visible;"]
