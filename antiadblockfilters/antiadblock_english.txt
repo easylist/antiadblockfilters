@@ -10,4 +10,6 @@ filmovizija.com###header + #container + DIV[id]:last-child
 filmovizija.com###container + #footer-detalj + DIV[id]
 filmovizija.com###header + #container + DIV[id]
 filmovizija.com##div[id][style="display:none"] + div[id]
+exashare.com###adblocker-cover
+exashare.com###player_img_over
 ||www.google.*/ajax/pi/phd?abd=0$xmlhttprequest
