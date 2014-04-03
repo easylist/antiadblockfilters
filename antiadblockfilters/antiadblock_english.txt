@@ -12,4 +12,6 @@ filmovizija.com###header + #container + DIV[id]
 filmovizija.com##div[id][style="display:none"] + div[id]
 exashare.com,streamin.to###adblocker-cover
 exashare.com###player_img_over
+teratome.com###main > .infobox:first-child + H1 + .block-bg
+teratome.com###wrapper > #sidebar > .sidebar-bg:first-child:last-child
 ||www.google.*/ajax/pi/phd?abd=0$xmlhttprequest
