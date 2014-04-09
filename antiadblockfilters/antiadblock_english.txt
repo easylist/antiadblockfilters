@@ -1,3 +1,4 @@
+euroiphone.eu##DIV[style="width:160px; height:360px; border:1px solid #6283A0; color:#F8F8F8; background-color:#75B027; text-align:center; padding: 10px 5px;font-family:arial;border-radius:7px;font-size:18px;"]
 savevideo.me##DIV[id^="ads_notice_"]
 videobug.net###flowplayer > [style]:first-child
 videofun.me###flowplayer > div[class][style]:first-child
