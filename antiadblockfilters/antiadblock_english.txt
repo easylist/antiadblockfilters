@@ -5,12 +5,6 @@ videofun.me###flowplayer > div[class][style]:first-child
 videobug.net,videofun.me,vidzur.com##.randid
 play44.net,videobug.net,videofun.me,vidzur.com##[style^="position: absolute; width: 100%;"]
 themittani.com##.bf-
-filmovizija.com###container + div[style*="background-color:"]
-filmovizija.com###footer-detalj + div[style]
-filmovizija.com###header + #container + DIV[id]:last-child
-filmovizija.com###container + #footer-detalj + DIV[id]
-filmovizija.com###header + #container + DIV[id]
-filmovizija.com##div[id][style="display:none"] + div[id]
 exashare.com,streamin.to###adblocker-cover
 exashare.com###player_img_over
 teratome.com###main > .infobox:first-child + H1 + .block-bg
