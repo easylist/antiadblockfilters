@@ -7,7 +7,7 @@ play44.net,videobug.net,videofun.me,vidzur.com##[style^="position: absolute; wid
 themittani.com##.bf-
 exashare.com,streamin.to###adblocker-cover
 exashare.com###player_img_over
-teratome.com,torhead.com###main > .infobox:first-child + H1 + .block-bg
+hearthhead.com,teratome.com,torhead.com###.block-bgimg
 hearthhead.com,teratome.com##.sidebar-bgimg
 playonlinux.com##DIV[style="width:160px; height:600px; padding-top: 280px; margin-left:5px;border:1px solid #666666; color:#FFF; background-color:#666; text-align:center; font-family:Maven Pro,century gothic, arial, helvetica, sans serif;padding-left:5px;padding-right:5px;border-radius:7px;font-size:18px;"]
 ||www.google.*/ajax/pi/phd?abd=0$xmlhttprequest
