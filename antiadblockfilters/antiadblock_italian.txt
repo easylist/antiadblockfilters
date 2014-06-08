@@ -1,0 +1,10 @@
+@@.png#$domain=italiatv.org
+@@||blogspot.com^*#$image,domain=dataok.altervista.org
+@@||dataok.altervista.org^$elemhide
+@@||italiatv.org^$elemhide
+@@||tvgratis.altervista.org^$elemhide
+@@||tvgratis.altervista.org^*#$image
+@@||tvgratis.altervista.org^*/advertisement.js
+@@||violanews.com/js/adframe.js
+@@||zeb89.altervista.org^$elemhide
+@@||zeb89.altervista.org^*#$image

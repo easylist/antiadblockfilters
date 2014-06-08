@@ -1,19 +1,19 @@
-euroiphone.eu##DIV[style^="width:160px; height:360px;"]
-savevideo.me##DIV[id^="ads_notice_"]
-videobug.net###flowplayer > [style]:first-child
-videofun.me###flowplayer > div[class][style]:first-child
-videobug.net,videofun.me,vidzur.com##.randid
-play44.net,videobug.net,videofun.me,vidzur.com,yucache.net##[style^="position: absolute; width: 100%;"]
 exashare.com,streamin.to###adblocker-cover
-exashare.com###player_img_over
-hearthhead.com,teratome.com,torhead.com,rifthead.com,guildhead.com,wowhead.com##.block-bg
-hearthhead.com,teratome.com,guildhead.com,rifthead.com,thottbot.com,wowhead.com,torhead.com##.sidebar-bg
-wowhead.com##.block-bgimg
-playonlinux.com##DIV[style="width:160px; height:600px; padding-top: 280px; margin-left:5px;border:1px solid #666666; color:#FFF; background-color:#666; text-align:center; font-family:Maven Pro,century gothic, arial, helvetica, sans serif;padding-left:5px;padding-right:5px;border-radius:7px;font-size:18px;"]
 arkansasmatters.com###blocker4
 arkansasmatters.com###blocker5
+videobug.net###flowplayer > [style]:first-child
+videofun.me###flowplayer > div[class][style]:first-child
+exashare.com###player_img_over
+guildhead.com,hearthhead.com,rifthead.com,teratome.com,torhead.com,wowhead.com##.block-bg
+wowhead.com##.block-bgimg
+videobug.net,videofun.me,vidzur.com##.randid
+guildhead.com,hearthhead.com,rifthead.com,teratome.com,thottbot.com,torhead.com,wowhead.com##.sidebar-bg
+play44.net,videobug.net,videofun.me,vidzur.com,yucache.net##[style^="position: absolute; width: 100%;"]
+savevideo.me##div[id^="ads_notice_"]
+playonlinux.com##div[style="width:160px; height:600px; padding-top: 280px; margin-left:5px;border:1px solid #666666; color:#FFF; background-color:#666; text-align:center; font-family:Maven Pro,century gothic, arial, helvetica, sans serif;padding-left:5px;padding-right:5px;border-radius:7px;font-size:18px;"]
+euroiphone.eu##div[style^="width:160px; height:360px;"]
 ||www.google.*/ajax/pi/phd?abd=0$xmlhttprequest
 ! NSFW
 redtube.com###as_131
-redtube.com##.qb
 redtube.com##.bvq
+redtube.com##.qb
