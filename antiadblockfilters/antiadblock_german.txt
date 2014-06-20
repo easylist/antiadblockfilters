@@ -1,8 +1,3 @@
-4players.de###werbung-fb ~ DIV[id][style]
-4players.de###navi ~ DIV[id][style]
-4players.de##.werbung-rectangle + DIV[id]
-4players.de###werbung-fb + div[id] + div[id]
-4players.de###werbung-fb + div[style^="order: "]
 ##.diysdk_webServices_banners1und1MainContent
 mobilfunk-geschichte.de,wwwok.at##body > :nth-child(n) + style + div[id]:last-child
 mobilfunk-geschichte.de##body > noscript > style + div[id]:last-child
