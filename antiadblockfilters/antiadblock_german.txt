@@ -1,4 +1,4 @@
-4players.de##.werbung-rectangle + DIV[style="display: block; position: absolute; top: 0px; left: 0px; padding: 0px; margin: 0px; width: 956px; height: 536px; opacity: 0.9;"]
+4players.de###tv-video > .werbung-rectangle + DIV[id][style]
 ##.diysdk_webServices_banners1und1MainContent
 mobilfunk-geschichte.de,wwwok.at##body > :nth-child(n) + style + div[id]:last-child
 mobilfunk-geschichte.de##body > noscript > style + div[id]:last-child
