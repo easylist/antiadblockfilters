@@ -1,5 +1,6 @@
-4players.de###tv-video > .werbung-rectangle + DIV[id][style]
+4players.de###tv-video > .werbung-rectangle + div[id][style]
 ##.diysdk_webServices_banners1und1MainContent
 mobilfunk-geschichte.de,wwwok.at##body > :nth-child(n) + style + div[id]:last-child
 mobilfunk-geschichte.de##body > noscript > style + div[id]:last-child
 wwwok.at##body div > font > noscript > div[id]:last-child
+4players.de##div[id][style="display:none;"] + * + * + * + * + * + div[id][style]
