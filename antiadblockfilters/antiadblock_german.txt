@@ -5,4 +5,5 @@ mobilfunk-geschichte.de##body > noscript > style + div[id]:last-child
 wwwok.at##body div > font > noscript > div[id]:last-child
 4players.de##div[id][style="display:none;"] + * + * + * + * + * + * + * + * + * + div[id][style]
 4players.de##div[id][style="display:none;"] + * + * + * + * + * + div[id][style]
+4players.de##div[id][style="display:none;"] + * + div[id][style]
 4players.de##div[id][style="display:none;"] + div[id][style]
