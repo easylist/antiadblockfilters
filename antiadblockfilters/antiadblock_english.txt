@@ -11,6 +11,7 @@ guildhead.com,hearthhead.com,rifthead.com,teratome.com,thottbot.com,torhead.com,
 play44.net,videobug.net,videofun.me,vidzur.com,yucache.net##[style^="position: absolute; width: 100%;"]
 savevideo.me##div[id^="ads_notice_"]
 playonlinux.com##div[style="width:160px; height:600px; padding-top: 280px; margin-left:5px;border:1px solid #666666; color:#FFF; background-color:#666; text-align:center; font-family:Maven Pro,century gothic, arial, helvetica, sans serif;padding-left:5px;padding-right:5px;border-radius:7px;font-size:18px;"]
+byzoo.org,videobug.net##div[style^="position: absolute; width: 300px;"]
 euroiphone.eu##div[style^="width:160px; height:360px;"]
 ||classic-retro-games.com/js/app.js?v=2
 ||www.google.*/ajax/pi/phd?abd=0$xmlhttprequest
