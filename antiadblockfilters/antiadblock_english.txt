@@ -14,6 +14,7 @@ playonlinux.com##div[style="width:160px; height:600px; padding-top: 280px; margi
 byzoo.org,videobug.net##div[style^="position: absolute; width: 300px;"]
 euroiphone.eu##div[style^="width:160px; height:360px;"]
 ||classic-retro-games.com/js/app.js?v=2
+||img.labnol.org/di/support.png
 ||www.google.*/ajax/pi/phd?abd=0$xmlhttprequest
 ! NSFW
 redtube.com###as_131
