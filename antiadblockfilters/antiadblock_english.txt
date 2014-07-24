@@ -1,3 +1,4 @@
+tpnn.com###adblock_notice
 exashare.com,streamin.to###adblocker-cover
 arkansasmatters.com###blocker4
 arkansasmatters.com###blocker5
