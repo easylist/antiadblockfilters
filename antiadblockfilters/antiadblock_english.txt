@@ -4,6 +4,7 @@ arkansasmatters.com###blocker4
 arkansasmatters.com###blocker5
 videobug.net###flowplayer > [style]:first-child
 videofun.me###flowplayer > div[class][style]:first-child
+check-pnr-status.in###noblock
 exashare.com###player_img_over
 guildhead.com,hearthhead.com,rifthead.com,teratome.com,torhead.com,wowhead.com##.block-bg
 wowhead.com##.block-bgimg
