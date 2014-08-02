@@ -1,5 +1,5 @@
 gamingroom.tv###message_adblock
-iphonesoft.fr###msgNoPub
+iphonesoft.fr,iphonetweak.fr###msgNoPub
 universfreebox.com###pub-haut-adblock
 leetgamerz.net###y843
 mnium.org##.UnblockQuest
