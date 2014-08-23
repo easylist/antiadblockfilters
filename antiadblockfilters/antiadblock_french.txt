@@ -3,5 +3,6 @@ iphonesoft.fr,iphonetweak.fr###msgNoPub
 universfreebox.com###pub-haut-adblock
 leetgamerz.net###y843
 mnium.org##.UnblockQuest
+lcd-compare.com###wk_adblock
 ||donnons.org/libs/js/gestionAP.js
 ||vide-greniers.org/libs/js/gestionAP.js
