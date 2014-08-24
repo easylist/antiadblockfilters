@@ -1,3 +1,3 @@
 pic4you.ru,pic5you.ru###blocked_block
-tjournal.ru##.vda
+sports.ru##div[style="position: fixed; top:35px; left:0; width: 100%; z-index:101;"]
 ph4.ru##div[style^="width: 728px; height: 90px;"]
