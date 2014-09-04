@@ -19,4 +19,5 @@ euroiphone.eu##div[style^="width:160px; height:360px;"]
 ||www.google.*/ajax/pi/phd?abd=0$xmlhttprequest
 ! NSFW
 redtube.com###as_131
+redtube.com###slidePanelContainerAB
 redtube.com##.qb
