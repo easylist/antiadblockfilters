@@ -1,4 +1,4 @@
-flightradar24.com###bottomRightOverlays
+flightradar24.com###bottomRightPanel
 onlinemoviewatchs.com##[id^="bsa"]
 tpnn.com###adblock_notice
 exashare.com,streamin.to###adblocker-cover
