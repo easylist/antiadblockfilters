@@ -1,3 +1,4 @@
+gamebanana.com###TopBanner
 flightradar24.com###bottomRightPanel
 onlinemoviewatchs.com##[id^="bsa"]
 tpnn.com###adblock_notice
