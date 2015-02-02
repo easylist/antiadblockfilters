@@ -1,3 +1,4 @@
+nexusmods.com###pub728x90
 gamebanana.com###TopBanner
 flightradar24.com###bottomRightPanel
 onlinemoviewatchs.com##[id^="bsa"]
