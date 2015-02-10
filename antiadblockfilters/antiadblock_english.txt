@@ -22,6 +22,7 @@ euroiphone.eu##div[style^="width:160px; height:360px;"]
 ||amazonaws.com^*/abb-msg.js$domain=hardocp.com
 ||classic-retro-games.com/js/app.js?v=2
 ||img.labnol.org/di/support.png
+||pregen.net/cpsess.php
 ||www.google.*/ajax/pi/phd?abd=0$xmlhttprequest
 ! NSFW
 redtube.com###as_131
