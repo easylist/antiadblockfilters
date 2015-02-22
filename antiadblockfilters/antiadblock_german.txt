@@ -2,3 +2,4 @@
 mobilfunk-geschichte.de,wwwok.at##body > :nth-child(n) + style + div[id]:last-child
 mobilfunk-geschichte.de##body > noscript > style + div[id]:last-child
 wwwok.at##body div > font > noscript > div[id]:last-child
+usgang.ch###rectangle-wrapper
