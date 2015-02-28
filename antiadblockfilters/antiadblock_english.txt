@@ -1,3 +1,4 @@
+toolslib.net##.row > .col-md-7 > .panel-default
 listentotaxman.com##DIV[style="background-color:#666; border-radius:7px; height:600px; padding-left:5px;  font-size:18px;padding-top:82px;color:#FFF; padding-right:5px;  font-family:Maven Pro,century gothic, arial, helvetica, sans serif; margin-left:5px;  width:160px;  border:1px solid #666666;  text-align:center;"]
 nexusmods.com###pub728x90
 gamebanana.com###TopBanner
