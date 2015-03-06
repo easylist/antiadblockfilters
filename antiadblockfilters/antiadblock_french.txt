@@ -5,4 +5,5 @@ lcd-compare.com###wk_adblock
 leetgamerz.net###y843
 mnium.org##.UnblockQuest
 ||donnons.org/libs/js/gestionAP.js
+||skyrock.net/img/*/adblock/
 ||vide-greniers.org/libs/js/gestionAP.js
