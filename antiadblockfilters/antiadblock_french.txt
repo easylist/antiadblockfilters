@@ -4,6 +4,7 @@ universfreebox.com###pub-haut-adblock
 lcd-compare.com###wk_adblock
 leetgamerz.net###y843
 mnium.org##.UnblockQuest
+@@||universfreebox.com/js/advertisement.js
 ||donnons.org/libs/js/gestionAP.js
 ||skyrock.net/img/*/adblock/
 ||vide-greniers.org/libs/js/gestionAP.js
