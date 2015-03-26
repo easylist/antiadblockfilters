@@ -6,5 +6,6 @@ leetgamerz.net###y843
 mnium.org##.UnblockQuest
 @@||universfreebox.com/js/advertisement.js
 ||donnons.org/libs/js/gestionAP.js
+||lesnumeriques.com/images/premium/ban_premium.jpg
 ||skyrock.net/img/*/adblock/
 ||vide-greniers.org/libs/js/gestionAP.js
