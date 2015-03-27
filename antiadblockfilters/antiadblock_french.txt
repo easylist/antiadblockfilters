@@ -1,11 +1,12 @@
 ###adblock-msg
 gamingroom.tv###message_adblock
 iphonesoft.fr,iphonetweak.fr###msgNoPub
-###pub-haut-adblock
 universfreebox.com###pub-haut-adblock
+###pub-haut-adblock
 lcd-compare.com###wk_adblock
 leetgamerz.net###y843
 mnium.org##.UnblockQuest
+@@||jeuxvideo-live.com/js/ads.js
 @@||universfreebox.com/js/advertisement.js
 ||donnons.org/libs/js/gestionAP.js
 ||lesnumeriques.com/images/premium/ban_premium.jpg
