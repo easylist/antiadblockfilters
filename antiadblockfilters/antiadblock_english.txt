@@ -1,3 +1,4 @@
+flightradar24.com###responsiveBottomPanel
 gamebanana.com###TopBanner
 tpnn.com###adblock_notice
 exashare.com,streamin.to###adblocker-cover
