@@ -1,4 +1,3 @@
-flightradar24.com###responsiveBottomPanel
 gamebanana.com###TopBanner
 tpnn.com###adblock_notice
 exashare.com,streamin.to###adblocker-cover
@@ -9,6 +8,7 @@ videofun.me###flowplayer > div[class][style]:first-child
 check-pnr-status.in###noblock
 exashare.com###player_img_over
 nexusmods.com###pub728x90
+flightradar24.com###responsiveBottomPanel
 guildhead.com,hearthhead.com,rifthead.com,teratome.com,torhead.com,wowhead.com##.block-bg
 wowhead.com##.block-bgimg
 videobug.net,videofun.me,vidzur.com##.randid
