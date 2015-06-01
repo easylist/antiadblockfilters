@@ -29,7 +29,6 @@ homerun.re,strikeout.co,vipbox.sx,vipleague.co,vipleague.me##span[id][style] > d
 ||classic-retro-games.com/js/app.js?v=2
 ||img.labnol.org/di/support.png
 ||pregen.net/cpsess.php
-! TEST
 ||www.google.*/ajax/pi/phd?abd=0$xmlhttprequest
 ! NSFW
 redtube.com###as_131
