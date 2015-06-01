@@ -1,5 +1,6 @@
 jumbofile.net###s4a0
 strikeout.co,vipbox.sx,vipleague.co##div[style="display: block;"]
+vipleague.co,homerun.re,strikeout.co,vipbox.sx,vipleague.me##SPAN[id][style] > DIV[id]:first-child:last-child
 gamebanana.com###TopBanner
 tpnn.com###adblock_notice
 exashare.com,streamin.to###adblocker-cover
