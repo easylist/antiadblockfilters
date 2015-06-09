@@ -1,6 +1,7 @@
 ###adblock-msg
 gamingroom.tv###message_adblock
 iphonesoft.fr,iphonetweak.fr###msgNoPub
+api-geek.com###noadds
 ###pub-haut-adblock
 universfreebox.com###pub-haut-adblock
 lcd-compare.com###wk_adblock
