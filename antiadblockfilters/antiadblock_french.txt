@@ -13,4 +13,5 @@ phonandroid.com##.adb-enabled
 ||donnons.org/libs/js/gestionAP.js
 ||lesnumeriques.com/images/premium/ban_premium.jpg
 ||skyrock.net/img/*/adblock/
+||toolslib.net/assets/img/placeholders/
 ||vide-greniers.org/libs/js/gestionAP.js
