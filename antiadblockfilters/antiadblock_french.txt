@@ -2,8 +2,8 @@
 gamingroom.tv###message_adblock
 iphonesoft.fr,iphonetweak.fr###msgNoPub
 api-geek.com###noadds
-###pub-haut-adblock
 universfreebox.com###pub-haut-adblock
+###pub-haut-adblock
 lcd-compare.com###wk_adblock
 leetgamerz.net###y843
 mnium.org##.UnblockQuest
@@ -11,6 +11,7 @@ phonandroid.com##.adb-enabled
 @@||jeuxvideo-live.com/js/ads.js
 @@||universfreebox.com/js/advertisement.js
 ||donnons.org/libs/js/gestionAP.js
+||lesnumeriques.com/images/premium/
 ||lesnumeriques.com/images/premium/ban_premium.jpg
 ||skyrock.net/img/*/adblock/
 ||toolslib.net/assets/img/placeholders/
