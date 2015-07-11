@@ -1,2 +1,3 @@
 bouweenpc.nl###header-banner
+spele.nl##.adblocker
 koolhydraatarmerecepten.info##body > [style^="z-index: 1000000; "]

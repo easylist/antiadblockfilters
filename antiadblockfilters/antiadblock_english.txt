@@ -1,4 +1,3 @@
-findretros.com##.fuck-adblock
 gamebanana.com###TopBanner
 tpnn.com###adblock_notice
 exashare.com,streamin.to###adblocker-cover
@@ -13,6 +12,7 @@ flightradar24.com###responsiveBottomPanel
 jumbofile.net###s4a0
 guildhead.com,hearthhead.com,rifthead.com,teratome.com,torhead.com,wowhead.com##.block-bg
 wowhead.com##.block-bgimg
+findretros.com##.fuck-adblock
 videobug.net,videofun.me,vidzur.com##.randid
 toolslib.net##.row > .col-md-7 > .panel-default
 guildhead.com,hearthhead.com,rifthead.com,teratome.com,thottbot.com,torhead.com,wowhead.com##.sidebar-bg
@@ -25,7 +25,7 @@ strikeout.co,vipbox.sx,vipleague.co,vipleague.is##div[style="display: block;"]
 playonlinux.com##div[style="width:160px; height:600px; padding-top: 280px; margin-left:5px;border:1px solid #666666; color:#FFF; background-color:#666; text-align:center; font-family:Maven Pro,century gothic, arial, helvetica, sans serif;padding-left:5px;padding-right:5px;border-radius:7px;font-size:18px;"]
 byzoo.org,videobug.net##div[style^="position: absolute; width: 300px;"]
 euroiphone.eu##div[style^="width:160px; height:360px;"]
-homerun.re,strikeout.co,vipbox.sx,vipleague.co,vipleague.me,vipleague.is,vipleague.ch##span[id][style] > div[id]:first-child:last-child
+homerun.re,strikeout.co,vipbox.sx,vipleague.ch,vipleague.co,vipleague.is,vipleague.me##span[id][style] > div[id]:first-child:last-child
 ||amazonaws.com^*/abb-msg.js$domain=hardocp.com
 ||classic-retro-games.com/js/app.js?v=2
 ||img.labnol.org/di/support.png
