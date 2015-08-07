@@ -1,3 +1,4 @@
+biggestplayer.me##.soret
 flightradar24.com###bottomRightPanel
 videofun.me###flowplayer > div[class][style]:first-child
 nexusmods.com##DIV[style="float: left; width: 728px; height: 90px; background: #313131;"]
