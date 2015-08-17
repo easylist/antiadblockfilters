@@ -20,6 +20,7 @@ homerun.re,strikeout.co,vipbox.sx,vipleague.ch,vipleague.co,vipleague.is,vipleag
 ||amazonaws.com^*/abb-msg.js$domain=hardocp.com
 ||www.google.*/ajax/pi/phd?abd=0$xmlhttprequest
 ! NSFW
+shadbase.com##IMG[alt="adblock"]
 redtube.com###as_131
 redtube.com###slidePanelContainerAB
 redtube.com##.qb
