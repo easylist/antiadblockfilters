@@ -1,28 +1,28 @@
-theatlantic.com##.blocker-message > .blackbox + .disable
-theatlantic.com##.blocker-message > .blackbox
-biggestplayer.me##.soret
 flightradar24.com###bottomRightPanel
 videofun.me###flowplayer > div[class][style]:first-child
-nexusmods.com##DIV[style="float: left; width: 728px; height: 90px; background: #313131;"]
 flightradar24.com###responsiveBottomPanel
 hearthhead.com,wowhead.com##.block-bg
 wowhead.com##.block-bgimg
+theatlantic.com##.blocker-message > .blackbox
+theatlantic.com##.blocker-message > .blackbox + .disable
+euroiphone.eu##.div-download-h
+euroiphone.eu##.div-download-v
 findretros.com##.fuck-adblock
 videobug.net,videofun.me,vidzur.com##.randid
 toolslib.net##.row > .col-md-7 > .panel-default
 hearthhead.com,thottbot.com,wowhead.com##.sidebar-bg
+biggestplayer.me##.soret
+/adblock-alerter/js/adblock_alerter.js
 play44.net,videobug.net,videofun.me,vidzur.com,yucache.net##[style^="position: absolute; width: 100%;"]
 strikeout.co,vipbox.sx,vipleague.co,vipleague.is##div[style="display: block;"]
-playonlinux.com##DIV[style="text-align:center;  border-radius:7px; width:160px;  border:1px solid #666666;  margin-left:5px;padding-right:5px;color:#FFF;  background-color:#666;font-family:Maven Pro,century gothic, arial, helvetica, sans serif;padding-top:94px;  height:600px;  padding-left:5px; font-size:18px; "]
+nexusmods.com##div[style="float: left; width: 728px; height: 90px; background: #313131;"]
+playonlinux.com##div[style="text-align:center;  border-radius:7px; width:160px;  border:1px solid #666666;  margin-left:5px;padding-right:5px;color:#FFF;  background-color:#666;font-family:Maven Pro,century gothic, arial, helvetica, sans serif;padding-top:94px;  height:600px;  padding-left:5px; font-size:18px; "]
 byzoo.org,videobug.net##div[style^="position: absolute; width: 300px;"]
-euroiphone.eu##.div-download-h
-euroiphone.eu##.div-download-v
 homerun.re,strikeout.co,vipbox.sx,vipleague.ch,vipleague.co,vipleague.is,vipleague.me##span[id][style] > div[id]:first-child:last-child
-/adblock-alerter/js/adblock_alerter.js
 ||amazonaws.com^*/abb-msg.js$domain=hardocp.com
 ||www.google.*/ajax/pi/phd?abd=0$xmlhttprequest
 ! NSFW
-shadbase.com##IMG[alt="adblock"]
 redtube.com###as_131
 redtube.com###slidePanelContainerAB
 redtube.com##.qb
+shadbase.com##img[alt="adblock"]
