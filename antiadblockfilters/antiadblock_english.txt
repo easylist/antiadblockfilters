@@ -1,4 +1,3 @@
-biggestplayer.me##.masr
 flightradar24.com###bottomRightPanel
 videofun.me###flowplayer > div[class][style]:first-child
 flightradar24.com###responsiveBottomPanel
@@ -9,6 +8,7 @@ theatlantic.com##.blocker-message > .blackbox + .disable
 euroiphone.eu##.div-download-h
 euroiphone.eu##.div-download-v
 findretros.com##.fuck-adblock
+biggestplayer.me##.masr
 videobug.net,videofun.me,vidzur.com##.randid
 toolslib.net##.row > .col-md-7 > .panel-default
 hearthhead.com,thottbot.com,wowhead.com##.sidebar-bg

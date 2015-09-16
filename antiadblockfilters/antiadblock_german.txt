@@ -1,5 +1,5 @@
-||jappy.tv/i/wrbng/abb.png
 usgang.ch###rectangle-wrapper
 ##.diysdk_webServices_banners1und1MainContent
 wwwok.at##body > :nth-child(n) + style + div[id]:last-child
 wwwok.at##body div > font > noscript > div[id]:last-child
+||jappy.tv/i/wrbng/abb.png
