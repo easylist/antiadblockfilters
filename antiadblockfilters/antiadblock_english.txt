@@ -1,3 +1,4 @@
+yocast.tv###ra9e
 flightradar24.com###bottomRightPanel
 videofun.me###flowplayer > div[class][style]:first-child
 flightradar24.com###responsiveBottomPanel
