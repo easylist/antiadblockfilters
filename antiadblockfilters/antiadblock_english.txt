@@ -1,4 +1,4 @@
-||corrosif.science^$domain=pencurimovie.pw
+||corrosif.science^$domain=pencurimovie.pw|filerev.cc
 yocast.tv###ra9e
 flightradar24.com###bottomRightPanel
 videofun.me###flowplayer > div[class][style]:first-child
