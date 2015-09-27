@@ -1,7 +1,6 @@
-||corrosif.science^$domain=pencurimovie.pw|filerev.cc
-yocast.tv###ra9e
 flightradar24.com###bottomRightPanel
 videofun.me###flowplayer > div[class][style]:first-child
+yocast.tv###ra9e
 flightradar24.com###responsiveBottomPanel
 hearthhead.com,wowhead.com##.block-bg
 wowhead.com##.block-bgimg
@@ -23,6 +22,7 @@ playonlinux.com##div[style="text-align:center;  border-radius:7px; width:160px; 
 byzoo.org,videobug.net##div[style^="position: absolute; width: 300px;"]
 homerun.re,strikeout.co,vipbox.sx,vipleague.ch,vipleague.co,vipleague.is,vipleague.me##span[id][style] > div[id]:first-child:last-child
 ||amazonaws.com^*/abb-msg.js$domain=hardocp.com
+||corrosif.science^$domain=filerev.cc|pencurimovie.pw
 ||www.google.*/ajax/pi/phd?abd=0$xmlhttprequest
 ! NSFW
 redtube.com###as_131
