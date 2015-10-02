@@ -1,8 +1,8 @@
-biggestplayer.me##.adblock + *
 flightradar24.com###bottomRightPanel
 videofun.me###flowplayer > div[class][style]:first-child
 yocast.tv###ra9e
 flightradar24.com###responsiveBottomPanel
+biggestplayer.me##.adblock + *
 hearthhead.com,wowhead.com##.block-bg
 wowhead.com##.block-bgimg
 theatlantic.com##.blocker-message > .blackbox
