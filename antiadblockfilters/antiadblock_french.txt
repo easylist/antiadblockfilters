@@ -12,6 +12,7 @@ phonandroid.com##.adb-enabled
 @@||cyberdean.fr/js/advertisement.js
 @@||jeuxvideo-live.com/js/ads.js
 @@||lecrabeinfo.net^$elemhide
+@@||malekal.com/ads/ads_php/banner.js
 @@||numerama.com/ads.js
 @@||universfreebox.com/js/advertisement.js
 ||donnons.org/libs/js/gestionAP.js
