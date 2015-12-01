@@ -1,1 +1,4 @@
 bouweenpc.nl###header-banner
+rtlxl.nl##.adblock
+spele.nl##.adblocker
+koolhydraatarmerecepten.info##body > [style^="z-index: 1000000; "]
