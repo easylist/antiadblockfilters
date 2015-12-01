@@ -1,4 +1,5 @@
 pic4you.ru,pic5you.ru###blocked_block
 numberempire.com###toplink > h3[style="color: red"]
+professorweb.ru#@#.text_ads
 @@||sports.ru^*/adfox.$xmlhttprequest
 ph4.ru##div[style^="width: 728px; height: 90px;"]
