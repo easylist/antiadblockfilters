@@ -1,7 +1,8 @@
-2ip.ru###wrapper > div[class*="notification"]
-||assets.nnm-club.ws/forum/docs/requests.js
+animeland.su##.no-adb
 pic4you.ru,pic5you.ru###blocked_block
 numberempire.com###toplink > h3[style="color: red"]
+2ip.ru###wrapper > div[class*="notification"]
 professorweb.ru#@#.text_ads
 @@||sports.ru^*/adfox.$xmlhttprequest
 ph4.ru##div[style^="width: 728px; height: 90px;"]
+||assets.nnm-club.ws/forum/docs/requests.js
