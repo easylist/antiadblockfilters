@@ -1,4 +1,4 @@
-animeland.su##.no-adb
+animeland.su,audio-hi-fi.ru,electric-house.ru,electro-sila.ru,stroi-help.ru##.no-adb
 pic4you.ru,pic5you.ru###blocked_block
 numberempire.com###toplink > h3[style="color: red"]
 2ip.ru###wrapper >:not(#wrap)
