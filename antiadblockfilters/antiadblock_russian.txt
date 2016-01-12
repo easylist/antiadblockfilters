@@ -2,7 +2,6 @@ animeland.su##.no-adb
 audio-hi-fi.ru,electric-house.ru,electro-sila.ru,stroi-help.ru##.adb
 pic4you.ru,pic5you.ru###blocked_block
 numberempire.com###toplink > h3[style="color: red"]
-2ip.ru###wrapper >:not(#wrap)
 professorweb.ru#@#.text_ads
 @@||sports.ru^*/adfox.$xmlhttprequest
 ph4.ru##div[style^="width: 728px; height: 90px;"]
