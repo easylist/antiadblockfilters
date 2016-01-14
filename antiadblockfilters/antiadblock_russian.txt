@@ -3,6 +3,7 @@ audio-hi-fi.ru,electric-house.ru,electro-sila.ru,stroi-help.ru##.adb
 playunturned.ru##.side_right > center
 playunturned.ru##.side_left > center
 pic4you.ru,pic5you.ru###blocked_block
+nulled.cc##.adblock_floating_message
 numberempire.com###toplink > h3[style="color: red"]
 professorweb.ru#@#.text_ads
 pvcalc.ru##div[style^="position:fixed; top:0px; left:0px; opacity: 0.9;"]
