@@ -3,6 +3,7 @@ audio-hi-fi.ru,electric-house.ru,electro-sila.ru,stroi-help.ru##.adb
 pic4you.ru,pic5you.ru###blocked_block
 numberempire.com###toplink > h3[style="color: red"]
 professorweb.ru#@#.text_ads
+pvcalc.ru##div[style^="position:fixed; top:0px; left:0px; opacity: 0.9;"]
 @@||sports.ru^*/adfox.$xmlhttprequest
 ph4.ru##div[style^="width: 728px; height: 90px;"]
 ||animeteatr.ru/a-detector/
