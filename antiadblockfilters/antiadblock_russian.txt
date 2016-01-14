@@ -7,6 +7,7 @@ nulled.cc##.adblock_floating_message
 numberempire.com###toplink > h3[style="color: red"]
 professorweb.ru#@#.text_ads
 pvcalc.ru##div[style^="position:fixed; top:0px; left:0px; opacity: 0.9;"]
+smotrisport.tv##.dont-add-our-site-pls
 @@||sports.ru^*/adfox.$xmlhttprequest
 ph4.ru##div[style^="width: 728px; height: 90px;"]
 ||animeteatr.ru/a-detector/
