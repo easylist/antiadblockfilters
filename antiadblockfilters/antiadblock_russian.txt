@@ -5,4 +5,5 @@ numberempire.com###toplink > h3[style="color: red"]
 professorweb.ru#@#.text_ads
 @@||sports.ru^*/adfox.$xmlhttprequest
 ph4.ru##div[style^="width: 728px; height: 90px;"]
+||animeteatr.ru/a-detector/
 ||assets.nnm-club.ws/forum/docs/requests.js
