@@ -10,5 +10,6 @@ pvcalc.ru##div[style^="position:fixed; top:0px; left:0px; opacity: 0.9;"]
 smotrisport.tv##.dont-add-our-site-pls
 @@||sports.ru^*/adfox.$xmlhttprequest
 ph4.ru##div[style^="width: 728px; height: 90px;"]
+||2ip.ru/js/script_new.js
 ||animeteatr.ru/a-detector/
 ||assets.nnm-club.ws/forum/docs/requests.js
