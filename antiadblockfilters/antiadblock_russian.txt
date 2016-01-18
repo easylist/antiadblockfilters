@@ -1,6 +1,6 @@
 animeland.su##.no-adb
 audio-hi-fi.ru,electro-sila.ru,stroi-help.ru##.blok_new > div[style]
-electric-house.ru##.bg5.blok_forum
+electric-house.ru##.blok_forum > div[style]
 playunturned.ru##.side_right > center
 playunturned.ru##.side_left > center
 pic4you.ru,pic5you.ru###blocked_block
