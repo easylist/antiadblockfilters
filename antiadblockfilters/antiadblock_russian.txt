@@ -1,6 +1,7 @@
 animeland.su##.no-adb
 audio-hi-fi.ru,electro-sila.ru##.blok_new > div[style]
 electric-house.ru##.blok_forum > div[style]
+forum.qrz.ru###antiAdBlock
 nulled.cc##.adblock_floating_message
 numberempire.com###toplink > h3[style="color: red"]
 ph4.ru##div[style^="width: 728px; height: 90px;"]
