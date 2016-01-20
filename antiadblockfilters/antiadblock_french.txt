@@ -1,14 +1,7 @@
 ###adblock-msg
 gamingroom.tv###message_adblock
 iphonesoft.fr,iphonetweak.fr###msgNoPub
-api-geek.com###noadds
-universfreebox.com###pub-haut-adblock
 ###pub-haut-adblock
-ligatus.com###warning-bar
-lcd-compare.com###wk_adblock
-leetgamerz.net###y843
-mnium.org##.UnblockQuest
-phonandroid.com##.adb-enabled
 @@||cyberdean.fr/js/advertisement.js
 @@||jeuxvideo-live.com/js/ads.js
 @@||lecrabeinfo.net^$elemhide
