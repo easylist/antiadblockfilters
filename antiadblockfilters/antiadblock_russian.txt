@@ -1,3 +1,4 @@
+/forum/docs/requests.js$script,domain=nnm-club.me
 animeland.su##.no-adb
 audio-hi-fi.ru,electro-sila.ru##.blok_new > div[style]
 electric-house.ru##.blok_forum > div[style]
@@ -14,4 +15,3 @@ smotrisport.tv##.dont-add-our-site-pls
 stroi-help.ru##.blok_stroi > div[style]
 @@||sports.ru^*/adfox.$xmlhttprequest
 ||animeteatr.ru/a-detector/
-||assets.nnm-club.ws/forum/docs/requests.js
