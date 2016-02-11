@@ -1,6 +1,7 @@
 /forum/docs/requests.js$script,domain=nnm-club.me
 animeland.su##.no-adb
 audio-hi-fi.ru,electro-sila.ru##.blok_new > div[style]
+delfi.ee###delfiTopBar
 electric-house.ru##.blok_forum > div[style]
 forum.qrz.ru###antiAdBlock
 nulled.cc##.adblock_floating_message
