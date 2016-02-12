@@ -1,3 +1,4 @@
+ganoderma-mushrooms.com###turn_advert
 /forum/docs/requests.js$script,domain=nnm-club.me
 animeland.su##.no-adb
 audio-hi-fi.ru,electro-sila.ru##.blok_new > div[style]
