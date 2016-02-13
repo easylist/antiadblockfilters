@@ -1,4 +1,4 @@
-ganoderma-mushrooms.com,varicream.org###turn_advert
+ganoderma-mushrooms.com,korrektor.name,varicream.org######turn_advert.adblock
 /forum/docs/requests.js$script,domain=nnm-club.me
 animeland.su##.no-adb
 audio-hi-fi.ru,electro-sila.ru##.blok_new > div[style]
