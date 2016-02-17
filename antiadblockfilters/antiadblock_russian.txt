@@ -1,19 +1,20 @@
-joyreactor.cc,reactor.cc###pageinner > #content[class]
 ganoderma-mushrooms.com,korrektor.name,varicream.org######turn_advert.adblock
-/forum/docs/requests.js$script,domain=nnm-club.me
-animeland.su##.no-adb
-audio-hi-fi.ru,electro-sila.ru##.blok_new > div[style]
-delfi.ee###delfiTopBar
-electric-house.ru##.blok_forum > div[style]
 forum.qrz.ru###antiAdBlock
-nulled.cc##.adblock_floating_message
-numberempire.com###toplink > h3[style="color: red"]
-ph4.ru##div[style^="width: 728px; height: 90px;"]
 pic4you.ru,pic5you.ru###blocked_block
+delfi.ee###delfiTopBar
+joyreactor.cc,reactor.cc###pageinner > #content[class]
+numberempire.com###toplink > h3[style="color: red"]
+nulled.cc##.adblock_floating_message
+electric-house.ru##.blok_forum > div[style]
+audio-hi-fi.ru,electro-sila.ru##.blok_new > div[style]
+smotrisport.tv##.dont-add-our-site-pls
+animeland.su##.no-adb
 playunturned.ru##.side_left > center
 playunturned.ru##.side_right > center
 professorweb.ru#@#.text_ads
-pvcalc.ru##div[style^="position:fixed; top:0px; left:0px; opacity: 0.9;"]
-smotrisport.tv##.dont-add-our-site-pls
+/forum/docs/requests.js$script,domain=nnm-club.me
+joyreactor.cc,reactor.cc##:not(#content) + #sidebar
 @@||sports.ru^*/adfox.$xmlhttprequest
+pvcalc.ru##div[style^="position:fixed; top:0px; left:0px; opacity: 0.9;"]
+ph4.ru##div[style^="width: 728px; height: 90px;"]
 ||animeteatr.ru/a-detector/
