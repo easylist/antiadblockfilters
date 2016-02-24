@@ -1,3 +1,4 @@
+pythonworld.ru##.pythonworld-contributor.warning
 ganoderma-mushrooms.com,korrektor.name,varicream.org######turn_advert.adblock
 forum.qrz.ru###antiAdBlock
 pic4you.ru,pic5you.ru###blocked_block
