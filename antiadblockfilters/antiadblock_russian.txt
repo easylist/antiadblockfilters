@@ -1,3 +1,4 @@
+geektimes.ru,habrahabr.ru,megamozg.ru##.dont-add-our-site-pls
 pythonworld.ru##.pythonworld-contributor.warning
 ganoderma-mushrooms.com,korrektor.name,varicream.org######turn_advert.adblock
 forum.qrz.ru###antiAdBlock
