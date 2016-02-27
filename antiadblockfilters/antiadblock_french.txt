@@ -3,6 +3,7 @@ hommedumatch.fr#@##adsense
 gamingroom.tv###message_adblock
 iphonesoft.fr,iphonetweak.fr###msgNoPub
 ###pub-haut-adblock
+lepoint.fr##.ban-1000x90 + DIV
 @@||cyberdean.fr/js/advertisement.js
 @@||jeuxvideo-live.com/js/ads.js
 @@||lecrabeinfo.net^$elemhide
