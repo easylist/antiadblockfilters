@@ -1,5 +1,3 @@
-geektimes.ru,habrahabr.ru,megamozg.ru##.dont-add-our-site-pls
-pythonworld.ru##.pythonworld-contributor.warning
 forum.qrz.ru###antiAdBlock
 pic4you.ru,pic5you.ru###blocked_block
 joyreactor.cc,pornreactor.cc,reactor.cc###content[class] + #sidebar
@@ -12,6 +10,7 @@ electric-house.ru##.blok_forum > div[style]
 audio-hi-fi.ru,electro-sila.ru##.blok_new > div[style]
 smotrisport.tv##.dont-add-our-site-pls
 animeland.su##.no-adb
+pythonworld.ru##.pythonworld-contributor.warning
 playunturned.ru##.side_left > center
 playunturned.ru##.side_right > center
 professorweb.ru#@#.text_ads
