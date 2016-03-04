@@ -1,3 +1,4 @@
+professorweb.ru###submain > div[class^="a"][style]
 forum.qrz.ru###antiAdBlock
 pic4you.ru,pic5you.ru###blocked_block
 joyreactor.cc,pornreactor.cc,reactor.cc###content[class] + #sidebar
@@ -13,7 +14,6 @@ animeland.su##.no-adb
 pythonworld.ru##.pythonworld-contributor.warning
 playunturned.ru##.side_left > center
 playunturned.ru##.side_right > center
-professorweb.ru#@#.text_ads
 /forum/docs/requests.js$script,domain=nnm-club.me
 joyreactor.cc,pornreactor.cc,reactor.cc##:not(#content) + #sidebar
 @@||sports.ru^*/adfox.$xmlhttprequest
