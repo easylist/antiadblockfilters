@@ -1,5 +1,6 @@
 ###adblock-msg
 hommedumatch.fr#@##adsense
+phonandroid.com##.adb-enabled
 gamingroom.tv###message_adblock
 iphonesoft.fr,iphonetweak.fr###msgNoPub
 ###pub-haut-adblock
