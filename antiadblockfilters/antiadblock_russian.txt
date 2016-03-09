@@ -1,9 +1,7 @@
 professorweb.ru###submain > div[class^="a"][style]
 forum.qrz.ru###antiAdBlock
 pic4you.ru,pic5you.ru###blocked_block
-joyreactor.cc,pornreactor.cc,reactor.cc###content[class] + #sidebar
 delfi.ee###delfiTopBar
-joyreactor.cc,pornreactor.cc,reactor.cc###pageinner > #content[class]
 numberempire.com###toplink > h3[style="color: red"]
 ganoderma-mushrooms.com,korrektor.name,varicream.org###turn_advert.adblock
 nulled.cc##.adblock_floating_message
@@ -15,7 +13,6 @@ pythonworld.ru##.pythonworld-contributor.warning
 playunturned.ru##.side_left > center
 playunturned.ru##.side_right > center
 /forum/docs/requests.js$script,domain=nnm-club.me
-joyreactor.cc,pornreactor.cc,reactor.cc##:not(#content) + #sidebar
 @@||sports.ru^*/adfox.$xmlhttprequest
 pvcalc.ru##div[style^="position:fixed; top:0px; left:0px; opacity: 0.9;"]
 ph4.ru##div[style^="width: 728px; height: 90px;"]
