@@ -11,6 +11,7 @@ lepoint.fr##.ban-1000x90 + DIV
 @@||lecrabeinfo.net^$elemhide
 @@||malekal.com/js/ads.js
 @@||numerama.com/ads.js
+@@||frandroid.com/ads.js
 @@||universfreebox.com/js/advertisement.js
 @@||macg.co/js/audentio/funbox/advertisement.js
 ||donnons.org/libs/js/gestionAP.js
