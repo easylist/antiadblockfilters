@@ -1,3 +1,4 @@
+ixbt.com##.b-blockadblock
 professorweb.ru###submain > div[class^="a"][style]
 forum.qrz.ru###antiAdBlock
 pic4you.ru,pic5you.ru###blocked_block
