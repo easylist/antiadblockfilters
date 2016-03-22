@@ -1,3 +1,5 @@
+cc-fan.ru##.adb
+cn-fan.ru##.adb
 fox-fan.ru##.adb
 ixbt.com##.b-blockadblock
 professorweb.ru###submain > div[class^="a"][style]
