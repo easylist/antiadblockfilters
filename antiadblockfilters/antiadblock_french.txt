@@ -8,6 +8,7 @@ iphonesoft.fr,iphonetweak.fr###msgNoPub
 lepoint.fr##.ban-1000x90 + DIV
 @@||cyberdean.fr/js/advertisement.js
 @@||forums.macg.co/js/audentio/funbox/advertisement.js
+@@||wamiz.com/css/ads.css
 @@||jeuxvideo-live.com/js/ads.js
 @@||lecrabeinfo.net^$elemhide
 @@||malekal.com/js/ads.js
