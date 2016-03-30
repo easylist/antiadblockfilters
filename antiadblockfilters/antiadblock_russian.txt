@@ -15,7 +15,7 @@ animeland.su##.no-adb
 pythonworld.ru##.pythonworld-contributor.warning
 playunturned.ru##.side_left > center
 playunturned.ru##.side_right > center
-/forum/docs/requests.js$script,domain=nnm-club.me|nnmclub.to
+/forum/docs/requests.js$script,domain=dsenxis5txr4zbxe.onion|nnm-club.me|nnmclub.to
 @@||sports.ru^*/adfox.$xmlhttprequest
 pvcalc.ru##div[style^="position:fixed; top:0px; left:0px; opacity: 0.9;"]
 ph4.ru##div[style^="width: 728px; height: 90px;"]
