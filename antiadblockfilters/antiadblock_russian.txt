@@ -1,3 +1,4 @@
+animeland.su,itcats.ru##.no-adb
 rusopen.com##.classblsi.addshr
 ria.ru##.antiblock
 cc-fan.ru,cn-fan.ru,fox-fan.ru##.adb
@@ -12,7 +13,6 @@ nulled.cc##.adblock_floating_message
 electric-house.ru##.blok_forum > div[style]
 audio-hi-fi.ru,electro-sila.ru##.blok_new > div[style]
 smotrisport.tv##.dont-add-our-site-pls
-animeland.su##.no-adb
 pythonworld.ru##.pythonworld-contributor.warning
 playunturned.ru##.side_left > center
 playunturned.ru##.side_right > center
