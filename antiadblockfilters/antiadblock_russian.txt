@@ -1,5 +1,5 @@
+eurabota.com##.abtop
 kubik3.ru##.adbs
-||rusnext.ru/advar.js$script
 animeland.su,itcats.ru##.no-adb
 rusopen.com##.classblsi.addshr
 ria.ru##.antiblock
@@ -23,3 +23,4 @@ playunturned.ru##.side_right > center
 pvcalc.ru##div[style^="position:fixed; top:0px; left:0px; opacity: 0.9;"]
 ph4.ru##div[style^="width: 728px; height: 90px;"]
 ||animeteatr.ru/a-detector/
+||rusnext.ru/advar.js$script
