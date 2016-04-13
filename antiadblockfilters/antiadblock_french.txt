@@ -6,6 +6,7 @@ gamingroom.tv###message_adblock
 iphonesoft.fr,iphonetweak.fr###msgNoPub
 ###pub-haut-adblock
 lepoint.fr##.ban-1000x90 + DIV
+@@/adblock.js$script,~third-party,domain=jdubuzz.com|journaldugamer.com|journaldugeek.com|manga-news.com|pixelistes.com
 @@||cyberdean.fr/js/advertisement.js
 @@||forums.macg.co/js/audentio/funbox/advertisement.js
 @@||wamiz.com/css/ads.css
