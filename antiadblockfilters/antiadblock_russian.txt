@@ -1,3 +1,4 @@
+ph4.ru##body > table[width="728"][height="90"]
 eurabota.com##.abtop
 kubik3.ru##.adbs
 animeland.su,itcats.ru##.no-adb
