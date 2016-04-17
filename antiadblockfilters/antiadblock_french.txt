@@ -1,5 +1,4 @@
 ###adblock-msg
-bedetheque.com,bdgest.com##.banniere-top
 hommedumatch.fr#@##adsense
 phonandroid.com##.adb-enabled
 gamingroom.tv###message_adblock
