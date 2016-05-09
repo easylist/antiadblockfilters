@@ -3,6 +3,9 @@
 /antiadblockmsg.
 /simple-adblock-notice/*
 /wp-content/uploads/an-temp/*$script,stylesheet
+||bdgest.com/js/site.js?
+||nikopik.com/wp-content/themes/*/js/nikopik.js
+||skyrock.net/img/*/adblock/
 @@||ausujet.com/skins/common/ads.js
 @@||configspc.com/templates/ja_purity_ii/css/ads.css
 @@||cyberdean.fr/js/advertisement.js
@@ -32,6 +35,7 @@
 @@||static.koreus.com/js/advert.js
 @@||universfreebox.com/js/advertisement.js
 @@||wamiz.com/css/ads.css
+@@||zagaz.com/img/blogads.css
 ###adb-actived
 ###adb-enabled
 ###adb-enabled3
@@ -59,8 +63,6 @@
 ##.counterAdblocks
 ##.noadblock
 #@##adblocktest
-abcbourse.com#@#.adsbox
-bedetheque.com##.container > div:first-child
 bricozone.fr#@#.adsbygoogle
 comptoir-hardware.com,dealerdunet.fr#@#.text_ads
 comptoir-info.com#@#.textad
@@ -69,8 +71,12 @@ debrideurstream.fr#@##pubdirecte
 dz-android.com,freeiphone.fr,jetetroll.com,hommedumatch.fr,testious.com#@##adsense
 fairytailmx.com#@##sponsored-ad
 forum.virtualdjing.com#@#.adFrame
-forumdz.com##body .breadcrumb + center > [color="red"] > b
 iphonesoft.fr,iphonetweak.fr###msgNoPub
 iwin.com#@##sponsorText
 ot-boutique.fr#@##publicite
+bedetheque.com##.container > div:first-child
+forumdz.com##body .breadcrumb + center > [color="red"] > b
+retinaboys.com###screen_block
 pcastuces.com##div[style="display: block; min-height: 120px; background-color: rgb(255, 239, 156); border-top: 3px solid rgb(255, 205, 48); padding: 10px 15px; text-align: left; font-size: 1.2em;"]
+vide-greniers.org##[href="/explications-publicite"]
+venez.fr###dv_warn_block
