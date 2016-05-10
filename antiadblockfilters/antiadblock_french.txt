@@ -25,6 +25,7 @@
 @@||jeuxvideo-live.com/js/ads.js
 @@||ktu.sv2.biz/sv3/advertisement.js
 @@||larvf.com/js/ads.js
+@@||lepoint.fr/*ad$script
 @@||macg.co/js/audentio/funbox/advertisement.js
 @@||malekal.com/js/ads.js
 @@||mymanga.io/css/advertise.css
