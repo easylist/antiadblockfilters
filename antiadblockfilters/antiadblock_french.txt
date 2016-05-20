@@ -43,6 +43,7 @@
 ###adblock-msg
 ###adblock-overlay
 ###adblockDetect
+###adBlockDetect
 ###adblocker_message
 ###advertisementjsalert
 ###anti_adblock
