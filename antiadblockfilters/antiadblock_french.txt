@@ -25,7 +25,6 @@
 @@||jeuxvideo-live.com/js/ads.js
 @@||ktu.sv2.biz/sv3/advertisement.js
 @@||larvf.com/js/ads.js
-@@||lepoint.fr/*ad$script
 @@||macg.co/js/audentio/funbox/advertisement.js
 @@||malekal.com/js/ads.js
 @@||mymanga.io/css/advertise.css
@@ -78,6 +77,7 @@ iwin.com#@##sponsorText
 ot-boutique.fr#@##publicite
 bedetheque.com##.container > div:first-child
 forumdz.com##body .breadcrumb + center > [color="red"] > b
+lepoint.fr##ARTICLE[style^="max-width:1000px;margin:auto; border:5px solid #ac0000;"]
 radiox.com##.notifyjs-corner
 retinaboys.com###screen_block
 pcastuces.com##div[style="display: block; min-height: 120px; background-color: rgb(255, 239, 156); border-top: 3px solid rgb(255, 205, 48); padding: 10px 15px; text-align: left; font-size: 1.2em;"]
