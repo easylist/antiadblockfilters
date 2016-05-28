@@ -1,3 +1,4 @@
+happy-hack.ru###admitad-cookie-check-popup
 elhow.ru###b-info-wrapper
 ph4.ru##body > table[width="728"][height="90"]
 eurabota.com##.abtop
