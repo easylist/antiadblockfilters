@@ -41,6 +41,7 @@
 ###adb-enabled
 ###adb-enabled3
 ###adblock-msg
+###AdBlockDialog
 ###adblock-overlay
 ###adblockDetect
 ###adBlockDetect
