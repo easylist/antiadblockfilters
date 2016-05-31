@@ -1,3 +1,4 @@
+pb.wtf,piratbit.org,piratbit.ru###result > .request
 tut.by##body > div[style^="background-color"]
 tut.by##body > div[style^="box-sizing: border-box"]
 happy-hack.ru###admitad-cookie-check-popup
