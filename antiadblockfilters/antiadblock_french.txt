@@ -66,7 +66,7 @@
 ##.noadblock
 #@##adblocktest
 bricozone.fr#@#.adsbygoogle
-comptoir-hardware.com,dealerdunet.fr#@#.text_ads
+comptoir-hardware.com,dealerdunet.fr,malekal.com#@#.text_ads
 comptoir-info.com#@#.textad
 dbz-fantasy.com#@##adTeaser
 debrideurstream.fr#@##pubdirecte
