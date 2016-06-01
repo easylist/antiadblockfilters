@@ -6,6 +6,7 @@
 ||bdgest.com/js/site.js?
 ||nikopik.com/wp-content/themes/*/js/nikopik.js
 ||skyrock.net/img/*/adblock/
+@@/noadblock-nice-message/assets/js/ads.js?$script,~third-party
 @@||ausujet.com/skins/common/ads.js
 @@||configspc.com/templates/ja_purity_ii/css/ads.css
 @@||cyberdean.fr/js/advertisement.js
