@@ -1,3 +1,5 @@
+technologypep.com##.main-container-wrap > div[id][class][style*="opacity"]
+technologypep.com##.main-container-wrap > div[class$="-bg"]
 flightradar24.com###bottomRightPanel
 videofun.me###flowplayer > div[class][style]:first-child
 yocast.tv###ra9e
