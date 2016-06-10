@@ -19,7 +19,7 @@
 @@||gamingroom.tv/static/img/advert.png?
 @@||grattable.com/blogads.css
 @@||hdnumerique.com/tpl/jscript/advert.js
-@@||hitek.fr/ads.js
+@@||hitek.fr/ad$script
 @@||item-voyage.fr/ads.css
 @@||jeux-geographiques.com/js/adblock_detector.js
 @@||jeuxvideo-live.com/js/ads.js
@@ -75,6 +75,7 @@ debrideurstream.fr#@##pubdirecte
 dz-android.com,freeiphone.fr,jetetroll.com,hommedumatch.fr,testious.com#@##adsense
 fairytailmx.com#@##sponsored-ad
 forum.virtualdjing.com#@#.adFrame
+hitek.fr##A[href^="http://box."]
 iphonesoft.fr,iphonetweak.fr###msgNoPub
 iwin.com#@##sponsorText
 ot-boutique.fr#@##publicite
