@@ -2,6 +2,7 @@
 /adblocker_message_
 /antiadblockmsg.
 /simple-adblock-notice/*
+/wp-content/plugins/ad-block-defender/*
 /wp-content/uploads/an-temp/*$script,stylesheet
 ||bdgest.com/js/site.js?
 ||nikopik.com/wp-content/themes/*/js/nikopik.js
