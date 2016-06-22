@@ -85,6 +85,7 @@ forumdz.com##body .breadcrumb + center > [color="red"] > b
 lepoint.fr##HEADER > DIV > A[target="_blank"]
 radiox.com##.notifyjs-corner
 retinaboys.com###screen_block
+streamwatching.fr###adblockplus
 pcastuces.com##div[style="display: block; min-height: 120px; background-color: rgb(255, 239, 156); border-top: 3px solid rgb(255, 205, 48); padding: 10px 15px; text-align: left; font-size: 1.2em;"]
 vide-greniers.org##[href="/explications-publicite"]
 venez.fr###dv_warn_block
