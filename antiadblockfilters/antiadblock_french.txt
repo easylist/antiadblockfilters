@@ -1,7 +1,9 @@
+/adblock_notify.js
 /adblock-notify-by-bweb/*
 /adblocker_message_
 /antiadblockmsg.
 /simple-adblock-notice/*
+/adblock_gate/images/animated.gif?
 /wp-content/plugins/ad-block-defender/*
 /wp-content/uploads/an-temp/*$script,stylesheet
 ||bdgest.com/js/site.js?
