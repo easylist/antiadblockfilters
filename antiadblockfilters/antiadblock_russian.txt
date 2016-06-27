@@ -1,3 +1,4 @@
+delfi.lv##.notification-widget.vajadzeturealistiskiietekmes
 delfi.lv##.fairPlay.notification-widget
 pb.wtf,piratbit.org,piratbit.ru###result > .request
 tut.by##body > div[style^="background-color"]
