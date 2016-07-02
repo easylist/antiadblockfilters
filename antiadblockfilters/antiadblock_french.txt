@@ -40,6 +40,7 @@
 @@||static.koreus.com/js/advert.js
 @@||trackr.fr/sites/all/themes/contrib/touch/js/miroirs/adwordstracking.js
 @@||universfreebox.com/js/advertisement.js
+@@||uplea.com/js/advertisement.js
 @@||wamiz.com/css/ads.css
 @@||zagaz.com/img/blogads.css
 ###adb-actived
