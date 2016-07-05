@@ -1,5 +1,4 @@
-delfi.lv##.notification-widget.vajadzeturealistiskiietekmes
-delfi.lv##.fairPlay.notification-widget
+delfi.lv##.notification-widget
 pb.wtf,piratbit.org,piratbit.ru###result > .request
 tut.by##body > div[style^="background-color"]
 tut.by##body > div[style^="box-sizing: border-box"]
