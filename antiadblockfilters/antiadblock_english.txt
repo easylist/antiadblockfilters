@@ -1,9 +1,8 @@
-technologypep.com##.main-container-wrap > div[id][class][style*="opacity"]
-technologypep.com##.main-container-wrap > div[class$="-bg"]
 flightradar24.com###bottomRightPanel
 videofun.me###flowplayer > div[class][style]:first-child
 yocast.tv###ra9e
 flightradar24.com###responsiveBottomPanel
+##.ad-blocker-warning
 biggestplayer.me##.adblock + *
 hearthhead.com,wowhead.com##.block-bg
 wowhead.com##.block-bgimg
@@ -12,12 +11,15 @@ theatlantic.com##.blocker-message > .blackbox + .disable
 euroiphone.eu##.div-download-h
 euroiphone.eu##.div-download-v
 findretros.com##.fuck-adblock
+technologypep.com##.main-container-wrap > div[class$="-bg"]
+technologypep.com##.main-container-wrap > div[id][class][style*="opacity"]
 biggestplayer.me##.masr
 videobug.net,videofun.me,vidzur.com##.randid
 toolslib.net##.row > .col-md-7 > .panel-default
 hearthhead.com,thottbot.com,wowhead.com##.sidebar-bg
 biggestplayer.me##.soret
 /adblock-alerter/js/adblock_alerter.js
+/adblock-img.
 play44.net,videobug.net,videofun.me,vidzur.com,yucache.net##[style^="position: absolute; width: 100%;"]
 strikeout.co,vipbox.sx,vipleague.co,vipleague.is##div[style="display: block;"]
 nexusmods.com##div[style="float: left; width: 728px; height: 90px; background: #313131;"]

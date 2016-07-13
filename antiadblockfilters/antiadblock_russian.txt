@@ -1,32 +1,32 @@
-delfi.lv##.notification-widget
-pb.wtf,piratbit.org,piratbit.ru###result > .request
-tut.by##body > div[style^="background-color"]
-tut.by##body > div[style^="box-sizing: border-box"]
 happy-hack.ru###admitad-cookie-check-popup
-elhow.ru###b-info-wrapper
-ph4.ru##body > table[width="728"][height="90"]
-eurabota.com##.abtop
-kubik3.ru##.adbs
-animeland.su,itcats.ru##.no-adb
-rusopen.com##.classblsi.addshr
-ria.ru##.antiblock
-cc-fan.ru,cn-fan.ru,fox-fan.ru##.adb
-ixbt.com##.b-blockadblock
-professorweb.ru###submain > div[class^="a"][style]
 forum.qrz.ru###antiAdBlock
+elhow.ru###b-info-wrapper
 pic4you.ru,pic5you.ru###blocked_block
 delfi.ee###delfiTopBar
+pb.wtf,piratbit.org,piratbit.ru###result > .request
+professorweb.ru###submain > div[class^="a"][style]
 numberempire.com###toplink > h3[style="color: red"]
 ganoderma-mushrooms.com,korrektor.name,varicream.org###turn_advert.adblock
+eurabota.com##.abtop
+cc-fan.ru,cn-fan.ru,fox-fan.ru##.adb
 nulled.cc##.adblock_floating_message
+kubik3.ru##.adbs
+ria.ru##.antiblock
+ixbt.com##.b-blockadblock
 electric-house.ru##.blok_forum > div[style]
 audio-hi-fi.ru,electro-sila.ru##.blok_new > div[style]
+rusopen.com##.classblsi.addshr
 smotrisport.tv##.dont-add-our-site-pls
+animeland.su,itcats.ru##.no-adb
+delfi.lv##.notification-widget
 pythonworld.ru##.pythonworld-contributor.warning
 playunturned.ru##.side_left > center
 playunturned.ru##.side_right > center
 /forum/docs/requests.js$script,domain=dsenxis5txr4zbxe.onion|nnm-club.me|nnmclub.to
 @@||sports.ru^*/adfox.$xmlhttprequest
+tut.by##body > div[style^="background-color"]
+tut.by##body > div[style^="box-sizing: border-box"]
+ph4.ru##body > table[width="728"][height="90"]
 pvcalc.ru##div[style^="position:fixed; top:0px; left:0px; opacity: 0.9;"]
 ph4.ru##div[style^="width: 728px; height: 90px;"]
 ||animeteatr.ru/a-detector/
