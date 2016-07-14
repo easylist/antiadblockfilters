@@ -21,6 +21,7 @@
 @@||dbz-fantasy.com/ads.css
 @@||dev-dyod.fr/styles/ads.css
 @@||forums.macg.co/js/audentio/funbox/advertisement.js
+@@||france.carbu.com/templates/media/js/ads.js$script
 @@||frandroid.com/ads.js
 @@||fusacq.com/javascript/ads.js
 @@||gameblog.fr/scripts/adframe.js
@@ -62,6 +63,7 @@
 ###message_adblock
 ###pub-haut-adblock
 ##.ad-block-enabled
+##.ad-blocker-warning
 ##.ad-blocking-advisor-wrapper
 ##.adb-enabled
 ##.adbd-background
@@ -69,6 +71,7 @@
 ##.adbd-wrapper
 ##.adblock_detector
 ##.adblock_floating_message
+##.adBlockDetectedSign
 ##.AdblockMessage
 ##.AdblockMessage_msg
 ##.adBlockNotification
