@@ -9,6 +9,7 @@ numberempire.com###toplink > h3[style="color: red"]
 ganoderma-mushrooms.com,korrektor.name,varicream.org###turn_advert.adblock
 eurabota.com##.abtop
 cc-fan.ru,cn-fan.ru,fox-fan.ru##.adb
+vsadu.ru##.adb-block
 nulled.cc##.adblock_floating_message
 kubik3.ru##.adbs
 ria.ru##.antiblock
