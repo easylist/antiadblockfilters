@@ -25,8 +25,7 @@ playunturned.ru##.side_left > center
 playunturned.ru##.side_right > center
 /forum/docs/requests.js$script,domain=dsenxis5txr4zbxe.onion|nnm-club.me|nnmclub.to
 @@||sports.ru^*/adfox.$xmlhttprequest
-tut.by##body > div[style^="background-color"]
-tut.by##body > div[style^="box-sizing: border-box"]
+tut.by##body > div[style*="position: fixed;"][style*="right: 0;"]
 ph4.ru##body > table[width="728"][height="90"]
 pvcalc.ru##div[style^="position:fixed; top:0px; left:0px; opacity: 0.9;"]
 ph4.ru##div[style^="width: 728px; height: 90px;"]
