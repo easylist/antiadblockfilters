@@ -23,7 +23,7 @@ delfi.lv##.notification-widget
 pythonworld.ru##.pythonworld-contributor.warning
 playunturned.ru##.side_left > center
 playunturned.ru##.side_right > center
-/forum/docs/requests.js$script,domain=dsenxis5txr4zbxe.onion|nnm-club.me|nnmclub.to
+/forum/docs/requests.js$script,domain=dsenxis5txr4zbxe.onion|nnm-club.me|nnm-club.to|nnmclub.to
 @@||sports.ru^*/adfox.$xmlhttprequest
 tut.by##body > div[style*="position: fixed;"][style*="right: 0;"]
 ph4.ru##body > table[width="728"][height="90"]
