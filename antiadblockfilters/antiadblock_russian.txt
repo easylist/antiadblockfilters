@@ -10,6 +10,7 @@ ganoderma-mushrooms.com,korrektor.name,varicream.org###turn_advert.adblock
 eurabota.com##.abtop
 cc-fan.ru,cn-fan.ru,fox-fan.ru##.adb
 vsadu.ru##.adb-block
+life.ru##.adblock
 nulled.cc##.adblock_floating_message
 kubik3.ru##.adbs
 ria.ru##.antiblock
