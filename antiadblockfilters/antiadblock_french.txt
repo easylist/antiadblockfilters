@@ -38,6 +38,7 @@
 @@||malekal.com/js/ads.js
 @@||mymanga.io/css/advertise.css
 @@||numerama.com/ads.js
+@@||pagerank.fr/js*/advert.js?$script
 @@||penducado.com/styles/ads.css
 @@||ps3-infos.fr/adsense/openads/ads/ads.js
 @@||ptitchef.com/js/ads.js
