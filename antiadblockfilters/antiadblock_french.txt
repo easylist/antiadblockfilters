@@ -82,6 +82,7 @@
 ##.noadblock
 !
 bedetheque.com##.container > div:first-child
+doodle.com##.doodlead
 forumdz.com##body .breadcrumb + center > [color="red"] > b
 hitek.fr##A[href*="http://box."]
 iphonesoft.fr,iphonetweak.fr###msgNoPub
