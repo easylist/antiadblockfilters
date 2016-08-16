@@ -1,3 +1,4 @@
+music.yandex.ru,radio.yandex.ru##.page-root > .notify
 happy-hack.ru###admitad-cookie-check-popup
 wotactions.com###ads_warning
 forum.qrz.ru###antiAdBlock
