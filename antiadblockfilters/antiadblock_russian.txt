@@ -1,4 +1,3 @@
-music.yandex.ru,radio.yandex.ru##.page-root > .notify
 happy-hack.ru###admitad-cookie-check-popup
 wotactions.com###ads_warning
 forum.qrz.ru###antiAdBlock
@@ -23,6 +22,7 @@ rusopen.com##.classblsi.addshr
 smotrisport.tv##.dont-add-our-site-pls
 animeland.su,itcats.ru##.no-adb
 delfi.lv##.notification-widget
+music.yandex.by,music.yandex.kz,music.yandex.ru,music.yandex.ua,radio.yandex.by,radio.yandex.kz,radio.yandex.ru,radio.yandex.ua##.page-root > .notify
 pythonworld.ru##.pythonworld-contributor.warning
 playunturned.ru##.side_left > center
 playunturned.ru##.side_right > center
