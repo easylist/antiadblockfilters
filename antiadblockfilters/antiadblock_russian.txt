@@ -21,7 +21,7 @@ ixbt.com##.b-blockadblock
 electric-house.ru##.blok_forum > div[style]
 audio-hi-fi.ru,electro-sila.ru##.blok_new > div[style]
 rusopen.com##.classblsi.addshr
-smotrisport.tv##.dont-add-our-site-pls
+smotrisport.online,smotrisport.tv##.dont-add-our-site-pls
 animeland.su,itcats.ru##.no-adb
 delfi.lv##.notification-widget
 music.yandex.by,music.yandex.kz,music.yandex.ru,music.yandex.ua,radio.yandex.by,radio.yandex.kz,radio.yandex.ru,radio.yandex.ua##.page-root > .notify
