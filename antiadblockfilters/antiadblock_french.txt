@@ -82,6 +82,7 @@
 ##.adBlockNotificationOverlay
 ##.counterAdblocks
 ##.noadblock
+##.top-bar-adblock
 !
 bedetheque.com##.container > div:first-child
 doodle.com##.doodlead
