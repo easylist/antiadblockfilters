@@ -12,7 +12,7 @@ kaermorhen.ru###top-ban-container
 numberempire.com###toplink > h3[style="color: red"]
 ganoderma-mushrooms.com,korrektor.name,varicream.org###turn_advert.adblock
 eurabota.com##.abtop
-cc-fan.ru,cn-fan.ru,fox-fan.ru##.adb
+cc-fan.ru,cn-fan.ru,fox-fan.ru,satsis.info##.adb
 vsadu.ru##.adb-block
 life.ru##.adblock
 nulled.cc##.adblock_floating_message
