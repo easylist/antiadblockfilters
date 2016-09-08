@@ -1,6 +1,5 @@
 24video.xxx##.adt
 fanfics.me##.red.nodata
-joyreactor.cc,pornreactor.cc,reactor.cc###pageinner > div[class][style^="background-color"]
 happy-hack.ru###admitad-cookie-check-popup
 wotactions.com###ads_warning
 cxem.net,forum.qrz.ru###antiAdBlock
