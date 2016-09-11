@@ -37,7 +37,6 @@
 @@||larvf.com/js/ads.js
 @@||macg.co/js/audentio/funbox/advertisement.js
 @@||malekal.com/js/ads.js
-@@||mymanga.io/css/advertise.css
 @@||numerama.com/ads.js
 @@||pagerank.fr/js*/advert.js?$script
 @@||penducado.com/styles/ads.css
