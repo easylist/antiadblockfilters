@@ -1,9 +1,7 @@
-firebit.net###adv-300 + div[class][align="center"][style^="background-color"]
 webdesign-master.ru###adbd
-24video.xxx##.adt
-fanfics.me##.red.nodata
 happy-hack.ru###admitad-cookie-check-popup
 wotactions.com###ads_warning
+firebit.net###adv-300 + div[class][align="center"][style^="background-color"]
 cxem.net,forum.qrz.ru###antiAdBlock
 elhow.ru###b-info-wrapper
 pic4you.ru,pic5you.ru###blocked_block
@@ -19,6 +17,7 @@ vsadu.ru##.adb-block
 life.ru##.adblock
 nulled.cc##.adblock_floating_message
 kubik3.ru##.adbs
+24video.xxx##.adt
 ria.ru##.antiblock
 ixbt.com##.b-blockadblock
 electric-house.ru##.blok_forum > div[style]
@@ -28,15 +27,17 @@ smotrisport.online,smotrisport.tv##.dont-add-our-site-pls
 animeland.su,itcats.ru##.no-adb
 delfi.lv##.notification-widget
 music.yandex.by,music.yandex.kz,music.yandex.ru,music.yandex.ua,radio.yandex.by,radio.yandex.kz,radio.yandex.ru,radio.yandex.ua##.page-root > .notify
+music.yandex.by,music.yandex.kz,music.yandex.ru,music.yandex.ua,radio.yandex.by,radio.yandex.kz,radio.yandex.ru,radio.yandex.ua##.page-root > .notify *
 pythonworld.ru##.pythonworld-contributor.warning
+fanfics.me##.red.nodata
 playunturned.ru##.side_left > center
 playunturned.ru##.side_right > center
 /forum/docs/requests.js$script,domain=dsenxis5txr4zbxe.onion|nnm-club.me|nnm-club.to|nnmclub.to
 /fuckadblock.js$domain=ace-stream.tv
 @@||sports.ru^*/adfox.$xmlhttprequest
 tut.by##body > div[style*="position: fixed;"][style*="right: 0;"]
-ph4.ru##table[width][height="90"][style]
 pvcalc.ru##div[style^="position:fixed; top:0px; left:0px; opacity: 0.9;"]
 ph4.ru##div[style^="width: 728px; height: 90px;"]
+ph4.ru##table[width][height="90"][style]
 ||animeteatr.ru/a-detector/
 ||rusnext.ru/advar.js$script
