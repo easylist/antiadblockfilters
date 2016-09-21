@@ -1,3 +1,4 @@
+swordmaster.org##.adb
 webdesign-master.ru###adbd
 happy-hack.ru###admitad-cookie-check-popup
 wotactions.com###ads_warning
