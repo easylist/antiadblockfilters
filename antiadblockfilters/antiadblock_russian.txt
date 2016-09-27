@@ -41,4 +41,6 @@ pvcalc.ru##div[style^="position:fixed; top:0px; left:0px; opacity: 0.9;"]
 ph4.ru##div[style^="width: 728px; height: 90px;"]
 ph4.ru##table[width][height="90"][style]
 ||animeteatr.ru/a-detector/
+||kontrolnaya-rabota.ru^*/fuckadblock.js$script
+||kontrolnaya-rabota.ru^*/toastr.$script,stylesheet
 ||rusnext.ru/advar.js$script
