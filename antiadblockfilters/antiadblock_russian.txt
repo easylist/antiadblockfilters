@@ -43,4 +43,5 @@ ph4.ru##table[width][height="90"][style]
 ||animeteatr.ru/a-detector/
 ||kontrolnaya-rabota.ru^*/fuckadblock.js$script
 ||kontrolnaya-rabota.ru^*/toastr.$script,stylesheet
+||pwnews.net/des/antiblock.js$script
 ||rusnext.ru/advar.js$script
