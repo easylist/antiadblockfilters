@@ -45,3 +45,4 @@ ph4.ru##table[width][height="90"][style]
 ||kontrolnaya-rabota.ru^*/toastr.$script,stylesheet
 ||pwnews.net/des/antiblock.js$script
 ||rusnext.ru/advar.js$script
+||adscat.ru^$third-party
