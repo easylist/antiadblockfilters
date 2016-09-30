@@ -46,3 +46,5 @@ ph4.ru##table[width][height="90"][style]
 ||pwnews.net/des/antiblock.js$script
 ||rusnext.ru/advar.js$script
 ||adscat.ru^$third-party
+||shellcat.ru^$third-party
+/api/scripts/mainjs?token$script,domain=liveresult.ru
