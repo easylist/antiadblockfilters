@@ -1,4 +1,3 @@
-swordmaster.org##.adb
 webdesign-master.ru###adbd
 happy-hack.ru###admitad-cookie-check-popup
 wotactions.com###ads_warning
@@ -13,7 +12,7 @@ kaermorhen.ru###top-ban-container
 numberempire.com###toplink > h3[style="color: red"]
 ganoderma-mushrooms.com,korrektor.name,varicream.org###turn_advert.adblock
 eurabota.com##.abtop
-cc-fan.ru,cn-fan.ru,fox-fan.ru,satsis.info##.adb
+cc-fan.ru,cn-fan.ru,fox-fan.ru,satsis.info,swordmaster.org##.adb
 vsadu.ru##.adb-block
 life.ru##.adblock
 nulled.cc##.adblock_floating_message
@@ -33,6 +32,7 @@ pythonworld.ru##.pythonworld-contributor.warning
 fanfics.me##.red.nodata
 playunturned.ru##.side_left > center
 playunturned.ru##.side_right > center
+/api/scripts/mainjs?token$script,domain=liveresult.ru
 /forum/docs/requests.js$script,domain=dsenxis5txr4zbxe.onion|nnm-club.me|nnm-club.to|nnmclub.to
 /fuckadblock.js$domain=ace-stream.tv
 @@||sports.ru^*/adfox.$xmlhttprequest
@@ -40,11 +40,10 @@ tut.by##body > div[style*="position: fixed;"][style*="right: 0;"]
 pvcalc.ru##div[style^="position:fixed; top:0px; left:0px; opacity: 0.9;"]
 ph4.ru##div[style^="width: 728px; height: 90px;"]
 ph4.ru##table[width][height="90"][style]
+||adscat.ru^$third-party
 ||animeteatr.ru/a-detector/
 ||kontrolnaya-rabota.ru^*/fuckadblock.js$script
 ||kontrolnaya-rabota.ru^*/toastr.$script,stylesheet
 ||pwnews.net/des/antiblock.js$script
 ||rusnext.ru/advar.js$script
-||adscat.ru^$third-party
 ||shellcat.ru^$third-party
-/api/scripts/mainjs?token$script,domain=liveresult.ru
