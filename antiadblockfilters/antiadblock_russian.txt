@@ -1,4 +1,4 @@
-ok.ru##.__size-payment
+ok.ru###hook_Block_PopLayer > .__size-payment
 webdesign-master.ru###adbd
 happy-hack.ru###admitad-cookie-check-popup
 wotactions.com###ads_warning
