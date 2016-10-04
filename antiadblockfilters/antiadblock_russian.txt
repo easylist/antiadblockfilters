@@ -1,4 +1,3 @@
-hosgeldi.com##.container .adsbygoogle ~ div:not([class]):not([id])
 webdesign-master.ru###adbd
 happy-hack.ru###admitad-cookie-check-popup
 wotactions.com###ads_warning
