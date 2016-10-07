@@ -1,3 +1,4 @@
+exler.ru##.adblock-pls
 gdekluet.ru##body > div[class^="stop-block"]
 webdesign-master.ru###adbd
 happy-hack.ru###admitad-cookie-check-popup
