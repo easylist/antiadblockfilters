@@ -1,3 +1,4 @@
+forum.vip-cxema.org##body > #document_modal.modal,#some_ad_block_key_popup
 exler.ru##.adblock-pls
 gdekluet.ru##body > div[class^="stop-block"]
 webdesign-master.ru###adbd
