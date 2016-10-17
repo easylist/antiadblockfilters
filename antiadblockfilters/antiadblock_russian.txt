@@ -29,8 +29,10 @@ rusopen.com##.classblsi.addshr
 smotrisport.online,smotrisport.tv##.dont-add-our-site-pls
 animeland.su,itcats.ru,sharkgame.ru##.no-adb
 delfi.lv##.notification-widget
-music.yandex.by,music.yandex.kz,music.yandex.ru,music.yandex.ua,radio.yandex.by,radio.yandex.kz,radio.yandex.ru,radio.yandex.ua##.page-root > .notify
-music.yandex.by,music.yandex.kz,music.yandex.ru,music.yandex.ua,radio.yandex.by,radio.yandex.kz,radio.yandex.ru,radio.yandex.ua##.page-root > .notify *
+music.yandex.by,music.yandex.kz,music.yandex.ru,music.yandex.ua##.page-root > .notify
+music.yandex.by,music.yandex.kz,music.yandex.ru,music.yandex.ua##.page-root > .notify *
+radio.yandex.by,radio.yandex.kz,radio.yandex.ru,radio.yandex.ua##.page-root .notify
+radio.yandex.by,radio.yandex.kz,radio.yandex.ru,radio.yandex.ua##.page-root .notify *
 pythonworld.ru##.pythonworld-contributor.warning
 fanfics.me##.red.nodata
 playunturned.ru##.side_left > center
