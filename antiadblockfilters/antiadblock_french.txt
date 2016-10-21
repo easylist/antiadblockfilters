@@ -1,6 +1,7 @@
 !
 /adblock-notice-
 /adblock-notify-by-bweb/*
+/adblock-warning-teaser/*
 /adblock_gate/images/animated.gif?
 /adblock_notify.js
 /adblocker_message_
@@ -54,6 +55,7 @@
 ###adb-enabled3
 ###adblock-msg
 ###adblock-overlay
+###adblock_detected
 ###adBlockDetect
 ###adblockDetect
 ###AdBlockDialog
@@ -73,6 +75,7 @@
 ##.adbd-message
 ##.adbd-wrapper
 ##.adblock-modal
+##.adblock-warning-teaser
 ##.adblock_detector
 ##.adblock_floating_message
 ##.adBlockDetectedSign
@@ -103,7 +106,7 @@ vide-greniers.org##[href="/explications-publicite"]
 #@##adblocktest
 !
 bricozone.fr#@#.adsbygoogle
-comptoir-hardware.com,dealerdunet.fr,malekal.com#@#.text_ads
+dealerdunet.fr,malekal.com#@#.text_ads
 comptoir-info.com#@#.textad
 dbz-fantasy.com#@##adTeaser
 debrideurstream.fr#@##pubdirecte
