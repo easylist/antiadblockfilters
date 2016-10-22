@@ -48,6 +48,7 @@ ph4.ru##div[style^="width: 728px; height: 90px;"]
 ph4.ru##table[width][height="90"][style]
 ||adscat.ru^$third-party
 ||animeteatr.ru/a-detector/
+||fairtop.in/template/js/fdetect.js
 ||kontrolnaya-rabota.ru^*/fuckadblock.js$script
 ||kontrolnaya-rabota.ru^*/toastr.$script,stylesheet
 ||pwnews.net/des/antiblock.js$script
