@@ -1,3 +1,4 @@
+ostroh.info###modal.modal-bg
 webdesign-master.ru###adbd
 happy-hack.ru###admitad-cookie-check-popup
 wotactions.com###ads_warning
