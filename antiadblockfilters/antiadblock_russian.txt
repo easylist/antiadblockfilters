@@ -1,7 +1,3 @@
-space.utema.ru##.main-content-padding > div[class]:not([itemprop])
-forum.vip-cxema.org##body > #document_modal.modal,#some_ad_block_key_popup
-exler.ru##.adblock-pls
-gdekluet.ru##body > div[class^="stop-block"]
 webdesign-master.ru###adbd
 happy-hack.ru###admitad-cookie-check-popup
 wotactions.com###ads_warning
@@ -19,6 +15,7 @@ eurabota.com##.abtop
 cc-fan.ru,cn-fan.ru,fox-fan.ru,satsis.info,swordmaster.org##.adb
 vsadu.ru##.adb-block
 hentaiz.org,life.ru##.adblock
+exler.ru##.adblock-pls
 nulled.cc##.adblock_floating_message
 kubik3.ru##.adbs
 24video.xxx##.adt
@@ -28,12 +25,13 @@ electric-house.ru##.blok_forum > div[style]
 audio-hi-fi.ru,electro-sila.ru##.blok_new > div[style]
 rusopen.com##.classblsi.addshr
 smotrisport.online,smotrisport.tv##.dont-add-our-site-pls
+space.utema.ru##.main-content-padding > div[class]:not([itemprop])
 animeland.su,itcats.ru,sharkgame.ru##.no-adb
 delfi.lv##.notification-widget
-music.yandex.by,music.yandex.kz,music.yandex.ru,music.yandex.ua##.page-root > .notify
-music.yandex.by,music.yandex.kz,music.yandex.ru,music.yandex.ua##.page-root > .notify *
 radio.yandex.by,radio.yandex.kz,radio.yandex.ru,radio.yandex.ua##.page-root .notify
 radio.yandex.by,radio.yandex.kz,radio.yandex.ru,radio.yandex.ua##.page-root .notify *
+music.yandex.by,music.yandex.kz,music.yandex.ru,music.yandex.ua##.page-root > .notify
+music.yandex.by,music.yandex.kz,music.yandex.ru,music.yandex.ua##.page-root > .notify *
 pythonworld.ru##.pythonworld-contributor.warning
 fanfics.me##.red.nodata
 playunturned.ru##.side_left > center
@@ -42,6 +40,8 @@ playunturned.ru##.side_right > center
 /forum/docs/requests.js$script,domain=dsenxis5txr4zbxe.onion|nnm-club.me|nnm-club.to|nnmclub.to
 /fuckadblock.js$domain=ace-stream.tv
 @@||sports.ru^*/adfox.$xmlhttprequest
+forum.vip-cxema.org##body > #document_modal.modal,#some_ad_block_key_popup
+gdekluet.ru##body > div[class^="stop-block"]
 tut.by##body > div[style*="position: fixed;"][style*="right: 0;"]
 pvcalc.ru##div[style^="position:fixed; top:0px; left:0px; opacity: 0.9;"]
 ph4.ru##div[style^="width: 728px; height: 90px;"]

@@ -50,26 +50,31 @@
 @@||wamiz.com/css/ads.css
 @@||zagaz.com/img/blogads.css
 !
+###AdBlockDialog
+###adBlockDetect
 ###adb-actived
 ###adb-enabled
 ###adb-enabled3
 ###adblock-msg
 ###adblock-overlay
-###adblock_detected
-###adBlockDetect
 ###adblockDetect
-###AdBlockDialog
-###adblocker_modal_overlay
-##.adBlockWarning
+###adblock_detected
 ###adblocker_message
+###adblocker_modal_overlay
 ###advertisementjsalert
 ###anti_adblock
 ###fnAdblockingOverlay
 ###message_adblock
 ###pub-haut-adblock
+##.AdblockMessage
+##.AdblockMessage_msg
 ##.ad-block-enabled
 ##.ad-blocker-warning
 ##.ad-blocking-advisor-wrapper
+##.adBlockDetectedSign
+##.adBlockNotification
+##.adBlockNotificationOverlay
+##.adBlockWarning
 ##.adb-enabled
 ##.adbd-background
 ##.adbd-message
@@ -78,41 +83,36 @@
 ##.adblock-warning-teaser
 ##.adblock_detector
 ##.adblock_floating_message
-##.adBlockDetectedSign
-##.AdblockMessage
-##.AdblockMessage_msg
-##.adBlockNotification
-##.adBlockNotificationOverlay
 ##.counterAdblocks
 ##.kill-adblock-container
 ##.noadblock
 ##.top-bar-adblock
 !
+streamwatching.fr###adblockplus
+lachainemeteo.com###degradation
+venez.fr###dv_warn_block
+iphonesoft.fr,iphonetweak.fr###msgNoPub
+retinaboys.com###screen_block
 bedetheque.com##.container > div:first-child
 doodle.com##.doodlead
 fan-de-cinema.com##.fancybox-overlay
-forumdz.com##body .breadcrumb + center > [color="red"] > b
-hitek.fr##A[href*="http://box."]
-iphonesoft.fr,iphonetweak.fr###msgNoPub
-lachainemeteo.com###degradation
-lepoint.fr##header > div > a[target="_blank"]
-pcastuces.com##div[style="display: block; min-height: 120px; background-color: rgb(255, 239, 156); border-top: 3px solid rgb(255, 205, 48); padding: 10px 15px; text-align: left; font-size: 1.2em;"]
 radiox.com##.notifyjs-corner
-retinaboys.com###screen_block
-streamwatching.fr###adblockplus
-venez.fr###dv_warn_block
 vide-greniers.org##[href="/explications-publicite"]
+hitek.fr##a[href*="http://box."]
+forumdz.com##body .breadcrumb + center > [color="red"] > b
+pcastuces.com##div[style="display: block; min-height: 120px; background-color: rgb(255, 239, 156); border-top: 3px solid rgb(255, 205, 48); padding: 10px 15px; text-align: left; font-size: 1.2em;"]
+lepoint.fr##header > div > a[target="_blank"]
 !
 #@##adblocktest
 !
+dbz-fantasy.com#@##adTeaser
+dz-android.com,freeiphone.fr,hommedumatch.fr,jetetroll.com,testious.com#@##adsense
+debrideurstream.fr#@##pubdirecte
+ot-boutique.fr#@##publicite
+iwin.com#@##sponsorText
+fairytailmx.com#@##sponsored-ad
+forum.virtualdjing.com#@#.adFrame
 bricozone.fr#@#.adsbygoogle
 dealerdunet.fr,malekal.com#@#.text_ads
 comptoir-info.com#@#.textad
-dbz-fantasy.com#@##adTeaser
-debrideurstream.fr#@##pubdirecte
-dz-android.com,freeiphone.fr,hommedumatch.fr,jetetroll.com,testious.com#@##adsense
-fairytailmx.com#@##sponsored-ad
-forum.virtualdjing.com#@#.adFrame
-iwin.com#@##sponsorText
-ot-boutique.fr#@##publicite
 !
