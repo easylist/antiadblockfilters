@@ -1,3 +1,4 @@
+hs-manacost.ru##.td-a-rec
 info-mage.ru###helpme[style="display: block;"]
 factorio.su##body > div[id][class][style*="background"][style*="visible"]
 factorio.su##body > div[class][style*="background"][style*="display: block"]
