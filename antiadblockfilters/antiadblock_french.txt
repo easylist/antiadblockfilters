@@ -38,6 +38,7 @@
 @@||larvf.com/js/ads.js
 @@||macg.co/js/audentio/funbox/advertisement.js
 @@||malekal.com/js/ads.js
+@@||manga-news.com/js/advert.js$script
 @@||numerama.com/ads.js
 @@||pagerank.fr/js*/advert.js?$script
 @@||penducado.com/styles/ads.css
@@ -52,6 +53,7 @@
 !
 ###AdBlockDialog
 ###adBlockDetect
+###adBlockerModal
 ###adb-actived
 ###adb-enabled
 ###adb-enabled3
@@ -59,6 +61,7 @@
 ###adblock-overlay
 ###adblockDetect
 ###adblock_detected
+###adblocker_announce
 ###adblocker_message
 ###adblocker_modal_overlay
 ###advertisementjsalert
