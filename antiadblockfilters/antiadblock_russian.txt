@@ -1,3 +1,4 @@
+tuchkatv.ru##.adb_m
 hs-manacost.ru##.td-a-rec
 info-mage.ru###helpme[style="display: block;"]
 factorio.su##body > div[id][class][style*="background"][style*="visible"]
