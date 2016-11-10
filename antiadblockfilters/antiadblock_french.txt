@@ -51,6 +51,8 @@
 @@||wamiz.com/css/ads.css
 @@||zagaz.com/img/blogads.css
 !
+###adBlockAlert
+###adBlockAlertWrap
 ###AdBlockDialog
 ###adBlockDetect
 ###adBlockerModal
@@ -85,6 +87,7 @@
 ##.adblock-modal
 ##.adblock-warning-teaser
 ##.adblock_detector
+##.adblock_enabled
 ##.adblock_floating_message
 ##.counterAdblocks
 ##.kill-adblock-container
