@@ -105,7 +105,6 @@ doodle.com##.doodlead
 fan-de-cinema.com##.fancybox-overlay
 radiox.com##.notifyjs-corner
 vide-greniers.org##[href="/explications-publicite"]
-hitek.fr##a[href*="http://box."]
 forumdz.com##body .breadcrumb + center > [color="red"] > b
 pcastuces.com##div[style="display: block; min-height: 120px; background-color: rgb(255, 239, 156); border-top: 3px solid rgb(255, 205, 48); padding: 10px 15px; text-align: left; font-size: 1.2em;"]
 lepoint.fr##header > div > a[target="_blank"]
