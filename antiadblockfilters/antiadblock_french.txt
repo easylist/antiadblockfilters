@@ -94,6 +94,7 @@
 ##.noadblock
 ##.top-bar-adblock
 !
+etr.fr##.no_block
 streamwatching.fr###adblockplus
 lachainemeteo.com###degradation
 venez.fr###dv_warn_block
