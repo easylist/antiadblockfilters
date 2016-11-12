@@ -112,6 +112,7 @@ lepoint.fr##header > div > a[target="_blank"]
 !
 #@##adblocktest
 !
+abcbourse.com#@#.adsbox
 dbz-fantasy.com#@##adTeaser
 dz-android.com,freeiphone.fr,hommedumatch.fr,jetetroll.com,testious.com#@##adsense
 debrideurstream.fr#@##pubdirecte
