@@ -103,7 +103,7 @@ retinaboys.com###screen_block
 bedetheque.com##.container > div:first-child
 doodle.com##.doodlead
 fan-de-cinema.com##.fancybox-overlay
-manga-sanctuary.com##div[style^="background:#444;"]
+cine-sanctuary.com,manga-sanctuary.com##div[style^="background:#444;"]
 radiox.com##.notifyjs-corner
 vide-greniers.org##[href="/explications-publicite"]
 forumdz.com##body .breadcrumb + center > [color="red"] > b
