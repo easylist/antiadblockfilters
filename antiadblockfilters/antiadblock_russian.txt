@@ -1,3 +1,4 @@
+politonline.ru##div[data-type="anti-abp"]
 tuchkatv.ru##.adb_m
 hs-manacost.ru##.td-a-rec
 info-mage.ru###helpme[style="display: block;"]
