@@ -1,3 +1,4 @@
+ukr.net##body > .yellow-die
 politonline.ru##div[data-type="anti-abp"]
 tuchkatv.ru##.adb_m
 hs-manacost.ru##.td-a-rec
