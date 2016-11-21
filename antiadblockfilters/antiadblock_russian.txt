@@ -1,11 +1,3 @@
-ukr.net##body > .yellow-die
-politonline.ru##div[data-type="anti-abp"]
-tuchkatv.ru##.adb_m
-hs-manacost.ru##.td-a-rec
-info-mage.ru###helpme[style="display: block;"]
-factorio.su##body > div[id][class][style*="background"][style*="visible"]
-factorio.su##body > div[class][style*="background"][style*="display: block"]
-ostroh.info###modal.modal-bg
 webdesign-master.ru###adbd
 happy-hack.ru###admitad-cookie-check-popup
 wotactions.com###ads_warning
@@ -14,6 +6,8 @@ cxem.net,forum.qrz.ru###antiAdBlock
 elhow.ru###b-info-wrapper
 pic4you.ru,pic5you.ru###blocked_block
 delfi.ee###delfiTopBar
+info-mage.ru###helpme[style="display: block;"]
+ostroh.info###modal.modal-bg
 pb.wtf,piratbit.org,piratbit.ru###result > .request
 professorweb.ru###submain > div[class^="a"][style]
 kaermorhen.ru###top-ban-container
@@ -22,6 +16,7 @@ ganoderma-mushrooms.com,korrektor.name,varicream.org###turn_advert.adblock
 eurabota.com##.abtop
 cc-fan.ru,cn-fan.ru,drahelas.ru,fox-fan.ru,satsis.info,swordmaster.org##.adb
 vsadu.ru##.adb-block
+tuchkatv.ru##.adb_m
 hentaiz.org,life.ru##.adblock
 exler.ru##.adblock-pls
 nulled.cc##.adblock_floating_message
@@ -44,13 +39,18 @@ pythonworld.ru##.pythonworld-contributor.warning
 fanfics.me##.red.nodata
 playunturned.ru##.side_left > center
 playunturned.ru##.side_right > center
+hs-manacost.ru##.td-a-rec
 /api/scripts/mainjs?token$script,domain=liveresult.ru
 /forum/docs/requests.js$script,domain=dsenxis5txr4zbxe.onion|nnm-club.me|nnm-club.to|nnmclub.to
 /fuckadblock.js$domain=ace-stream.tv
 @@||sports.ru^*/adfox.$xmlhttprequest
 forum.vip-cxema.org##body > #document_modal.modal,#some_ad_block_key_popup
+ukr.net##body > .yellow-die
+factorio.su##body > div[class][style*="background"][style*="display: block"]
 gdekluet.ru##body > div[class^="stop-block"]
+factorio.su##body > div[id][class][style*="background"][style*="visible"]
 tut.by##body > div[style*="position: fixed;"][style*="right: 0;"]
+politonline.ru##div[data-type="anti-abp"]
 pvcalc.ru##div[style^="position:fixed; top:0px; left:0px; opacity: 0.9;"]
 ph4.ru##div[style^="width: 728px; height: 90px;"]
 ph4.ru##table[width][height="90"][style]

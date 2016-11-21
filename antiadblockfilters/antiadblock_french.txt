@@ -51,9 +51,9 @@
 @@||wamiz.com/css/ads.css
 @@||zagaz.com/img/blogads.css
 !
+###AdBlockDialog
 ###adBlockAlert
 ###adBlockAlertWrap
-###AdBlockDialog
 ###adBlockDetect
 ###adBlockerModal
 ###adb-actived
@@ -94,7 +94,6 @@
 ##.noadblock
 ##.top-bar-adblock
 !
-etr.fr##.no_block
 streamwatching.fr###adblockplus
 lachainemeteo.com###degradation
 venez.fr###dv_warn_block
@@ -103,16 +102,16 @@ retinaboys.com###screen_block
 bedetheque.com##.container > div:first-child
 doodle.com##.doodlead
 fan-de-cinema.com##.fancybox-overlay
-bd-sanctuary.com,cine-sanctuary.com,comics-sanctuary.com,manga-sanctuary.com##div[style^="background:#444;"]
+etr.fr##.no_block
 radiox.com##.notifyjs-corner
 vide-greniers.org##[href="/explications-publicite"]
 forumdz.com##body .breadcrumb + center > [color="red"] > b
 pcastuces.com##div[style="display: block; min-height: 120px; background-color: rgb(255, 239, 156); border-top: 3px solid rgb(255, 205, 48); padding: 10px 15px; text-align: left; font-size: 1.2em;"]
+bd-sanctuary.com,cine-sanctuary.com,comics-sanctuary.com,manga-sanctuary.com##div[style^="background:#444;"]
 lepoint.fr##header > div > a[target="_blank"]
 !
 #@##adblocktest
 !
-abcbourse.com#@#.adsbox
 dbz-fantasy.com#@##adTeaser
 dz-android.com,freeiphone.fr,hommedumatch.fr,jetetroll.com,testious.com#@##adsense
 debrideurstream.fr#@##pubdirecte
@@ -120,6 +119,7 @@ ot-boutique.fr#@##publicite
 iwin.com#@##sponsorText
 fairytailmx.com#@##sponsored-ad
 forum.virtualdjing.com#@#.adFrame
+abcbourse.com#@#.adsbox
 bricozone.fr#@#.adsbygoogle
 dealerdunet.fr,malekal.com#@#.text_ads
 comptoir-info.com#@#.textad
