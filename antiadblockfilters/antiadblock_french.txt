@@ -5,6 +5,7 @@
 /adblock_gate/images/animated.gif?
 /adblock_notify.js
 /adblocker_message_
+/AdblockMessage.
 /antiadblockmsg.
 /simple-adblock-notice/*
 /wp-content/plugins/ad-block-defender/*
