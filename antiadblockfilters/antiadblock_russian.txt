@@ -1,3 +1,4 @@
+bigpuzzle.ru##td[valign="top"][width="200px"][height="600"] > div[style]
 vesti-ukr.com###adblockpopup
 webdesign-master.ru###adbd
 happy-hack.ru###admitad-cookie-check-popup
