@@ -1,3 +1,4 @@
+swaego.ru##body > .special-message-wrapper
 bigpuzzle.ru##td[valign="top"][width="200px"][height="600"] > div[style]
 vesti-ukr.com###adblockpopup
 webdesign-master.ru###adbd
