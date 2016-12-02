@@ -1,8 +1,5 @@
-kinoafisha.info,kinoafisha.msk.ru,kinoafisha.spb.ru##.cat
-swaego.ru##body > .special-message-wrapper
-bigpuzzle.ru##td[valign="top"][width="200px"][height="600"] > div[style]
-vesti-ukr.com###adblockpopup
 webdesign-master.ru###adbd
+vesti-ukr.com###adblockpopup
 happy-hack.ru###admitad-cookie-check-popup
 wotactions.com###ads_warning
 firebit.net###adv-300 + div[class][align="center"][style^="background-color"]
@@ -18,7 +15,7 @@ kaermorhen.ru###top-ban-container
 numberempire.com###toplink > h3[style="color: red"]
 ganoderma-mushrooms.com,korrektor.name,varicream.org###turn_advert.adblock
 eurabota.com##.abtop
-cc-fan.ru,cn-fan.ru,cc-fan.tv,drahelas.ru,fox-fan.ru,satsis.info,swordmaster.org##.adb
+cc-fan.ru,cc-fan.tv,cn-fan.ru,drahelas.ru,fox-fan.ru,satsis.info,swordmaster.org##.adb
 vsadu.ru##.adb-block
 tuchkatv.ru##.adb_m
 hentaiz.org,life.ru##.adblock
@@ -30,6 +27,7 @@ ria.ru##.antiblock
 ixbt.com##.b-blockadblock
 electric-house.ru##.blok_forum > div[style]
 audio-hi-fi.ru,electro-sila.ru##.blok_new > div[style]
+kinoafisha.info##.cat
 rusopen.com##.classblsi.addshr
 smotrisport.online,smotrisport.tv##.dont-add-our-site-pls
 space.utema.ru##.main-content-padding > div[class]:not([itemprop])
@@ -49,6 +47,7 @@ hs-manacost.ru##.td-a-rec
 /fuckadblock.js$domain=ace-stream.tv
 @@||sports.ru^*/adfox.$xmlhttprequest
 forum.vip-cxema.org##body > #document_modal.modal,#some_ad_block_key_popup
+swaego.ru##body > .special-message-wrapper
 ukr.net##body > .yellow-die
 factorio.su##body > div[class][style*="background"][style*="display: block"]
 gdekluet.ru##body > div[class^="stop-block"]
@@ -58,6 +57,7 @@ politonline.ru##div[data-type="anti-abp"]
 pvcalc.ru##div[style^="position:fixed; top:0px; left:0px; opacity: 0.9;"]
 ph4.ru##div[style^="width: 728px; height: 90px;"]
 ph4.ru##table[width][height="90"][style]
+bigpuzzle.ru##td[valign="top"][width="200px"][height="600"] > div[style]
 ||adscat.ru^$third-party
 ||animeteatr.ru/a-detector/
 ||fairtop.in/template/js/fdetect.js
