@@ -44,6 +44,7 @@
 @@||numerama.com/ads.js
 @@||pagerank.fr/js*/advert.js?$script
 @@||penducado.com/styles/ads.css
+@@||presse-algerie.net/js/ads.js$script
 @@||ps3-infos.fr/adsense/openads/ads/ads.js
 @@||ptitchef.com/js/ads.js
 @@||static.koreus.com/js/advert.js
