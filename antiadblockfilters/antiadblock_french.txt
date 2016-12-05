@@ -93,6 +93,9 @@
 ##.adblock_enabled
 ##.adblock_floating_message
 ##.counterAdblocks
+##.dispositifAdblock
+##.dispositifAdblockContent
+##.dispositifAdblockMessageBox
 ##.kill-adblock-container
 ##.noadblock
 ##.top-bar-adblock
