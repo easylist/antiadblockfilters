@@ -9,6 +9,7 @@
 /antiadblockmsg.
 /simple-adblock-notice/*
 /wp-content/plugins/ad-block-defender/*
+/wp-content/plugins/deadblocker/*
 /wp-content/uploads/an-temp/*$script,stylesheet
 !
 ||bdgest.com/js/site.js?
@@ -93,6 +94,8 @@
 ##.adblock_enabled
 ##.adblock_floating_message
 ##.counterAdblocks
+##.deadblocker-header-bar
+##.deadblocker-header-bar-inner
 ##.dispositifAdblock
 ##.dispositifAdblockContent
 ##.dispositifAdblockMessageBox
