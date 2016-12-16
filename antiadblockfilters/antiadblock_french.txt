@@ -46,6 +46,7 @@
 @@||pagerank.fr/js*/advert.js?$script
 @@||penducado.com/styles/ads.css
 @@||presse-algerie.net/js/ads.js$script
+@@||primfx.com/js/ads.js|$script,~third-party
 @@||ps3-infos.fr/adsense/openads/ads/ads.js
 @@||ptitchef.com/js/ads.js
 @@||static.koreus.com/js/advert.js
