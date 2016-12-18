@@ -34,7 +34,6 @@
 @@||gamingroom.tv/static/img/advert.png?
 @@||grattable.com/blogads.css
 @@||hdnumerique.com/tpl/jscript/advert.js
-@@||hitek.fr/ad$script
 @@||impactmangas.fr/ads.js|$script,~third-party
 @@||item-voyage.fr/ads.css
 @@||jeux-geographiques.com/js/adblock_detector.js
