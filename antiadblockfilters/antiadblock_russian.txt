@@ -1,3 +1,4 @@
+kissvk.com###madBlockModal,.modal-backdrop
 zakon.kz##.adblock_alert
 webdesign-master.ru###adbd
 vesti-ukr.com###adblockpopup
