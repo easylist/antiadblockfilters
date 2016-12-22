@@ -80,6 +80,7 @@
 ##.AdblockMessage
 ##.AdblockMessage_msg
 ##.ad-block-enabled
+##.ad-block-message
 ##.ad-blocker-warning
 ##.ad-blocking-advisor-wrapper
 ##.adBlockDetectedSign
