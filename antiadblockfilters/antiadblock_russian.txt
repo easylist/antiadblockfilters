@@ -32,7 +32,7 @@ ria.ru##.antiblock
 ixbt.com##.b-blockadblock
 electric-house.ru##.blok_forum > div[style]
 audio-hi-fi.ru,electro-sila.ru##.blok_new > div[style]
-kinoafisha.info##.cat
+kinoafisha.info,tvcook.ru##.cat
 rusopen.com##.classblsi.addshr
 smotrisport.online,smotrisport.tv##.dont-add-our-site-pls
 space.utema.ru##.main-content-padding > div[class]:not([itemprop])
