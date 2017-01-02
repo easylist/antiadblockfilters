@@ -92,6 +92,7 @@
 ##.adbd-message
 ##.adbd-wrapper
 ##.adblock-modal
+##.adblock-notification-wrapper
 ##.adblock-warning-teaser
 ##.adblock_detector
 ##.adblock_enabled
@@ -115,6 +116,7 @@ bedetheque.com##.container > div:first-child
 doodle.com##.doodlead
 fan-de-cinema.com##.fancybox-overlay
 etr.fr##.no_block
+phonandroid.com##[class^="adbbb"]
 radiox.com##.notifyjs-corner
 vide-greniers.org##[href="/explications-publicite"]
 forumdz.com##body .breadcrumb + center > [color="red"] > b
