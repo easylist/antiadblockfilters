@@ -1,7 +1,7 @@
 darkteam.net##.pls_rmv
 rufilmtv.org##.attention
 teremok.org.ua###mdl_adb
-tehnobzor.ru##body > div[style*="z-index: 999999"]
+fainaidea.com,tehnobzor.ru##body > div[style*="z-index: 999999"]
 kissvk.com###madBlockModal,.modal-backdrop
 zakon.kz##.adblock_alert
 webdesign-master.ru###adbd
