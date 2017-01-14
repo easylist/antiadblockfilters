@@ -1,3 +1,4 @@
+dugtor.ru##body > noindex
 cs-amba.ru##.banka
 darkteam.net##.pls_rmv
 rufilmtv.org##.attention
