@@ -1,5 +1,3 @@
-||sdamgia.ru/img/blockadblock_
-sdamgia.ru##.content[width="100%"] > div:not([id]):not([class]):not([style])
 dugtor.ru##body > noindex
 cs-amba.ru##.banka
 darkteam.net##.pls_rmv
