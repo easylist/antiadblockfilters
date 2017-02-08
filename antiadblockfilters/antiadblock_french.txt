@@ -31,7 +31,7 @@
 @@||france.carbu.com/templates/media/js/ads.js$script
 @@||frandroid.com/ads.js
 @@||free-reseau.fr/css/publicite.css|$stylesheet
-@@||fusacq.com/javascript/ads.js
+@@||fusacq.com/javascript/advertising.js|$script
 @@||gameblog.fr/scripts/adframe.js
 @@||gamingroom.tv/static/img/advert.png?
 @@||grattable.com/blogads.css
