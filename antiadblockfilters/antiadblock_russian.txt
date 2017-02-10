@@ -1,3 +1,4 @@
+sprashivalka.com##.ad
 gismeteo.ru##div[class^="stopblock"]
 dugtor.ru##body > noindex
 cs-amba.ru##.banka
