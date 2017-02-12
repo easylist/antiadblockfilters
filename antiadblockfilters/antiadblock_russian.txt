@@ -70,6 +70,7 @@ ph4.ru##table[width][height="90"][style]
 bigpuzzle.ru##td[valign="top"][width="200px"][height="600"] > div[style]
 ||adscat.ru^$third-party
 ||animeteatr.ru/a-detector/
+||avito.ru^*/some-pretty-script.js
 ||fairtop.in/template/js/fdetect.js
 ||kontrolnaya-rabota.ru^*/fuckadblock.js$script
 ||kontrolnaya-rabota.ru^*/toastr.$script,stylesheet
