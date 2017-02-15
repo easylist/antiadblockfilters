@@ -41,7 +41,7 @@ kinoafisha.info,tvcook.ru##.cat
 rusopen.com##.classblsi.addshr
 smotrisport.online,smotrisport.tv##.dont-add-our-site-pls
 space.utema.ru##.main-content-padding > div[class]:not([itemprop])
-animeland.su,itcats.ru,noadsradio.ru,sharkgame.ru##.no-adb
+animeland.su,itcats.ru,w10.jeanzzz.ru,noadsradio.ru,sharkgame.ru##.no-adb
 delfi.lv##.notification-widget
 radio.yandex.by,radio.yandex.kz,radio.yandex.ru,radio.yandex.ua##.page-root .notify
 radio.yandex.by,radio.yandex.kz,radio.yandex.ru,radio.yandex.ua##.page-root .notify *
