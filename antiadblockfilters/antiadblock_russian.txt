@@ -1,3 +1,4 @@
+megatest.online##.msg-AdBlock
 sprashivalka.com##.ad
 gismeteo.ru##div[class^="stopblock"]
 dugtor.ru##body > noindex
