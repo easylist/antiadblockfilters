@@ -73,6 +73,7 @@ bigpuzzle.ru##td[valign="top"][width="200px"][height="600"] > div[style]
 ||ajax.googleapis.com/ajax/libs/jqueryui/$domain=katushka.net
 ||animeteatr.ru/a-detector/
 ||avito.ru^*/some-pretty-script.js
+||czx.to^*/adblock.css
 ||fairtop.in/template/js/fdetect.js
 ||kontrolnaya-rabota.ru^*/fuckadblock.js$script
 ||kontrolnaya-rabota.ru^*/toastr.$script,stylesheet
