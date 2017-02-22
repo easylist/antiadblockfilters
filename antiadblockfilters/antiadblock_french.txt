@@ -123,7 +123,6 @@ radiox.com##.notifyjs-corner
 vide-greniers.org##[href="/explications-publicite"]
 forumdz.com##body .breadcrumb + center > [color="red"] > b
 bd-sanctuary.com,cine-sanctuary.com,comics-sanctuary.com,manga-sanctuary.com##div[style^="background:#444;"]
-lepoint.fr##header > div > a[target="_blank"]
 !
 #@##adblocktest
 !
