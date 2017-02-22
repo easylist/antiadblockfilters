@@ -1,6 +1,6 @@
 megatest.online##.msg-AdBlock
 sprashivalka.com##.ad
-gismeteo.ru##div[class^="stopblock"]
+gismeteo.by,gismeteo.ru##div[class^="stopblock"]
 dugtor.ru##body > noindex
 cs-amba.ru##.banka
 darkteam.net##.pls_rmv
