@@ -1,4 +1,5 @@
 czx.to###vdl_ctnr
+print-post.com##.addbl
 megatest.online##.msg-AdBlock
 sprashivalka.com##.ad
 gismeteo.by,gismeteo.ru##div[class^="stopblock"]
