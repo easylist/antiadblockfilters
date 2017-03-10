@@ -73,6 +73,7 @@
 ###adblocker_announce
 ###adblocker_message
 ###adblocker_modal_overlay
+###abp-killer
 ###advertisementjsalert
 ###anti_adblock
 ###fnAdblockingOverlay
