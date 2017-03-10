@@ -67,7 +67,7 @@ tut.by##body > div[style*="position: fixed;"][style*="right: 0;"]
 dyrik.ru,fainaidea.com,tehnobzor.ru##body > div[style*="z-index: 999999"]
 dugtor.ru##body > noindex
 gismeteo.by,gismeteo.ru##div[class^="stopblock"]
-eset-key.ru,politonline.ru##div[data-type="anti-abp"]
+eset-key.ru,politonline.ru,showmehow.ru##div[data-type="anti-abp"]
 pvcalc.ru##div[style^="position:fixed; top:0px; left:0px; opacity: 0.9;"]
 ph4.ru##div[style^="width: 728px; height: 90px;"]
 ph4.ru##table[width][height="90"][style]
