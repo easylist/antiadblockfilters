@@ -65,7 +65,7 @@ factorio.su##body > div[class][style*="background"][style*="display: block"]
 gdekluet.ru##body > div[class^="stop-block"]
 factorio.su##body > div[id][class][style*="background"][style*="visible"]
 tut.by##body > div[style*="position: fixed;"][style*="right: 0;"]
-dyrik.ru,fainaidea.com,tehnobzor.ru##body > div[style*="z-index: 999999"]
+dyrik.ru,fainaidea.com,oknotivi.ru,tehnobzor.ru##body > div[style*="z-index: 999999"]
 dugtor.ru##body > noindex
 gismeteo.by,gismeteo.ru##div[class^="stopblock"]
 eset-key.ru,politonline.ru,showmehow.ru##div[data-type="anti-abp"]
