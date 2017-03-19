@@ -42,7 +42,6 @@
 @@||ktu.sv2.biz/sv3/advertisement.js
 @@||larvf.com/js/ads.js
 @@||macg.co/js/audentio/funbox/advertisement.js
-@@||malekal.com/js/ads.js
 @@||manga-news.com/js/advert.js$script
 @@||numerama.com/ads.js
 @@||pagerank.fr/js*/advert.js?$script
@@ -136,6 +135,6 @@ fairytailmx.com#@##sponsored-ad
 forum.virtualdjing.com#@#.adFrame
 abcbourse.com#@#.adsbox
 bricozone.fr#@#.adsbygoogle
-dealerdunet.fr,malekal.com#@#.text_ads
+dealerdunet.fr#@#.text_ads
 comptoir-info.com#@#.textad
 !
