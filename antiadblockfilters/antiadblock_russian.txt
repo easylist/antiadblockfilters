@@ -1,3 +1,4 @@
+piggy-bank.online##[data-type="anti-abp"]
 logist.uxxo.ru##body > div[id]:not([class])[style="display: block;"]
 glav.su##body > div[id]:not([class])[style*="background"][style*="display: block"]
 sd-company.su###dom_adblock
