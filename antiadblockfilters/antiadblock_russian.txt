@@ -70,7 +70,6 @@ ukr.net##body > .yellow-die
 factorio.su##body > div[class][style*="background"][style*="display: block"]
 gdekluet.ru##body > div[class^="stop-block"]
 factorio.su##body > div[id][class][style*="background"][style*="visible"]
-vnx.su##body > div[id][style^="z-index"]
 tut.by##body > div[style*="position: fixed;"][style*="right: 0;"]
 dyrik.ru,fainaidea.com,obozrevatel.com,oknotivi.ru,tehnobzor.ru##body > div[style*="z-index"][style*="999999"]
 dugtor.ru##body > noindex
