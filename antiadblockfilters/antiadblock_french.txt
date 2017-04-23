@@ -67,6 +67,8 @@
 ###adb-enabled3
 ###adblock-alert
 ###adblock-msg
+###adblock-modal
+##.adblock-modal-content
 ###adblock-overlay
 ###adblockDetect
 ###adblock_detected
@@ -78,7 +80,6 @@
 ###anti_adblock
 ###fnAdblockingOverlay
 ###message_adblock
-###pub-haut-adblock
 ##.AdblockMessage
 ##.AdblockMessage_msg
 ##.ad-block-enabled
