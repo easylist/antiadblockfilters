@@ -3,6 +3,7 @@ d3.ru##section[data-uid="extraAd"]
 d3.ru##.b-promo__placeholder
 piggy-bank.online##[data-type="anti-abp"]
 newsland.com,logist.uxxo.ru##body > div[id]:not([class])[style="display: block;"]
+psjailbreak.ru##div[id^="advertur_"] + div[id][style^="width"]
 glav.su##body > div[id]:not([class])[style*="background"][style*="display: block"]
 sd-company.su###dom_adblock
 webdesign-master.ru###adbd
