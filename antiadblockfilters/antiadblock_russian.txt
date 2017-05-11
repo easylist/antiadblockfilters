@@ -18,7 +18,7 @@ pic4you.ru,pic5you.ru###blocked_block
 delfi.ee###delfiTopBar
 info-mage.ru###helpme[style="display: block;"]
 kissvk.com###madBlockModal,.modal-backdrop
-gisclub.tv,teremok.org.ua###mdl_adb
+gisclub.tv,teremok.org.ua,webos-forums.ru###mdl_adb
 ostroh.info###modal.modal-bg
 kp.ru###popapIsBlockedAd
 pb.wtf,piratbit.org,piratbit.ru###result > .request
