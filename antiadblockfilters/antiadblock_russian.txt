@@ -30,6 +30,7 @@ czx.to###vdl_ctnr
 eurabota.com##.abtop
 sprashivalka.com##.ad
 cc-fan.ru,cc-fan.tv,cn-fan.ru,drahelas.ru,fox-fan.ru,satsis.info,swordmaster.org##.adb
+hentaiz.org##.adblocker
 vsadu.ru##.adb-block
 tuchkatv.ru##.adb_m
 hentaiz.org,life.ru,mastergrad.com##.adblock
