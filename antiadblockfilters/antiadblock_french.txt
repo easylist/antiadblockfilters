@@ -124,7 +124,7 @@ fan-de-cinema.com##.fancybox-overlay
 etr.fr##.no_block
 papergeek.fr##[id^="padb_widget_"]
 phonandroid.com##DIV[class][style*="none repeat scroll 0% 0%;"]
-forum.pcastuces.com##DIV[style^="display: block; min-height: 120px; background-color: rgb(255, 239, 156); border-top: 4px solid rgb(255, 205, 48);"]
+forum.pcastuces.com##div > [src] + [id] + [class][style^="display: block;"]
 radiox.com##.notifyjs-corner
 vide-greniers.org##[href="/explications-publicite"]
 forumdz.com##body .breadcrumb + center > [color="red"] > b
