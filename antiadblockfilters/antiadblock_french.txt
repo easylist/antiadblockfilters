@@ -127,6 +127,7 @@ phonandroid.com##DIV[class][style*="none repeat scroll 0% 0%;"]
 forum.pcastuces.com##div > [src] + [id] + [class][style^="display: block;"]
 radiox.com##.notifyjs-corner
 vide-greniers.org##[href="/explications-publicite"]
+vide-greniers.org###content > #pageContectFull > [id][style^="background-color:"]
 forumdz.com##body .breadcrumb + center > [color="red"] > b
 bd-sanctuary.com,cine-sanctuary.com,comics-sanctuary.com,manga-sanctuary.com##div[style^="background:#444;"]
 !
