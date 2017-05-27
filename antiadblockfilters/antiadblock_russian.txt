@@ -40,6 +40,7 @@ nulled.cc##.adblock_floating_message
 kubik3.ru##.adbs
 print-post.com##.addbl
 24video.xxx##.adt
+benfilm.net##.alert-block
 ria.ru##.antiblock
 rufilmtv.org##.attention
 ixbt.com##.b-blockadblock
