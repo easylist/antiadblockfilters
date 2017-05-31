@@ -15,6 +15,7 @@ firebit.net###adv-300 + div[class][align="center"][style^="background-color"]
 cxem.net,forum.qrz.ru###antiAdBlock
 elhow.ru###b-info-wrapper
 pic4you.ru,pic5you.ru###blocked_block
+ma.by###bodysubcont > div[style^="padding"]:not([id]):not([class])
 delfi.ee###delfiTopBar
 info-mage.ru###helpme[style="display: block;"]
 kissvk.com###madBlockModal,.modal-backdrop
