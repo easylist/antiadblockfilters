@@ -68,7 +68,7 @@ playunturned.ru##.side_right > center
 101.ru##.showMessageAdBlock
 hs-manacost.ru##.td-a-rec
 /api/scripts/mainjs?token$script,domain=liveresult.ru
-/forum/docs/requests.js$script,domain=dsenxis5txr4zbxe.onion|nnm-club.me|nnm-club.to|nnmclub.to
+/forum/docs/requests.js$script,domain=dsenxis5txr4zbxe.onion|nnm-club.me|nnm-club.name|nnm-club.to|nnmclub.to
 /fuckadblock.js$domain=ace-stream.tv
 @@||sports.ru^*/adfox.$xmlhttprequest
 forum.vip-cxema.org##body > #document_modal.modal,#some_ad_block_key_popup
