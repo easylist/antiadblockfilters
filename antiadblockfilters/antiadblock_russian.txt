@@ -12,7 +12,7 @@ mindspace.ru###adblock_screen
 happy-hack.ru###admitad-cookie-check-popup
 wotactions.com###ads_warning
 firebit.net###adv-300 + div[class][align="center"][style^="background-color"]
-cxem.net,forum.qrz.ru###antiAdBlock
+cxem.net###antiAdBlock
 elhow.ru###b-info-wrapper
 pic4you.ru,pic5you.ru###blocked_block
 ma.by###bodysubcont > div[style^="padding"]:not([id]):not([class])
@@ -34,7 +34,7 @@ cc-fan.ru,cc-fan.tv,cn-fan.ru,drahelas.ru,fox-fan.ru,satsis.info,swordmaster.org
 hentaiz.org##.adblocker
 vsadu.ru##.adb-block
 tuchkatv.ru##.adb_m
-hentaiz.org,life.ru,mastergrad.com##.adblock
+hentaiz.org,life.ru,mastergrad.com,forum.qrz.ru##.adblock
 exler.ru##.adblock-pls
 zakon.kz##.adblock_alert
 nulled.cc##.adblock_floating_message
