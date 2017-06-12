@@ -53,7 +53,7 @@ kinoafisha.info,tvcook.ru##.cat
 rusopen.com##.classblsi.addshr
 smotrisport.online,smotrisport.tv##.dont-add-our-site-pls
 go.mail.ru##.js-adb-msg
-rbc.ru##.js-checkad-warning
+autonews.ru,rbc.ru##.js-checkad-warning
 space.utema.ru##.main-content-padding > div[class]:not([itemprop])
 megatest.online##.msg-AdBlock
 animeland.su,itcats.ru,noadsradio.ru,sharkgame.ru,w10.jeanzzz.ru##.no-adb
