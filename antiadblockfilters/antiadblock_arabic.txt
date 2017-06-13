@@ -1,5 +1,7 @@
 !
 /deadblocker/*
 !
+##.adblock_floating_message
+##.adblock_msg
 ##.deadblocker-header-bar
 !
