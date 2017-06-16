@@ -114,7 +114,6 @@
 !
 jaitoutcompris.com###antiBlock
 streamwatching.fr###adblockplus
-lachainemeteo.com###degradation
 venez.fr###dv_warn_block
 iphonesoft.fr,iphonetweak.fr###msgNoPub
 retinaboys.com###screen_block
