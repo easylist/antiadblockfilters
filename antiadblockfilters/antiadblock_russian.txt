@@ -52,6 +52,7 @@ audio-hi-fi.ru,electro-sila.ru##.blok_new > div[style]
 kinoafisha.info,tvcook.ru##.cat
 rbc.ru##.checkad_info
 rusopen.com##.classblsi.addshr
+www.qrz.ru##.content_row > div[class][-abp-properties="background*z-index"]:not([style])
 smotrisport.online,smotrisport.tv##.dont-add-our-site-pls
 go.mail.ru##.js-adb-msg
 autonews.ru##.js-checkad-warning
