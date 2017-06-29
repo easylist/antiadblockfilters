@@ -118,7 +118,6 @@ streamwatching.fr###adblockplus
 venez.fr###dv_warn_block
 iphonesoft.fr,iphonetweak.fr###msgNoPub
 retinaboys.com###screen_block
-bedetheque.com##.container > div:first-child
 doodle.com##.doodlead
 fan-de-cinema.com##.fancybox-overlay
 etr.fr##.no_block
