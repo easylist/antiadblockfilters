@@ -90,6 +90,7 @@ gismeteo.by,gismeteo.ru##div[class^="stopblock"]
 eset-key.ru,politonline.ru,showmehow.ru##div[data-type="anti-abp"]
 pvcalc.ru##div[style^="position:fixed; top:0px; left:0px; opacity: 0.9;"]
 ph4.ru##div[style^="width: 728px; height: 90px;"]
+sdamgia.ru##div[width="100%"] > div[id][style=""]
 ph4.ru##table[width][height="90"][style]
 bigpuzzle.ru##td[valign="top"][width="200px"][height="600"] > div[style]
 ||adscat.ru^$third-party
@@ -101,4 +102,5 @@ bigpuzzle.ru##td[valign="top"][width="200px"][height="600"] > div[style]
 ||kontrolnaya-rabota.ru^*/toastr.$script,stylesheet
 ||pwnews.net/des/antiblock.js$script
 ||rusnext.ru/advar.js$script
+||sdamgia.ru/img/blockadblock_
 ||shellcat.ru^$third-party
