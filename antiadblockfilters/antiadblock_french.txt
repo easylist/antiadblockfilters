@@ -66,6 +66,7 @@
 ###adb-enabled3
 ###adb-warning
 ###adblock-alert
+###adblock-box
 ###adblock-msg
 ###adblock-modal
 ##.adblock-modal-content
