@@ -50,12 +50,12 @@ cs-amba.ru##.banka
 electric-house.ru##.blok_forum > div[style]
 audio-hi-fi.ru,electro-sila.ru##.blok_new > div[style]
 kinoafisha.info,tvcook.ru##.cat
-rbc.ru##.checkad_info
+autonews.ru,rbc.ru##.checkad_info
 rusopen.com##.classblsi.addshr
 www.qrz.ru##.content_row > div[class][-abp-properties="background*z-index"]:not([style])
 smotrisport.online,smotrisport.tv##.dont-add-our-site-pls
 go.mail.ru##.js-adb-msg
-autonews.ru##.js-checkad-warning
+rbcplus.ru##.js-checkad-warning
 space.utema.ru##.main-content-padding > div[class]:not([itemprop])
 megatest.online##.msg-AdBlock
 ykt.ru##.n-banner--adblocked
@@ -99,6 +99,7 @@ bigpuzzle.ru##td[valign="top"][width="200px"][height="600"] > div[style]
 ||avito.ru^*/some-pretty-script.js
 ||fairtop.in/template/js/fdetect.js
 ||i140.ru/js/etxm*.js|$script
+||ipprof.ru/wp-content/plugins/ad-blocking-advisor/
 ||kontrolnaya-rabota.ru^*/fuckadblock.js$script
 ||kontrolnaya-rabota.ru^*/toastr.$script,stylesheet
 ||pwnews.net/des/antiblock.js$script

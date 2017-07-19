@@ -13,6 +13,7 @@
 /wp-content/uploads/an-temp/*$script,stylesheet
 !
 ||bdgest.com/js/site.js?
+||ed-protect.org/cdn-cgi/apps/head/
 ||nikopik.com/wp-content/themes/*/js/nikopik.js
 ||nordpresse.be/wp-content/uploads/$script
 ||nrj.fr/nrj?Page=/rg.fake&
