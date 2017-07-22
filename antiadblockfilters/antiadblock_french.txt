@@ -142,7 +142,6 @@ iwin.com#@##sponsorText
 fairytailmx.com#@##sponsored-ad
 forum.virtualdjing.com#@#.adFrame
 abcbourse.com#@#.adsbox
-bricozone.fr#@#.adsbygoogle
 dealerdunet.fr#@#.text_ads
 comptoir-info.com#@#.textad
 !
