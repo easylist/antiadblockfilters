@@ -32,7 +32,6 @@
 @@||free-reseau.fr/css/publicite.css|$stylesheet
 @@||fusacq.com/javascript/advertising.js|$script
 @@||gameblog.fr/scripts/adframe.js
-@@||gamingroom.tv/static/img/advert.png?
 @@||grattable.com/blogads.css
 @@||hdnumerique.com/tpl/jscript/advert.js
 @@||impactmangas.fr/ads.js|$script,~third-party
