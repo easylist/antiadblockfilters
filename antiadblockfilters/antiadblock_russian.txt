@@ -21,6 +21,7 @@ info-mage.ru###helpme[style="display: block;"]
 kissvk.com###madBlockModal,.modal-backdrop
 gisclub.tv,teremok.org.ua,webos-forums.ru###mdl_adb
 ostroh.info###modal.modal-bg
+all-episodes.net###odin
 kp.ru###popapIsBlockedAd
 pb.wtf,piratbit.org,piratbit.ru###result > .request
 mnogoto4ka.ru###sb-site > div[class][style*="z-index"][style*="999999"]
