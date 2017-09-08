@@ -87,6 +87,7 @@
 ##.AdblockMessage_msg
 ##.ad-block-enabled
 ##.ad-block-message
+##.ad-blocked
 ##.ad-blocker-warning
 ##.ad-blocking-advisor-wrapper
 ##.adBlockDetectedSign
@@ -113,6 +114,7 @@
 ##.kill-adblock-container
 ##.noadblock
 ##.top-bar-adblock
+##[class][data-sitename][data-header-version] > div[id^="detection-block"]
 !
 jaitoutcompris.com###antiBlock
 streamwatching.fr###adblockplus
