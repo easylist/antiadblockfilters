@@ -131,7 +131,7 @@ vide-greniers.org##[href="/explications-publicite"]
 vide-greniers.org###content > #pageContectFull > [id][style^="background-color:"]
 forumdz.com##body .breadcrumb + center > [color="red"] > b
 bd-sanctuary.com,cine-sanctuary.com,comics-sanctuary.com,manga-sanctuary.com##div[style^="background:#444;"]
-clkme.me,cllkme.com,gestyy.com,jigbig.tk,newsfortrump.ga,sh.st,shorte.st,skiip.me,skipp.io,viid.me,wiid.me,destyy.com##.information-container
+clkme.me,cllkme.com,corneey.com,gestyy.com,jigbig.tk,newsfortrump.ga,sh.st,shorte.st,skiip.me,skipp.io,viid.me,wiid.me,destyy.com##.information-container
 !
 #@##adblocktest
 !
