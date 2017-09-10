@@ -15,7 +15,6 @@ wotactions.com###ads_warning
 firebit.net###adv-300 + div[class][align="center"][style^="background-color"]
 cxem.net###antiAdBlock
 elhow.ru###b-info-wrapper
-pic4you.ru,pic5you.ru###blocked_block
 ma.by###bodysubcont > div[style^="padding"]:not([id]):not([class])
 delfi.ee###delfiTopBar
 info-mage.ru###helpme[style="display: block;"]
@@ -79,6 +78,7 @@ hs-manacost.ru##.td-a-rec
 /forum/docs/requests.js$script,domain=dsenxis5txr4zbxe.onion|nnm-club.me|nnm-club.name|nnm-club.to|nnmclub.to
 /fuckadblock.js$domain=ace-stream.tv
 @@||sports.ru^*/adfox.$xmlhttprequest
+pic4you.ru,pic5you.ru##body > #bb
 forum.vip-cxema.org##body > #document_modal.modal,#some_ad_block_key_popup
 swaego.ru##body > .special-message-wrapper
 ukr.net##body > .yellow-die
