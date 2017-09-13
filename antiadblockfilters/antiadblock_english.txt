@@ -2,6 +2,7 @@ flightradar24.com###bottomRightPanel
 videofun.me###flowplayer > div[class][style]:first-child
 yocast.tv###ra9e
 flightradar24.com###responsiveBottomPanel
+myanimelist.net##._unit
 ##.ad-blocker-warning
 biggestplayer.me##.adblock + *
 hearthhead.com,wowhead.com##.block-bg
