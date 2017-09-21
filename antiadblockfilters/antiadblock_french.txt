@@ -126,6 +126,7 @@ fan-de-cinema.com##.fancybox-overlay
 etr.fr##.no_block
 papergeek.fr##[id^="padb_widget_"]
 phonandroid.com##DIV[class][style*="none repeat scroll 0% 0%;"]
+prixdubaril.com##div > div[class^="sweet-"][style]
 forum.pcastuces.com##div > [src] + [id] + [class][style^="display: block;"]
 radiox.com##.notifyjs-corner
 tunnl.com##[id^="blockedAddons"]
