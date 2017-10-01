@@ -58,6 +58,7 @@
 @@||zagaz.com/img/blogads.css
 !
 ###AdBlockDialog
+###abp-killer
 ###adBlockAlert
 ###adBlockAlertWrap
 ###adBlockDetect
@@ -68,17 +69,14 @@
 ###adb-warning
 ###adblock-alert
 ###adblock-box
-###adblock-msg
 ###adblock-modal
-##.adblock-modal-content
+###adblock-msg
 ###adblock-overlay
 ###adblockDetect
 ###adblock_detected
-##.adblocker-message
 ###adblocker_announce
 ###adblocker_message
 ###adblocker_modal_overlay
-###abp-killer
 ###advertisementjsalert
 ###anti_adblock
 ###fnAdblockingOverlay
@@ -99,11 +97,14 @@
 ##.adbd-message
 ##.adbd-wrapper
 ##.adblock-modal
+##.adblock-modal-content
 ##.adblock-notification-wrapper
 ##.adblock-warning-teaser
+##.adblockOverlay
 ##.adblock_detector
 ##.adblock_enabled
 ##.adblock_floating_message
+##.adblocker-message
 ##.adblocker-wrap
 ##.counterAdblocks
 ##.deadblocker-header-bar
@@ -116,25 +117,25 @@
 ##.top-bar-adblock
 ##[class][data-sitename][data-header-version] > div[id^="detection-block"]
 !
-jaitoutcompris.com###antiBlock
 streamwatching.fr###adblockplus
+jaitoutcompris.com###antiBlock
+vide-greniers.org###content > #pageContectFull > [id][style^="background-color:"]
 venez.fr###dv_warn_block
 iphonesoft.fr,iphonetweak.fr###msgNoPub
 retinaboys.com###screen_block
 doodle.com##.doodlead
 fan-de-cinema.com##.fancybox-overlay
+clkme.me,cllkme.com,corneey.com,destyy.com,festyy.com,gestyy.com,jigbig.tk,newsfortrump.ga,sh.st,shorte.st,skiip.me,skipp.io,viid.me,wiid.me##.information-container
 etr.fr##.no_block
-papergeek.fr##[id^="padb_widget_"]
-phonandroid.com##DIV[class][style*="none repeat scroll 0% 0%;"]
-prixdubaril.com##div > div[class^="sweet-"][style]
-forum.pcastuces.com##div > [src] + [id] + [class][style^="display: block;"]
 radiox.com##.notifyjs-corner
-tunnl.com##[id^="blockedAddons"]
 vide-greniers.org##[href="/explications-publicite"]
-vide-greniers.org###content > #pageContectFull > [id][style^="background-color:"]
+tunnl.com##[id^="blockedAddons"]
+papergeek.fr##[id^="padb_widget_"]
 forumdz.com##body .breadcrumb + center > [color="red"] > b
+forum.pcastuces.com##div > [src] + [id] + [class][style^="display: block;"]
+prixdubaril.com##div > div[class^="sweet-"][style]
+phonandroid.com##div[class][style*="none repeat scroll 0% 0%;"]
 bd-sanctuary.com,cine-sanctuary.com,comics-sanctuary.com,manga-sanctuary.com##div[style^="background:#444;"]
-clkme.me,cllkme.com,corneey.com,festyy.com,gestyy.com,jigbig.tk,newsfortrump.ga,sh.st,shorte.st,skiip.me,skipp.io,viid.me,wiid.me,destyy.com##.information-container
 !
 #@##adblocktest
 !
