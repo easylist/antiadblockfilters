@@ -80,6 +80,7 @@ hs-manacost.ru##.td-a-rec
 @@||sports.ru^*/adfox.$xmlhttprequest
 pic4you.ru,pic5you.ru##body > #bb
 forum.vip-cxema.org##body > #document_modal.modal,#some_ad_block_key_popup
+it-enginer.ru##body > #modal[style*="blur"]
 swaego.ru##body > .special-message-wrapper
 ukr.net##body > .yellow-die
 factorio.su##body > div[class][style*="background"][style*="display: block"]
