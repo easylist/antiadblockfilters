@@ -1,7 +1,13 @@
 !
 /deadblocker/*
+/mod_ablockdetector/*
 !
+###adblock_screen
+###adblock_message
 ##.adblock_floating_message
 ##.adblock_msg
 ##.deadblocker-header-bar
+!
+4algeria.com###exposeMask
+4algeria.com##.xenOverlay
 !
