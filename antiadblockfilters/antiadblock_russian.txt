@@ -89,6 +89,7 @@ factorio.su##body > div[id][class][style*="background"][style*="visible"]
 tut.by##body > div[style*="position: fixed;"][style*="right: 0;"]
 bychico.net,dyrik.ru,ecosounds.net,fainaidea.com,in-drive.ru,obozrevatel.com,oknotivi.ru,sandero.ru,tehnobzor.ru##body > div[style*="z-index"][style*="999999"]
 dugtor.ru##body > noindex
+livesport.ws##body > script + div[id]
 gismeteo.by,gismeteo.ru##div[class^="stopblock"]
 eset-key.ru,politonline.ru,showmehow.ru##div[data-type="anti-abp"]
 lostfilm.tv##div[class^="alarm"]
