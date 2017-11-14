@@ -97,7 +97,6 @@ lostfilm.tv##div[class^="alarm"]
 pvcalc.ru##div[style^="position:fixed; top:0px; left:0px; opacity: 0.9;"]
 acomics.ru##div[style*="/design/common/pic/please"]
 ph4.ru##div[style^="width: 728px; height: 90px;"]
-sdamgia.ru##div[width="100%"] > div[id][style=""]
 ph4.ru##table[width][height="90"][style]
 bigpuzzle.ru##td[valign="top"][width="200px"][height="600"] > div[style]
 ||adscat.ru^$third-party
