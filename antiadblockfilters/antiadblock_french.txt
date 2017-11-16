@@ -14,6 +14,8 @@
 /wp-content/uploads/an-temp/*$script,stylesheet
 !
 ||bdgest.com/js/site.js?
+||cmath.fr/images/fond2.gif
+||cmath.fr/images/fondsticky.gif
 ||ed-protect.org/cdn-cgi/apps/head/
 ||nikopik.com/wp-content/themes/*/js/nikopik.js
 ||nordpresse.be/wp-content/uploads/$script
