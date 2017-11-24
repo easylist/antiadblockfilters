@@ -1,7 +1,7 @@
 d3.ru##section[data-uid="ad"]
 d3.ru##section[data-uid="extraAd"]
 d3.ru##.b-promo__placeholder
-piggy-bank.online##[data-type="anti-abp"]
+mycrib.ru,piggy-bank.online##[data-type="anti-abp"]
 fightnews.info##body > blockquote
 newdeaf-online.net,newsland.com,logist.uxxo.ru##body > div[id]:not([class])[style="display: block;"]
 psjailbreak.ru##div[id^="advertur_"] + div[id][style^="width"]
