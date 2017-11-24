@@ -120,7 +120,6 @@
 ##.top-bar-adblock
 ##[class][data-sitename][data-header-version] > div[id^="detection-block"]
 !
-com,fr,info##div#ab-message[style^="display: block;"]
 streamwatching.fr###adblockplus
 jaitoutcompris.com###antiBlock
 vide-greniers.org###content > #pageContectFull > [id][style^="background-color:"]
