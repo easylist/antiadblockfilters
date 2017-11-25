@@ -67,7 +67,7 @@ radio.yandex.by,radio.yandex.kz,radio.yandex.ru,radio.yandex.ua##.page-root .not
 music.yandex.by,music.yandex.kz,music.yandex.ru,music.yandex.ua##.page-root > .notify
 music.yandex.by,music.yandex.kz,music.yandex.ru,music.yandex.ua##.page-root > .notify *
 darkteam.net##.pls_rmv
-pythonworld.ru##.pythonworld-contributor.warning
+pythonworld.ru##.pythonworld-contributor
 fanfics.me##.red.nodata
 playunturned.ru##.side_left > center
 playunturned.ru##.side_right > center
