@@ -128,7 +128,7 @@ iphonesoft.fr,iphonetweak.fr###msgNoPub
 retinaboys.com###screen_block
 doodle.com##.doodlead
 fan-de-cinema.com##.fancybox-overlay
-clkme.me,cllkme.com,corneey.com,destyy.com,festyy.com,gestyy.com,jigbig.tk,newsfortrump.ga,sh.st,shorte.st,skiip.me,skipp.io,viid.me,wiid.me##.information-container
+clkme.me,clkmein.com,cllkme.com,corneey.com,destyy.com,festyy.com,gestyy.com,jigbig.tk,newsfortrump.ga,sh.st,shorte.st,skiip.me,skipp.io,viid.me,wiid.me##.information-container
 etr.fr##.no_block
 radiox.com##.notifyjs-corner
 vide-greniers.org##[href="/explications-publicite"]
