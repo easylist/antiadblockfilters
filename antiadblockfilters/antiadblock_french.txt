@@ -139,6 +139,7 @@ forum.pcastuces.com##div > [src] + [id] + [class][style^="display: block;"]
 prixdubaril.com##div > div[class^="sweet-"][style]
 phonandroid.com##div[class][style*="none repeat scroll 0% 0%;"]
 bd-sanctuary.com,cine-sanctuary.com,comics-sanctuary.com,manga-sanctuary.com##div[style^="background:#444;"]
+pausecafein.fr###adb-pop
 !
 #@##adblocktest
 !
