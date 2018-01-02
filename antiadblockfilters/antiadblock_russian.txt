@@ -51,7 +51,7 @@ cs-amba.ru##.banka
 electric-house.ru##.blok_forum > div[style]
 audio-hi-fi.ru,electro-sila.ru##.blok_new > div[style]
 kinoafisha.info,tvcook.ru##.cat
-autonews.ru,rbc.ru##.checkad_info
+autonews.ru,rbc.ru,rbcplus.ru##.checkad_info
 rusopen.com##.classblsi.addshr
 www.qrz.ru##.content_row > div[class][-abp-properties="background*z-index"]:not([style])
 smotrisport.online,smotrisport.tv##.dont-add-our-site-pls
