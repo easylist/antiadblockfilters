@@ -17,6 +17,7 @@ cxem.net###antiAdBlock
 elhow.ru###b-info-wrapper
 ma.by###bodysubcont > div[style^="padding"]:not([id]):not([class])
 delfi.ee###delfiTopBar
+pastenow.ru###google-block
 blackdesert-info.ru###header > div[style*="z-index"][style*="999999"]
 info-mage.ru###helpme[style="display: block;"]
 kissvk.com###madBlockModal,.modal-backdrop
