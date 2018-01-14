@@ -40,7 +40,6 @@ tuchkatv.ru##.adb_m
 hentaiz.org,life.ru,mastergrad.com,forum.qrz.ru##.adblock
 exler.ru##.adblock-pls
 zakon.kz##.adblock_alert
-nulled.cc##.adblock_floating_message
 kubik3.ru##.adbs
 print-post.com##.addbl
 24video.xxx##.adt
