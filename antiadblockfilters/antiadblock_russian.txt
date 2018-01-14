@@ -56,7 +56,6 @@ rusopen.com##.classblsi.addshr
 www.qrz.ru##.content_row > div[class][-abp-properties="background*z-index"]:not([style])
 smotrisport.online,smotrisport.tv##.dont-add-our-site-pls
 go.mail.ru##.js-adb-msg
-rbcplus.ru##.js-checkad-warning
 themoviebay.ru##.is-danger.notification
 space.utema.ru##.main-content-padding > div[class]:not([itemprop])
 megatest.online##.msg-AdBlock
