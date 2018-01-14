@@ -9,7 +9,6 @@ glav.su##body > div[id]:not([class])[style*="background"][style*="display: block
 sd-company.su###dom_adblock
 webdesign-master.ru###adbd
 vesti-ukr.com###adblockpopup
-mindspace.ru###adblock_screen
 happy-hack.ru###admitad-cookie-check-popup
 wotactions.com###ads_warning
 firebit.net###adv-300 + div[class][align="center"][style^="background-color"]
