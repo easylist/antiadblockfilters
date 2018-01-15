@@ -120,24 +120,15 @@
 ##.top-bar-adblock
 ##[class][data-sitename][data-header-version] > div[id^="detection-block"]
 !
-streamwatching.fr###adblockplus
 jaitoutcompris.com###antiBlock
-vide-greniers.org###content > #pageContectFull > [id][style^="background-color:"]
-venez.fr###dv_warn_block
 iphonesoft.fr,iphonetweak.fr###msgNoPub
 retinaboys.com###screen_block
-doodle.com##.doodlead
-fan-de-cinema.com##.fancybox-overlay
 ceesty.com,clkme.me,clkmein.com,cllkme.com,corneey.com,destyy.com,festyy.com,gestyy.com,jigbig.tk,newsfortrump.ga,sh.st,shorte.st,skiip.me,skipp.io,viid.me,wiid.me##.information-container
 etr.fr##.no_block
 radiox.com##.notifyjs-corner
-vide-greniers.org##[href="/explications-publicite"]
-tunnl.com##[id^="blockedAddons"]
 papergeek.fr##[id^="padb_widget_"]
 forumdz.com##body .breadcrumb + center > [color="red"] > b
 forum.pcastuces.com##div > [src] + [id] + [class][style^="display: block;"]
-prixdubaril.com##div > div[class^="sweet-"][style]
-phonandroid.com##div[class][style*="none repeat scroll 0% 0%;"]
 bd-sanctuary.com,cine-sanctuary.com,comics-sanctuary.com,manga-sanctuary.com##div[style^="background:#444;"]
 pausecafein.fr###adb-pop
 !
