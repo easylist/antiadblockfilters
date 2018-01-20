@@ -81,6 +81,7 @@
 ###adblocker_modal_overlay
 ###advertisementjsalert
 ###anti_adblock
+###detectadblock
 ###fnAdblockingOverlay
 ###message_adblock
 ##.AdblockMessage
