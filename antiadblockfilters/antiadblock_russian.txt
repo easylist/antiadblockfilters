@@ -4,7 +4,7 @@ d3.ru##.b-promo__placeholder
 mycrib.ru,piggy-bank.online##[data-type="anti-abp"]
 fightnews.info##body > blockquote
 newdeaf-online.net,newsland.com,logist.uxxo.ru##body > div[id]:not([class])[style="display: block;"]
-psjailbreak.ru##div[id^="advertur_"] + div[id][style^="width"]
+savevideo.me##div[id^="ads_notice_"]
 glav.su##body > div[id]:not([class])[style*="background"][style*="display: block"]
 sd-company.su###dom_adblock
 webdesign-master.ru###adbd
