@@ -12,6 +12,7 @@ sd-company.su###dom_adblock
 pastenow.ru###google-block
 blackdesert-info.ru###header > div[style*="z-index"][style*="999999"]
 info-mage.ru###helpme[style="display: block;"]
+poncy.ru###hide-adblock
 kissvk.com###madBlockModal,.modal-backdrop
 gisclub.tv,teremok.org.ua,webos-forums.ru###mdl_adb
 ostroh.info###modal.modal-bg
