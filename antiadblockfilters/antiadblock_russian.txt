@@ -40,7 +40,6 @@ kubik3.ru##.adbs
 print-post.com##.addbl
 24video.xxx##.adt
 benfilm.net##.alert-block
-ria.ru##.antiblock
 rufilmtv.org##.attention
 ixbt.com##.b-blockadblock
 d3.ru##.b-promo__placeholder
