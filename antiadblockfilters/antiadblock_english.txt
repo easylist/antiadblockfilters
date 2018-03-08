@@ -18,6 +18,7 @@ toolslib.net##.row > .col-md-7 > .panel-default
 hearthhead.com,thottbot.com,wowhead.com##.sidebar-bg
 biggestplayer.me##.soret
 spanishdict.com##.whitelist
+pkmods.com##body > div[style*="z-index"][style*="background"]
 /adblock-alerter/js/adblock_alerter.js
 /adblock-img.
 play44.net,videobug.net,videofun.me,vidzur.com,yucache.net##[style^="position: absolute; width: 100%;"]
