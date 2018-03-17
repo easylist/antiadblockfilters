@@ -31,6 +31,7 @@ eurabota.com##.abtop
 sprashivalka.com##.ad
 cc-fan.ru,cc-fan.tv,cn-fan.ru,fox-fan.ru,goodfon.ru,satsis.info,swordmaster.org##.adb
 vsadu.ru##.adb-block
+andevice.ru##.adb-def
 tuchkatv.ru##.adb_m
 brazzers-hdx.club##.adblck
 forum.qrz.ru,hentaiz.org,life.ru,mastergrad.com,tvfeed.in##.adblock
