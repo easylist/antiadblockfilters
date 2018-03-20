@@ -106,6 +106,8 @@ d3.ru##section[data-uid="ad"]
 d3.ru##section[data-uid="extraAd"]
 ph4.ru##table[width][height="90"][style]
 bigpuzzle.ru##td[valign="top"][width="200px"][height="600"] > div[style]
+#@#.goha_ads
+#@#.goha_ads_acceptable
 ||adscat.ru^$third-party
 ||animeteatr.ru/a-detector/
 ||avito.ru^*/some-pretty-script.js
