@@ -143,7 +143,6 @@ ot-boutique.fr#@##publicite
 iwin.com#@##sponsorText
 fairytailmx.com#@##sponsored-ad
 forum.virtualdjing.com#@#.adFrame
-abcbourse.com#@#.adsbox
 dealerdunet.fr#@#.text_ads
 comptoir-info.com#@#.textad
 !
