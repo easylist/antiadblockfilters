@@ -43,6 +43,7 @@ print-post.com##.addbl
 24video.xxx##.adt
 benfilm.net##.alert-block
 rufilmtv.org##.attention
+mel.fm##.b-ad-space__placeholder
 ixbt.com##.b-blockadblock
 d3.ru##.b-promo__placeholder
 cs-amba.ru##.banka
