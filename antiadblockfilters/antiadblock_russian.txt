@@ -49,6 +49,7 @@ d3.ru##.b-promo__placeholder
 cs-amba.ru##.banka
 electric-house.ru##.blok_forum > div[style]
 audio-hi-fi.ru,electro-sila.ru##.blok_new > div[style]
+rutor1.ru##.box_in > .text > p > font
 tsn.ua##.c-aside-embed
 kinoafisha.info,tvcook.ru##.cat
 autonews.ru,rbc.ru,rbcplus.ru##.checkad_info
