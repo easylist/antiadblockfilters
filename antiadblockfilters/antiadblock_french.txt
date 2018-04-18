@@ -57,6 +57,7 @@
 @@||trackr.fr/sites/all/themes/contrib/touch/js/miroirs/adwordstracking.js
 @@||universfreebox.com/js/advertisement.js
 @@||uplea.com/js/advertisement.js
+@@||peimg.fr/js/ads.js$script,domain=pubeco.fr
 @@||wamiz.com/css/ads.css
 @@||zagaz.com/img/blogads.css
 !
