@@ -1,4 +1,5 @@
 delfi.ee###ab--notification-ribbon
+patrioty.org.ua###ad_pu_modal
 webdesign-master.ru###adbd
 vesti-ukr.com###adblockpopup
 happy-hack.ru###admitad-cookie-check-popup
