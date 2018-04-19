@@ -86,6 +86,7 @@ xn--80aikhbrhr.net,кинокрад.net##.warning-adblock-box
 @@||goha.ru/app/video/adblock.teaser.js|$script,domain=goha.ru
 @@||sports.ru^*/adfox.$xmlhttprequest
 mycrib.ru,piggy-bank.online##[data-type="anti-abp"]
+lr-club.com##a[href="https://adblockplus.org/ru/faq_basics#disable"]
 pic4you.ru,pic5you.ru##body > #bb
 forum.vip-cxema.org##body > #document_modal.modal,#some_ad_block_key_popup
 it-enginer.ru##body > #modal[style*="blur"]
