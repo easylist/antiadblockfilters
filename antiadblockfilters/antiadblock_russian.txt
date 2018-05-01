@@ -90,6 +90,7 @@ lr-club.com##a[href="https://adblockplus.org/ru/faq_basics#disable"]
 pic4you.ru,pic5you.ru##body > #bb
 forum.vip-cxema.org##body > #document_modal.modal,#some_ad_block_key_popup
 it-enginer.ru##body > #modal[style*="blur"]
+ivi.ru##body > .bottom-popup
 swaego.ru##body > .special-message-wrapper
 ukr.net##body > .yellow-die
 fightnews.info##body > blockquote
