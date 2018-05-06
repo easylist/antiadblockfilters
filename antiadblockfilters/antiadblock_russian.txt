@@ -32,6 +32,7 @@ czx.to###vdl_ctnr
 vsaduidoma.com##.ABD_display_wrapper
 eurabota.com##.abtop
 sprashivalka.com##.ad
+topcraft.ru##.ad-info
 cc-fan.ru,cc-fan.tv,cn-fan.ru,fox-fan.ru,goodfon.ru,satsis.info,swordmaster.org##.adb
 vsadu.ru##.adb-block
 andevice.ru##.adb-def
