@@ -10,6 +10,7 @@ novostroy-m.ru###advert_result
 cxem.net###antiAdBlock
 elhow.ru###b-info-wrapper
 ma.by###bodysubcont > div[style^="padding"]:not([id]):not([class])
+helpsetup.ru###d930
 delfi.ee###delfiTopBar
 sd-company.su###dom_adblock
 forum.bestflowers.ru###exposeMask
