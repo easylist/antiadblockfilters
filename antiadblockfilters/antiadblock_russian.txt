@@ -126,6 +126,7 @@ www.qrz.ru#?#.content_row > div[class]:-abp-has(> .inner > a[href="/help/adblock
 ||adscat.ru^$third-party
 ||acetv.me/cookie_check.min.js
 ||animeteatr.ru/a-detector/
+||anivisual.net/mim*.js|$script,domain=anivisual.net
 ||avito.ru^*/some-pretty-script.js
 ||fairtop.in/template/js/fdetect.js
 ||i140.ru/js/etxm*.js|$script
