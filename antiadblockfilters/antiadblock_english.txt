@@ -1,5 +1,6 @@
 flightradar24.com###bottomRightPanel
 videofun.me###flowplayer > div[class][style]:first-child
+abc-fonts.me###galepro-core-adb-enabled
 yocast.tv###ra9e
 flightradar24.com###responsiveBottomPanel
 myanimelist.net##._unit
