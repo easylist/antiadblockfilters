@@ -46,6 +46,7 @@ hentaiz.org##.adblocker
 kubik3.ru##.adbs
 print-post.com##.addbl
 24video.xxx##.adt
+rusrek.com##.alert
 benfilm.net##.alert-block
 rufilmtv.org##.attention
 mel.fm##.b-ad-space__placeholder
