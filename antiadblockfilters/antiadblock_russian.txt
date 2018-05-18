@@ -123,7 +123,7 @@ d3.ru##section[data-uid="ad"]
 d3.ru##section[data-uid="extraAd"]
 ph4.ru##table[width][height="90"][style]
 bigpuzzle.ru##td[valign="top"][width="200px"][height="600"] > div[style]
-fb.ru#?#.header ~ div:-abp-contains(блокировщик)
+fb.ru#?##header ~ div:-abp-contains(блокировщик)
 www.qrz.ru#?#.content_row > div[class]:-abp-has(> .inner > a[href="/help/adblock/"])
 ||acetv.me/cookie_check.min.js
 ||adscat.ru^$third-party
