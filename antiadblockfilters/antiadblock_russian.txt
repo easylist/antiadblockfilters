@@ -10,6 +10,7 @@ cxem.net###antiAdBlock
 elhow.ru###b-info-wrapper
 webdesign-master.ru###blocka
 ma.by###bodysubcont > div[style^="padding"]:not([id]):not([class])
+pln-pskov.ru###check_ad_block
 helpsetup.ru###d930
 delfi.ee###delfiTopBar
 sd-company.su###dom_adblock
