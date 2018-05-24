@@ -1,4 +1,5 @@
 delfi.ee###ab--notification-ribbon
+minimultik.ru###abDetected
 patrioty.org.ua###ad_pu_modal
 vesti-ukr.com###adblockpopup
 happy-hack.ru###admitad-cookie-check-popup
