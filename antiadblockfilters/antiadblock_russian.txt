@@ -56,6 +56,7 @@ ixbt.com##.b-blockadblock
 d3.ru##.b-promo__placeholder
 cs-amba.ru##.banka
 electric-house.ru##.blok_forum > div[style]
+it-actual.ru##.blok > .blok-1
 audio-hi-fi.ru,electro-sila.ru##.blok_new > div[style]
 rutor1.ru##.box_in > .text > p > font
 tsn.ua##.c-aside-embed
