@@ -1,3 +1,4 @@
+drive2.ru##a[href][target="_blank"] > img[src][style^="width: 100%; height: auto;"][style*="vertical-align: middle; max-width: 240px;"]
 delfi.ee###ab--notification-ribbon
 minimultik.ru###abDetected
 patrioty.org.ua###ad_pu_modal
