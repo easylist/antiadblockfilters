@@ -25,6 +25,7 @@ kissvk.com###madBlockModal,.modal-backdrop
 gisclub.tv,teremok.org.ua,webos-forums.ru###mdl_adb
 ostroh.info###modal.modal-bg
 all-episodes.net###odin
+lektsii.org,studopedia.org,studopedia.ru,studopedia.su###opaco,#popup
 newkaliningrad.ru###page-wrapper > #panel-wrapper ~ div[class*=" "]:not(#page-buffer)
 kompravda.eu,kp.ru###popapIsBlockedAd
 pb.wtf,piratbit.org,piratbit.ru###result > .request
@@ -117,7 +118,6 @@ tut.by##body > div[style*="position: fixed;"][style*="right: 0;"]
 1snau.ru,bychico.net,dyrik.ru,ecosounds.net,fainaidea.com,in-drive.ru,obozrevatel.com,oknotivi.ru,pogodnik.com,sandero.ru,tehnobzor.ru##body > div[style*="z-index"][style*="999999"]
 torrnado.win##body > div > .a-overlay
 dugtor.ru##body > noindex
-lektsii.org##body > #opaco,body > #popup
 lostfilm.tv##div[class^="alarm"]
 gismeteo.by,gismeteo.ru##div[class^="stopblock"]
 finfront.ru##div[class^="swal2"]
