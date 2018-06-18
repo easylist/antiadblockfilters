@@ -128,6 +128,7 @@ savevideo.me##div[id^="ads_notice_"]
 acomics.ru##div[style*="/design/common/pic/please"]
 pvcalc.ru##div[style^="position:fixed; top:0px; left:0px; opacity: 0.9;"]
 ph4.ru##div[style^="width: 728px; height: 90px;"]
+7sim.net##html > body ~ div
 d3.ru##section[data-uid="ad"]
 d3.ru##section[data-uid="extraAd"]
 ph4.ru##table[width][height="90"][style]
