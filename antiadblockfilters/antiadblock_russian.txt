@@ -106,6 +106,7 @@ it-enginer.ru##body > #modal[style*="blur"]
 ivi.ru##body > .bottom-popup
 swaego.ru##body > .special-message-wrapper
 ukr.net##body > .yellow-die
+in-trend.biz##body > [id][style^="z-index"]
 fightnews.info##body > blockquote
 olegon.ru##body > div:not([id]):not([class])[style^="color"][style*="position: fixed; width: 99%"]
 factorio.su##body > div[class][style*="background"][style*="display: block"]
