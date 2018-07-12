@@ -65,7 +65,7 @@ audio-hi-fi.ru,electro-sila.ru##.blok_new > div[style]
 rutor1.ru##.box_in > .text > p > font
 tsn.ua##.c-aside-embed
 kinoafisha.info,tvcook.ru##.cat
-autonews.ru,rbc.ru,rbcplus.ru##.checkad_info
+autonews.ru,rbc.ru,rbcplus.ru,sportrbc.ru##.checkad_info
 rusopen.com##.classblsi.addshr
 smotrisport.online,smotrisport.tv##.dont-add-our-site-pls
 goha.ru#@#.goha_ads
