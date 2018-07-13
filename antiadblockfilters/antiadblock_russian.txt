@@ -137,7 +137,7 @@ ph4.ru##table[width][height="90"][style]
 bigpuzzle.ru##td[valign="top"][width="200px"][height="600"] > div[style]
 www.qrz.ru#?#.content_row > div[class]:-abp-has(> .inner > a[href="/help/adblock/"])
 newkaliningrad.ru#?#div[class]:-abp-has(> [class]:-abp-contains(/adblock!/i))
-qaru.site#?#div[class]:-abp-has(> p:-abp-contains(Мы вынуждены исказить текст))
+qaru.site#?#div[class]:-abp-has(> p:-abp-contains(/вынуждены.исказить|вынуждены..исказить|вынуждены...исказить|вынуждены....исказить|вынуждены.....исказить/))
 ||adscat.ru^$third-party
 ||animeteatr.ru/a-detector/
 ||anivisual.net/mim*.js|$script,domain=anivisual.net
