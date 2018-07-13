@@ -136,6 +136,7 @@ ph4.ru##table[width][height="90"][style]
 bigpuzzle.ru##td[valign="top"][width="200px"][height="600"] > div[style]
 www.qrz.ru#?#.content_row > div[class]:-abp-has(> .inner > a[href="/help/adblock/"])
 newkaliningrad.ru#?#div[class]:-abp-has(> [class]:-abp-contains(/adblock!/i))
+qaru.site#?#div[class]:-abp-has(> p:-abp-contains(Мы вынуждены исказить текст))
 ||adscat.ru^$third-party
 ||animeteatr.ru/a-detector/
 ||anivisual.net/mim*.js|$script,domain=anivisual.net
@@ -147,6 +148,8 @@ newkaliningrad.ru#?#div[class]:-abp-has(> [class]:-abp-contains(/adblock!/i))
 ||kontrolnaya-rabota.ru^*/toastr.$script,stylesheet
 ||mhelp.kz/wp-content/plugins/wp-adblock-dedect/
 ||pwnews.net/des/antiblock.js$script
+||qaru.site^$csp=script-src 'self' * blob: data:
+||qaru.site^$csp=style-src 'self' * unsafe-inline' 'unsafe-eval'
 ||rusnext.ru/advar.js$script
 ||sdamgia.ru/img/blockadblock_
 ||shellcat.ru^$third-party
