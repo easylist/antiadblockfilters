@@ -150,6 +150,7 @@ qaru.site#?#[class]:-abp-has(> p:-abp-contains(исказить))
 ||kontrolnaya-rabota.ru^*/toastr.$script,stylesheet
 ||mhelp.kz/wp-content/plugins/wp-adblock-dedect/
 ||pwnews.net/des/antiblock.js$script
+||qaru.site^$csp=script-src 'self' * data:
 ||rusnext.ru/advar.js$script
 ||sdamgia.ru/img/blockadblock_
 ||shellcat.ru^$third-party
