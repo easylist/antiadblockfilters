@@ -122,6 +122,7 @@ tut.by##body > div[style*="position: fixed;"][style*="right: 0;"]
 1snau.ru,bychico.net,dyrik.ru,ecosounds.net,fainaidea.com,in-drive.ru,musecube.org,obozrevatel.com,oknotivi.ru,pogodnik.com,sandero.ru,tehnobzor.ru##body > div[style*="z-index"][style*="999999"]
 torrnado.win##body > div > .a-overlay
 dugtor.ru##body > noindex
+kinopoisk.ru##div[class^="adblock-detector"]
 lostfilm.tv##div[class^="alarm"]
 gismeteo.by,gismeteo.ru##div[class^="stopblock"]
 finfront.ru##div[class^="swal2"]
