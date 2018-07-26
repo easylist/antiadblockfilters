@@ -149,6 +149,7 @@ newkaliningrad.ru#?#div[class]:-abp-has(> [class]:-abp-contains(/adblock!/i))
 ||kontrolnaya-rabota.ru^*/fuckadblock.js$script
 ||kontrolnaya-rabota.ru^*/toastr.$script,stylesheet
 ||mhelp.kz/wp-content/plugins/wp-adblock-dedect/
+||olegon.ru/jscookie.js
 ||pwnews.net/des/antiblock.js$script
 ||rusnext.ru/advar.js$script
 ||sdamgia.ru/img/blockadblock_
