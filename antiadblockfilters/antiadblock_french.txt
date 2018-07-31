@@ -126,6 +126,7 @@
 jaitoutcompris.com###antiBlock
 iphonesoft.fr,iphonetweak.fr###msgNoPub
 retinaboys.com###screen_block
+lagrosseradio.com###warn
 ceesty.com,clkme.me,clkmein.com,cllkme.com,corneey.com,destyy.com,festyy.com,gestyy.com,jigbig.tk,newsfortrump.ga,sh.st,shorte.st,skiip.me,skipp.io,viid.me,wiid.me##.information-container
 etr.fr##.no_block
 radiox.com##.notifyjs-corner
