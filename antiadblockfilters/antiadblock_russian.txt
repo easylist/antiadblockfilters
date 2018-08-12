@@ -87,6 +87,7 @@ alexfilm.cc##.panel-primary
 kinopoisk.ru##.partial-wrapper div[class$="_visible_show"]
 darkteam.net##.pls_rmv
 animedub.ru##.poverh
+webdesign-master.ru##.preloader + style + div[class] > p
 pythonworld.ru##.pythonworld-contributor
 fanfics.me##.red.nodata
 101.ru##.showMessageAdBlock
