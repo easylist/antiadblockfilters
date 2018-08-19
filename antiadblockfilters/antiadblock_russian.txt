@@ -26,6 +26,7 @@ poncy.ru###hide-adblock
 kissvk.com###madBlockModal,.modal-backdrop
 gisclub.tv,teremok.org.ua,webos-forums.ru###mdl_adb
 ostroh.info###modal.modal-bg
+7days2die.info###nafikblock
 all-episodes.net###odin
 center-yf.ru,lektsii.org,studopedia.org,studopedia.ru,studopedia.su###opaco,#popup
 forummikrotik.ru###phpbb-ads-ab
