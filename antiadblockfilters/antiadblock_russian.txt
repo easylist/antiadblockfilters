@@ -32,7 +32,6 @@ forummikrotik.ru###phpbb-ads-ab
 kompravda.eu,kp.ru###popapIsBlockedAd
 pb.wtf,piratbit.org,piratbit.ru###result > .request
 mnogoto4ka.ru###sb-site > div[class][style*="z-index"][style*="999999"]
-fastpic.ru##span[id][style^="margin"][style*="display: inline"]
 professorweb.ru###submain > div[class^="a"][style]
 kaermorhen.ru###top-ban-container
 numberempire.com###toplink > h3[style="color: red"]
