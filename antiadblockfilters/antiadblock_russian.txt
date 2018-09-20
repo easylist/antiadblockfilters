@@ -114,6 +114,7 @@ forum.vip-cxema.org##body > #document_modal.modal,#some_ad_block_key_popup
 it-enginer.ru##body > #modal[style*="blur"]
 swaego.ru##body > .special-message-wrapper
 ukr.net##body > .yellow-die
+poznamka.ru##body > [id]:not([class])[style^="z-index"]
 in-trend.biz##body > [id][style^="z-index"]
 fightnews.info##body > blockquote
 olegon.ru##body > div:not([id]):not([class])[style^="color"][style*="position: fixed; width: 99%"]
