@@ -68,6 +68,7 @@
 ###adBlockAlertWrap
 ###adBlockDetect
 ###adBlockerModal
+###ad_blocker
 ###adb-actived
 ###adb-enabled
 ###adb-enabled3
@@ -94,6 +95,7 @@
 ##.ad-blocked
 ##.ad-blocker-warning
 ##.ad-blocking-advisor-wrapper
+##.ad_blocker
 ##.adBlockDetectedSign
 ##.adBlockNotification
 ##.adBlockNotificationOverlay
