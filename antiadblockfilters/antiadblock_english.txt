@@ -4,6 +4,7 @@ abc-fonts.me###galepro-core-adb-enabled
 yocast.tv###ra9e
 flightradar24.com###responsiveBottomPanel
 myanimelist.net##._unit
+##.pane-emediate
 ##.ad-blocker-warning
 biggestplayer.me##.adblock + *
 hearthhead.com,wowhead.com##.block-bg
