@@ -32,6 +32,7 @@ homerun.re,strikeout.co,vipbox.sx,vipleague.ch,vipleague.co,vipleague.is,vipleag
 ||amazonaws.com^*/abb-msg.js$domain=hardocp.com
 ||corrosif.science^$domain=filerev.cc|pencurimovie.pw
 ||rockradio.com^*/blockadblock-$script,domain=rockradio.com
+||static.game-state.com/images/main/alert/replacement/
 ||www.google.*/ajax/pi/phd?abd=0$xmlhttprequest
 ! NSFW
 redtube.com###as_131
