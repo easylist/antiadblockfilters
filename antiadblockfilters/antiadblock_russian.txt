@@ -146,6 +146,7 @@ d3.ru##section[data-uid="extraAd"]
 ph4.ru##table[width][height="90"][style]
 bigpuzzle.ru##td[valign="top"][width="200px"][height="600"] > div[style]
 www.qrz.ru#?#.content_row > div[class]:-abp-has(> .inner > a[href="/help/adblock/"])
+tproger.ru#?#article.type-post:-abp-has([href="/adblock"])
 newkaliningrad.ru#?#div[class]:-abp-has(> [class]:-abp-contains(/adblock!/i))
 ||adscat.ru^$third-party
 ||animeteatr.ru/a-detector/
