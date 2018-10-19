@@ -74,6 +74,7 @@ kinoafisha.info,tvcook.ru##.cat
 autonews.ru,rbc.ru,rbcplus.ru,sportrbc.ru##.checkad_info
 rusopen.com##.classblsi.addshr
 smotrisport.online,smotrisport.tv##.dont-add-our-site-pls
+sergeistrelec.ru#@#.ad_top
 goha.ru#@#.goha_ads
 goha.ru#@#.goha_ads_acceptable
 themoviebay.ru##.is-danger.notification
