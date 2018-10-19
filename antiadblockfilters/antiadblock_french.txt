@@ -78,6 +78,7 @@
 ###adblock-box
 ###adblock-modal
 ###adblock-msg
+###adblock-notice
 ###adblock-overlay
 ###adblockDetect
 ###adblock_detected
