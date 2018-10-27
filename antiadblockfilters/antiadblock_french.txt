@@ -122,6 +122,8 @@
 ##.dispositifAdblock
 ##.dispositifAdblockContent
 ##.dispositifAdblockMessageBox
+##.fuckYouAdBlock
+##.fuckYouAdBlock2
 ##.js-checkad-warning
 ##.kill-adblock-container
 ##.noadblock
