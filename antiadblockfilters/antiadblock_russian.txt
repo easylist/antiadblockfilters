@@ -113,6 +113,7 @@ lr-club.com##a[href="https://adblockplus.org/ru/faq_basics#disable"]
 pic4you.ru,pic5you.ru##body > #bb
 forum.vip-cxema.org##body > #document_modal.modal,#some_ad_block_key_popup
 it-enginer.ru##body > #modal[style*="blur"]
+nnm-club-me.appspot.com,nnm-club.ws,nnm-club.lib,nnm-club.me,nnm-club.name,nnm-club.tv,nnmclub.to,nnmclub.tv,nontorclub.in.net##body > .request
 swaego.ru##body > .special-message-wrapper
 ukr.net##body > .yellow-die
 poznamka.ru##body > [id]:not([class])[style^="z-index"]
@@ -159,6 +160,7 @@ newkaliningrad.ru#?#div[class]:-abp-has(> [class]:-abp-contains(/adblock!/i))
 ||kontrolnaya-rabota.ru^*/fuckadblock.js$script
 ||kontrolnaya-rabota.ru^*/toastr.$script,stylesheet
 ||mhelp.kz/wp-content/plugins/wp-adblock-dedect/
+||nnm-club.ws/forum/docs/requests.js
 ||olegon.ru/jscookie.js
 ||pwnews.net/des/antiblock.js$script
 ||rusnext.ru/advar.js$script
