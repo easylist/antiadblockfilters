@@ -4,6 +4,7 @@
 !
 ###adblock_screen
 ###adblock_message
+##.adblockInfo
 ##.adblock_floating_message
 ##.adblock_msg
 ##.deadblocker-header-bar
