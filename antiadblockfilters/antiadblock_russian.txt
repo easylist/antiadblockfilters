@@ -111,7 +111,7 @@ forum.bestflowers.ru##.xenOverlay
 /fuckadblock.js$domain=ace-stream.tv
 @@||goha.ru/app/video/adblock.teaser.js|$script,domain=goha.ru
 @@||sports.ru^*/adfox.$xmlhttprequest
-@@||target.smi2.net/client/ttag.js?$script,domain=rbc.ru
+@@||target.smi2.net/client/ttag.js?rnd=$domain=rbc.ru
 mycrib.ru,piggy-bank.online##[data-type="anti-abp"]
 lr-club.com##a[href="https://adblockplus.org/ru/faq_basics#disable"]
 drive2.ru##a[href][target="_blank"] > img[src][style^="width: 100%; height: auto;"][style*="vertical-align: middle; max-width: 240px;"]
