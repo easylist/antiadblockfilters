@@ -6,6 +6,7 @@ flightradar24.com###responsiveBottomPanel
 myanimelist.net##._unit
 ##.pane-emediate
 ##.ad-blocker-warning
+mediafire.com###abnotify
 biggestplayer.me##.adblock + *
 hearthhead.com,wowhead.com##.block-bg
 wowhead.com##.block-bgimg
