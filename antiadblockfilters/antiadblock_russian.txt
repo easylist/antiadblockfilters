@@ -106,7 +106,7 @@ forum.bestflowers.ru##.xenOverlay
 /fuckadblock.js$domain=ace-stream.tv
 @@||content.rbc.medialand.ru/templates_*/ads.gif$image,domain=rbc.ru
 @@||goha.ru/app/video/adblock.teaser.js|$script,domain=goha.ru
-@@||rbk.ru^*/ads/ads.js?|$script,domain=rbc.ru|rbcplus.ru|sportrbc.ru
+@@||rbk.ru^*/ads/ads.js?|$script,domain=autonews.ru|rbc.ru|rbcplus.ru|sportrbc.ru
 @@||securepubads.g.doubleclick.net/gampad/ads?$script,domain=rbc.ru
 @@||securepubads.g.doubleclick.net/gpt/pubads_impl_$script,domain=rbc.ru
 @@||sports.ru^*/adfox.$xmlhttprequest
