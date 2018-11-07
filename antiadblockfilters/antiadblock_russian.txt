@@ -16,6 +16,7 @@ delfi.ee###delfiTopBar
 sd-company.su###dom_adblock
 myshared.ru###download_form > .uk-margin-top[style]
 forum.bestflowers.ru###exposeMask
+gk-stalker.xyz###gkadblock
 pastenow.ru###google-block
 blackdesert-info.ru###header > div[style*="z-index"][style*="999999"]
 info-mage.ru###helpme[style="display: block;"]
