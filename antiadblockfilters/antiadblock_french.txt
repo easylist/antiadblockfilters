@@ -20,7 +20,6 @@
 ||nikopik.com/wp-content/themes/*/js/nikopik.js
 ||nordpresse.be/wp-content/uploads/$script
 ||nrj.fr/nrj?Page=/rg.fake&
-||pastebin.com/nein/
 ||skyrock.net/img/*/adblock/
 !
 @@/advertisement.js$script,~third-party,domain=fun-animes.fr
