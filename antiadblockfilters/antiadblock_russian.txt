@@ -38,6 +38,7 @@ numberempire.com###toplink > h3[style="color: red"]
 ganoderma-mushrooms.com,korrektor.name,varicream.org###turn_advert.adblock
 czx.to###vdl_ctnr
 chipinfo.pro###warning
+scrin.org##.a-overlay
 vsaduidoma.com##.ABD_display_wrapper
 eurabota.com##.abtop
 sprashivalka.com##.ad
@@ -143,7 +144,6 @@ portfel.info##body > div[id][style="display: block;"]
 tut.by##body > div[style*="position: fixed;"][style*="right: 0;"]
 1snau.ru,bychico.net,dyrik.ru,ecosounds.net,fainaidea.com,in-drive.ru,musecube.org,obozrevatel.com,oknotivi.ru,pogodnik.com,sandero.ru,tehnobzor.ru##body > div[style*="z-index"][style*="999999"]
 dugtor.ru##body > noindex
-scrin.org##center > div[id][style="display: block;"]
 lostfilm.tv##div[class^="alarm"]
 gismeteo.by,gismeteo.ru##div[class^="stopblock"]
 finfront.ru##div[class^="swal2"]
