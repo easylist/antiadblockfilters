@@ -12,6 +12,7 @@
 /wp-content/plugins/ad-block-defender/*
 /wp-content/plugins/deadblocker/*
 /wp-content/uploads/an-temp/*$script,stylesheet
+/SvgAdblockDetected/*
 !
 ||bdgest.com/js/site.js?
 ||cmath.fr/images/fond2.gif
@@ -127,6 +128,8 @@
 ##.js-checkad-warning
 ##.kill-adblock-container
 ##.noadblock
+##.svg-adblock-full
+##.svg-adblock-full--box
 ##.top-bar-adblock
 ##[class][data-sitename][data-header-version] > div[id^="detection-block"]
 !
