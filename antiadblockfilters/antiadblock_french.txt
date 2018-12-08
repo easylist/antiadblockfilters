@@ -85,6 +85,7 @@
 ###adblocker_announce
 ###adblocker_message
 ###adblocker_modal_overlay
+###ads-blocked
 ###advertisementjsalert
 ###anti_adblock
 ###detectadblock
