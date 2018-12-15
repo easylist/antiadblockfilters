@@ -15,6 +15,7 @@ helpsetup.ru###d930
 delfi.ee###delfiTopBar
 sd-company.su###dom_adblock
 myshared.ru###download_form > .uk-margin-top[style]
+anime.anidub.com###errormodal
 forum.bestflowers.ru###exposeMask
 gk-stalker.xyz###gkadblock
 pastenow.ru###google-block
