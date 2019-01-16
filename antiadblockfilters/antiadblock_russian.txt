@@ -127,8 +127,8 @@ drive2.ru##a[href][target="_blank"] > img[src][style^="width: 100%; height: auto
 pic4you.ru,pic5you.ru##body > #bb
 forum.vip-cxema.org##body > #document_modal.modal,#some_ad_block_key_popup
 it-enginer.ru##body > #modal[style*="blur"]
-nnm-club-me.appspot.com,nnm-club.lib,nnm-club.me,nnm-club.ws,nnmclub.to,nontorclub.in.net##body > .request
 newkaliningrad.ru##body > .soclinks + script + div[class]:not([id])
+nnm-club-me.appspot.com,nnm-club.lib,nnm-club.me,nnm-club.ws,nnmclub.to,nontorclub.in.net##body > .request
 swaego.ru##body > .special-message-wrapper
 ukr.net##body > .yellow-die
 poznamka.ru##body > [id]:not([class])[style^="z-index"]
@@ -145,7 +145,7 @@ gisher.news,gisher.org##body > div[id][class][style^="display"][style*="position
 gta.com.ua##body > div[id][style*="background"][style*="visible"]
 portfel.info##body > div[id][style="display: block;"]
 tut.by##body > div[style*="position: fixed;"][style*="right: 0;"]
-1snau.ru,bychico.net,dyrik.ru,ecosounds.net,fainaidea.com,in-drive.ru,musecube.org,obozrevatel.com,oknotivi.ru,pogodnik.com,sandero.ru,tehnobzor.ru,turbominer.ru##body > div[style*="z-index"][style*="9999"]
+1snau.ru,bychico.net,dyrik.ru,ecosounds.net,in-drive.ru,musecube.org,obozrevatel.com,oknotivi.ru,pogodnik.com,sandero.ru,tehnobzor.ru,turbominer.ru##body > div[style*="z-index"][style*="9999"]
 dugtor.ru##body > noindex
 lostfilm.tv##div[class^="alarm"]
 gismeteo.by,gismeteo.ru##div[class^="stopblock"]
@@ -168,6 +168,7 @@ www.qrz.ru#?#.content_row > div[class]:-abp-has(> .inner > a[href="/help/adblock
 ||animeteatr.ru/a-detector/
 ||anivisual.net/mim*.js|$script,domain=anivisual.net
 ||avito.ru^*/some-pretty-script.js
+||fainaidea.com/wp-content/uploads/*/*?ver=$script,stylesheet,domain=fainaidea.com
 ||fairtop.in/template/js/fdetect.js
 ||i140.ru/js/etxm*.js|$script
 ||ipprof.ru/wp-content/plugins/ad-blocking-advisor/
