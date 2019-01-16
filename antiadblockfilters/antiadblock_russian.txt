@@ -85,7 +85,7 @@ go.mail.ru##.js-adb-msg
 space.utema.ru##.main-content-padding > div[class]:not([itemprop])
 megatest.online##.msg-AdBlock
 ykt.ru##.n-banner--adblocked
-animeland.su,itcats.ru,nekto.me,noadsradio.ru,sharkgame.ru,w10.jeanzzz.ru##.no-adb
+animeland.su,itcats.ru,nekto.me,noadsradio.ru,sharkgame.ru,studies.in.ua,w10.jeanzzz.ru##.no-adb
 mail.rambler.ru##.notification-warning
 delfi.lv##.notification-widget
 radio.yandex.by,radio.yandex.kz,radio.yandex.ru,radio.yandex.ua##.page-root .notify
