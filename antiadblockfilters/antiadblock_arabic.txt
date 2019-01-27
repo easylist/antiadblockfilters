@@ -9,6 +9,7 @@
 ##.adblock_msg
 ##.deadblocker-header-bar
 !
+myegy.cc##.disclaimer
 4algeria.com###exposeMask
 4algeria.com##.xenOverlay
 !
