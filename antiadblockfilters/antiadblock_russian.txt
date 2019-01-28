@@ -51,11 +51,10 @@ vsadu.ru##.adb-block
 andevice.ru,dietdo.ru##.adb-def
 tuchkatv.ru##.adb_m
 brazzers-hdx.club##.adblck
-forum.qrz.ru,hentaiz.org,life.ru,mastergrad.com,tvfeed.in##.adblock
+forum.qrz.ru,hentaiz.org,life.ru,mastergrad.com##.adblock
 exler.ru##.adblock-pls
 zakon.kz##.adblock_alert
 ogorod.ru##.adblock_popup_warning
-tvfeed.in##.adblock_v
 hentaiz.org##.adblocker
 kubik3.ru##.adbs
 print-post.com##.addbl
