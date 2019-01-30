@@ -29,6 +29,7 @@ beadeath.dclans.ru###mdl_ctnr
 ostroh.info###modal.modal-bg
 7days2die.info###nafikblock
 all-episodes.net###odin
+mover.uz###oframeplayer > [style^="font-size: 48px;"],#oframeplayer svg[height="25%"][width="25%"]
 center-yf.ru,lektsii.org,studopedia.com.ua,studopedia.org,studopedia.ru,studopedia.su###opaco,#popup
 md4u.ru###pagecontent > div[style*="background-color"]
 forummikrotik.ru###phpbb-ads-ab
