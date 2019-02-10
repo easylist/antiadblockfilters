@@ -86,6 +86,7 @@
 ###adblocker_announce
 ###adblocker_message
 ###adblocker_modal_overlay
+###adblockinfo
 ###ads-blocked
 ###advertisementjsalert
 ###anti_adblock
@@ -135,6 +136,7 @@
 ##.top-bar-adblock
 ##[class][data-sitename][data-header-version] > div[id^="detection-block"]
 !
+wamiz.com###adblocker
 jaitoutcompris.com###antiBlock
 developpez.com,developpez.net###encart_droite div[style="display: inline-block; width: 300px; height: 250px"]
 iphonesoft.fr,iphonetweak.fr###msgNoPub
