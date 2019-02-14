@@ -51,6 +51,7 @@ cc-fan.tv,cn-fan.tv,fox-fan.tv,goodfon.ru,satsis.info,swordmaster.org##.adb
 vsadu.ru##.adb-block
 andevice.ru,dietdo.ru##.adb-def
 tuchkatv.ru##.adb_m
+besplatka.ua##.adBl
 brazzers-hdx.club##.adblck
 forum.qrz.ru,hentaiz.org,life.ru,mastergrad.com##.adblock
 exler.ru##.adblock-pls
