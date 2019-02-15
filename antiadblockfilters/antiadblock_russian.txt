@@ -86,6 +86,7 @@ goha.ru#@#.goha_ads
 goha.ru#@#.goha_ads_acceptable
 themoviebay.ru##.is-danger.notification
 ivi.ru##.ivi-footer ~ div[class] > style + div[class]
+doctorrouter.ru##.jgcabd-container
 go.mail.ru##.js-adb-msg
 space.utema.ru##.main-content-padding > div[class]:not([itemprop])
 megatest.online##.msg-AdBlock
