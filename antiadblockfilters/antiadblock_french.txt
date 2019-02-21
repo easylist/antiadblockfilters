@@ -2,6 +2,7 @@
 -adblock-notice-
 -adblock-notice/*
 /ad-blocking-advisor/*
+/adbl_dtct.
 /adblock-notice-
 /adblock-notify-by-bweb/*
 /adblock-warning-teaser/*
@@ -92,6 +93,8 @@
 ###ads-blocked
 ###advertisementjsalert
 ###anti_adblock
+###detection-block
+###detection-block-overlay
 ###detectadblock
 ###fnAdblockingOverlay
 ###message_adblock
