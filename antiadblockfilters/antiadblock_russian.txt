@@ -25,6 +25,7 @@ kissvk.com###madBlockModal,.modal-backdrop
 aratta-ukraine.com,gisclub.tv,teremok.org.ua,webos-forums.ru###mdl_adb
 beadeath.dclans.ru###mdl_ctnr
 ostroh.info###modal.modal-bg
+photolessons.org###modal-adbmon-div
 7days2die.info###nafikblock
 all-episodes.net###odin
 mover.uz###oframeplayer > [class][style^="display: block"]
