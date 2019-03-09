@@ -102,6 +102,7 @@
 ##.AdblockMessage
 ##.AdblockMessage_msg
 ##.ad-alert-wrapper
+##.ad-block-detected
 ##.ad-block-enabled
 ##.ad-block-message
 ##.ad-blocked
