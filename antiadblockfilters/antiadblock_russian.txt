@@ -156,6 +156,7 @@ acomics.ru##div[style*="/design/common/pic/please"]
 abc-people.com##div[style*="background-color"][style*="position"][style*="z-index"]
 pvcalc.ru##div[style^="position:fixed; top:0px; left:0px; opacity: 0.9;"]
 ph4.ru##div[style^="width: 728px; height: 90px;"]
+bdmbase.ru##html > .q1
 7sim.net##html > body ~ div
 d3.ru##section[data-uid="ad"]
 d3.ru##section[data-uid="extraAd"]
