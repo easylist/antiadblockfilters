@@ -164,6 +164,7 @@ bigpuzzle.ru##td[valign="top"][width="200px"][height="600"] > div[style]
 tproger.ru#?#article.type-post:-abp-has([href="/adblock"])
 www.qrz.ru#?#.content_row > div[class]:-abp-has(> .inner > a[href="/help/adblock/"])
 ||adscat.ru^$third-party
+||allnorilsk.ru/js/adb.js
 ||animeteatr.ru/a-detector/
 ||anivisual.net/mim*.js|$script,domain=anivisual.net
 ||avito.ru^*/some-pretty-script.js
