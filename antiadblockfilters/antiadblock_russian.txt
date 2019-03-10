@@ -118,7 +118,7 @@ forum.bestflowers.ru##.xenOverlay
 @@||anime.anidub.com/ads.js$script,domain=anime.anidub.com
 @@||goha.ru/app/video/adblock.teaser.js|$script,domain=goha.ru
 @@||sports.ru^*/adfox.$xmlhttprequest
-mycrib.ru,piggy-bank.online##[data-type="anti-abp"]
+auto62rus.ru,eset-key.ru,mycrib.ru,piggy-bank.online,politonline.ru,showmehow.ru##[data-type="anti-abp"]
 lr-club.com##a[href="https://adblockplus.org/ru/faq_basics#disable"]
 drive2.ru##a[href][target="_blank"] > img[src][style^="width: 100%; height: auto;"][style*="vertical-align: middle; max-width: 240px;"]
 pic4you.ru,pic5you.ru##body > #bb
@@ -149,7 +149,6 @@ kinopad.net##div[class^="adblock-warning"]
 lostfilm.tv##div[class^="alarm"]
 gismeteo.by,gismeteo.ru##div[class^="stopblock"]
 finfront.ru##div[class^="swal2"]
-eset-key.ru,politonline.ru,showmehow.ru##div[data-type="anti-abp"]
 savevideo.me##div[id^="ads_notice_"]
 forvk.space##div[id^="block"][style*="display: block;"]
 acomics.ru##div[style*="/design/common/pic/please"]
