@@ -23,6 +23,7 @@
 ||cmath.fr/images/fond2.gif
 ||cmath.fr/images/fondsticky.gif
 ||ed-protect.org/cdn-cgi/apps/head/
+||gameblog.fr/images/ablock/
 ||nikopik.com/wp-content/themes/*/js/nikopik.js
 ||nordpresse.be/wp-content/uploads/$script
 ||nrj.fr/nrj?Page=/rg.fake&
@@ -41,7 +42,6 @@
 @@||frandroid.com/ads.js
 @@||free-reseau.fr/css/publicite.css|$stylesheet
 @@||fusacq.com/javascript/advertising.js|$script
-@@||gameblog.fr/scripts/adframe.js
 @@||grattable.com/blogads.css
 @@||hdnumerique.com/tpl/jscript/advert.js
 @@||impactmangas.fr/ads.js|$script,~third-party
