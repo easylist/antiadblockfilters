@@ -21,6 +21,7 @@ gk-stalker.xyz###gkadblock
 pastenow.ru###google-block
 info-mage.ru###helpme[style="display: block;"]
 poncy.ru###hide-adblock
+artfile.me###jadb
 kissvk.com###madBlockModal,.modal-backdrop
 aratta-ukraine.com,gisclub.tv,teremok.org.ua,webos-forums.ru###mdl_adb
 beadeath.dclans.ru###mdl_ctnr
