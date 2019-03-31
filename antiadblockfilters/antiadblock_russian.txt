@@ -186,5 +186,6 @@ www.qrz.ru#?#div[class]:-abp-has(> .inner > a[href="/help/adblock/"])
 ||rockstargame.su/adb_script/
 ||rusnext.ru/advar.js$script
 ||sdamgia.ru/img/blockadblock_
+||sea-man.org/adb_script/
 ||shellcat.ru^$third-party
 ||stroi-help.ru/forum/script_new.js
