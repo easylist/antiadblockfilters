@@ -11,6 +11,7 @@ novostroy-m.ru###advert_result
 cxem.net###antiAdBlock
 elhow.ru###b-info-wrapper
 ma.by###bodysubcont > div[style^="padding"]:not([id]):not([class])
+rockstargame.su###baduser
 pln-pskov.ru###check_ad_block
 helpsetup.ru###d930
 delfi.ee###delfiTopBar
