@@ -118,6 +118,7 @@ forum.bestflowers.ru##.xenOverlay
 /cookie_check.min.js$domain=acetv.me
 /forum/docs/requests.js$script,domain=nnm-club-me.appspot.com|nnm-club.lib|nnm-club.me|nnm-club.ws|nnmclub.to|nontorclub.in.net
 /fuckadblock.js$domain=ace-stream.tv
+@@||an.yandex.ru/jstracer?aab_detect=$xmlhttprequest,domain=yandex.by|yandex.kz|yandex.ru|yandex.ua
 @@||anime.anidub.com/ads.js$script,domain=anime.anidub.com
 @@||goha.ru/app/video/adblock.teaser.js|$script,domain=goha.ru
 @@||sports.ru^*/adfox.$xmlhttprequest
