@@ -2,6 +2,8 @@
 /deadblocker/*
 /mod_ablockdetector/*
 !
+@@||cdn.egy.best/static/global/js/adblock.js$script
+!
 ###adblock_screen
 ###adblock_message
 ##.adblockInfo
