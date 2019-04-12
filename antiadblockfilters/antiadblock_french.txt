@@ -2,6 +2,8 @@
 -adblock-notice-
 -adblock-notice/*
 /ad-blocking-advisor/*
+/adbDetect.
+/adbDetect/*
 /adbl_dtct.
 /adblock-detect/*
 /adblock-notice-
@@ -29,7 +31,7 @@
 ||nrj.fr/nrj?Page=/rg.fake&
 ||skyrock.net/img/*/adblock/
 !
-@@/advertisement.js$script,~third-party,domain=fun-animes.fr
+@@/advertisement.js$script,~third-party,domain=fun-animes.fr|upload.ac
 @@/noadblock-nice-message/assets/js/ads.js?$script,~third-party
 !
 @@||abcbourse.com/scripts/ads.js$script,~third-party
