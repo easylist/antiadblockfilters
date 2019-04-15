@@ -33,7 +33,7 @@ all-episodes.net###odin
 mover.uz###oframeplayer > [class][style^="display: block"]
 center-yf.ru,lektsii.org,studopedia.com.ua,studopedia.org,studopedia.ru,studopedia.su###opaco,#popup
 md4u.ru###pagecontent > div[style*="background-color"]
-forummikrotik.ru###phpbb-ads-ab
+alensat.org,forummikrotik.ru###phpbb-ads-ab
 kompravda.eu,kp.ru###popapIsBlockedAd
 math-prosto.ru###requestShutOfBlocker
 pb.wtf,piratbit.org,piratbit.ru###result > .request
