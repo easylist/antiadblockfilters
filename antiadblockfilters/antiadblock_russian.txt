@@ -35,6 +35,7 @@ center-yf.ru,lektsii.org,studopedia.com.ua,studopedia.org,studopedia.ru,studoped
 md4u.ru###pagecontent > div[style*="background-color"]
 alensat.org,forummikrotik.ru###phpbb-ads-ab
 kompravda.eu,kp.ru###popapIsBlockedAd
+sostav.ru###rek_blocker
 math-prosto.ru###requestShutOfBlocker
 pb.wtf,piratbit.org,piratbit.ru###result > .request
 mnogoto4ka.ru###sb-site > div[class][style*="z-index"][style*="999999"]
