@@ -9,6 +9,7 @@
 /adblock-notice-
 /adblock-notify-by-bweb/*
 /adblock-warning-teaser/*
+/adblock_alerter.
 /adblock_gate/images/animated.gif?
 /adblock_notify.js
 /adblocker_message_
@@ -16,6 +17,7 @@
 /antiadblockmsg.
 /blockadblock.js
 /blockadblock.min.js
+/disable-adblock.
 /wp-content/plugins/ad-block-defender/*
 /wp-content/plugins/deadblocker/*
 /wp-content/uploads/an-temp/*$script,stylesheet
@@ -81,6 +83,7 @@
 ###adb-enabled
 ###adb-enabled3
 ###adb-warning
+###adbcontainer-popup
 ###adblock-alert
 ###adblock-box
 ###adblock-modal
@@ -93,6 +96,7 @@
 ###adblocker_message
 ###adblocker_modal_overlay
 ###adblockinfo
+###adbpopup
 ###ads-blocked
 ###advertisementjsalert
 ###anti_adblock
@@ -100,6 +104,7 @@
 ###detection-block-overlay
 ###detectadblock
 ###fnAdblockingOverlay
+###js-popup-blocker
 ###message_adblock
 ##.AdblockMessage
 ##.AdblockMessage_msg
