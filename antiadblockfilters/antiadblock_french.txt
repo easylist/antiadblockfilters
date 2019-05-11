@@ -73,6 +73,7 @@
 @@||zagaz.com/img/blogads.css
 !
 ###AdBlockDialog
+###aabl-container
 ###abp-killer
 ###adBlockAlert
 ###adBlockAlertWrap
@@ -98,6 +99,7 @@
 ###adblockinfo
 ###adbpopup
 ###ads-blocked
+###adsblocker_detected
 ###advertisementjsalert
 ###anti_adblock
 ###detection-block
