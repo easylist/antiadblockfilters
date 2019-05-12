@@ -155,6 +155,7 @@ tut.by##body > div[style*="position: fixed;"][style*="right: 0;"]
 dugtor.ru##body > noindex
 www.qrz.ru#?#div[class]:-abp-has(> .inner > a[href="/help/adblock/"])
 blackdesert-info.ru##div[class][style*="z-index"][style*="999999;"][style*="background"][style*="rgb"]
+game2day.ru##div[class^="adblock_"]
 megogo.net,megogo.ru##div[class^="adBlockBanner"]
 kinopad.net,playtor.tv##div[class^="adblock-warning"]
 lostfilm.tv##div[class^="alarm"]
