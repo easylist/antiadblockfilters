@@ -8,6 +8,7 @@ myanimelist.net##._unit
 ##.ad-blocker-warning
 mediafire.com###abnotify
 biggestplayer.me##.adblock + *
+nexusmods.com##.areplacer
 hearthhead.com,wowhead.com##.block-bg
 wowhead.com##.block-bgimg
 euroiphone.eu##.div-download-h
