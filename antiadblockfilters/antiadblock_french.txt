@@ -108,8 +108,10 @@
 ###fnAdblockingOverlay
 ###js-popup-blocker
 ###message_adblock
+###notify-adblock
 ##.AdblockMessage
 ##.AdblockMessage_msg
+##.ad-alert-message-text
 ##.ad-alert-wrapper
 ##.ad-block-detected
 ##.ad-block-enabled
