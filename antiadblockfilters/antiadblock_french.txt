@@ -15,8 +15,7 @@
 /adblocker_message_
 /AdblockMessage.
 /antiadblockmsg.
-/blockadblock.js
-/blockadblock.min.js
+/blockadblock.$script
 /disable-adblock.
 /wp-content/plugins/ad-block-defender/*
 /wp-content/plugins/deadblocker/*
