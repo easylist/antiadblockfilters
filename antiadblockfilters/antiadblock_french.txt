@@ -175,6 +175,7 @@ pausecafein.fr###adb-pop
 #@##adblocktest
 !
 dbz-fantasy.com#@##adTeaser
+fstore.biz#@##adblockinfo
 dz-android.com,freeiphone.fr,hommedumatch.fr,jetetroll.com,testious.com#@##adsense
 debrideurstream.fr#@##pubdirecte
 ot-boutique.fr#@##publicite
