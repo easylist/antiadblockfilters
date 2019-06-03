@@ -37,6 +37,7 @@
 !
 @@||abcbourse.com/scripts/ads.js$script,~third-party
 @@||ausujet.com/skins/common/ads.js
+@@||cdncontent.wakanim.tv/scripts/dist/ads.js$script,~third-party
 @@||cyberdean.fr/js/advertisement.js
 @@||dbz-fantasy.com/ads.css
 @@||dev-dyod.fr/styles/ads.css
