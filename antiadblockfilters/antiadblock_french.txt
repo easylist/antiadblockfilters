@@ -15,6 +15,7 @@
 /adblocker_message_
 /AdblockMessage.
 /antiadblockmsg.
+/blockAndInf.js
 /blockadblock.$script
 /disable-adblock.
 /wp-content/plugins/ad-block-defender/*
@@ -36,6 +37,7 @@
 @@/noadblock-nice-message/assets/js/ads.js?$script,~third-party
 !
 @@||abcbourse.com/scripts/ads.js$script,~third-party
+@@||animedigitalnetwork.fr/templates/*/js/advertising.min.js?$script,~third-party
 @@||ausujet.com/skins/common/ads.js
 @@||cdncontent.wakanim.tv/scripts/dist/ads.js$script,~third-party
 @@||cyberdean.fr/js/advertisement.js
@@ -138,6 +140,7 @@
 ##.adblock_floating_message
 ##.adblocker-message
 ##.adblocker-wrap
+##.ads-block-warning
 ##.counterAdblocks
 ##.deadblocker-header-bar
 ##.deadblocker-header-bar-inner
