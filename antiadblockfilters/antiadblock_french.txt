@@ -63,6 +63,7 @@
 @@||penducado.com/styles/ads.css
 @@||presse-algerie.net/js/ads.js$script
 @@||primfx.com/js/ads.js|$script,~third-party
+@@||proxy.ads.canalplus-bo.net/web/undefined/v1/adserver/info/?asset=*&channel=$xmlhttprequest,domain=www.mycanal.fr
 @@||ps3-infos.fr/adsense/openads/ads/ads.js
 @@||ptitchef.com/js/ads.js
 @@||static.koreus.com/js/advert.js
@@ -71,6 +72,7 @@
 @@||universfreebox.com/js/advertisement.js
 @@||uplea.com/js/advertisement.js
 @@||peimg.fr/js/ads.js$script,domain=pubeco.fr
+@@||v.fwmrm.net/ad/g/1?$xmlhttprequest,domain=www.mycanal.fr
 @@||wamiz.com/css/ads.css
 @@||zagaz.com/img/blogads.css
 !
