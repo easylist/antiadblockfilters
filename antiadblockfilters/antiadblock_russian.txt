@@ -10,7 +10,6 @@ firebit.info###adv-300 + div[class][align="center"][style^="background-color"]
 novostroy-m.ru###advert_result
 cxem.net###antiAdBlock
 elhow.ru###b-info-wrapper
-rockstargame.su###baduser
 ma.by###bodysubcont > div[style^="padding"]:not([id]):not([class])
 pln-pskov.ru###check_ad_block
 delfi.ee###delfiTopBar
