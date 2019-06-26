@@ -146,7 +146,8 @@ newkaliningrad.ru##body > .soclinks + script + div[class]:not([id])
 swaego.ru##body > .special-message-wrapper
 ukr.net##body > .yellow-die
 mail.ru##body > .zeropixel ~ * .i-clearfix.feed-generic__container
-mail.ru#?#body > .zeropixel ~ * .search__container ~ [class] > .tabs + div[class] ~ div div:-abp-has(> div:-abp-contains(/[a-z]/))
+mail.ru##body > .zeropixel ~ * .search__container ~ [class] > .tabs + div[class] ~ div > div:first-child:not([name])
+mail.ru##body > .zeropixel ~ * .search__container ~ [class] > .tabs + div[class] ~ div > div:first-child:not([name]) ~ div
 mail.ru##body > .zeropixel ~ * .search__container ~ [class] ~ [class] > :first-child
 poznamka.ru##body > [id]:not([class])[style^="z-index"]
 in-trend.biz##body > [id][style^="z-index"]
