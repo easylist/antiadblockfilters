@@ -38,7 +38,7 @@ _adblock_killer.
 ||nrj.fr/nrj?Page=/rg.fake&
 ||skyrock.net/img/*/adblock/
 !
-@@/advertisement.js$script,~third-party,domain=fun-animes.fr|upload.ac
+@@/advertisement.js$script,~third-party,domain=fun-animes.fr|macupload.net|upload.ac
 @@/noadblock-nice-message/assets/js/ads.js?$script,~third-party
 !
 @@||abcbourse.com/scripts/ads.js$script,~third-party
