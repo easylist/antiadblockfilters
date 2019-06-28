@@ -12,7 +12,7 @@ wotactions.com###ads_warning
 firebit.info###adv-300 + div[class][align="center"][style^="background-color"]
 novostroy-m.ru###advert_result
 cxem.net###antiAdBlock
-e.mail.ru,octavius.mail.ru###app-canvas .application-mail__wrap > .layout > .layout__main-frame ~ .layout__column_right
+e.mail.ru,octavius.mail.ru###app-canvas .application-mail__wrap > .layout > .layout__main-frame ~ .layout__column_right > :not(.sidebar-search)
 elhow.ru###b-info-wrapper
 ma.by###bodysubcont > div[style^="padding"]:not([id]):not([class])
 pln-pskov.ru###check_ad_block
