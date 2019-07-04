@@ -130,7 +130,6 @@ forum.bestflowers.ru##.xenOverlay
 @@||cn-fan.tv/*.js|$script,domain=cc-fan.tv|cn-fan.tv|fox-fan.tv|nf-fan.tv
 @@||fox-fan.tv/*.js|$script,domain=cc-fan.tv|cn-fan.tv|fox-fan.tv|nf-fan.tv
 @@||goha.ru/app/video/adblock.teaser.js|$script,domain=goha.ru
-@@||list-org.com/*.js|$xmlhttprequest,domain=www.list-org.com
 @@||mult.love/*.js|$script,domain=cc-fan.tv|cn-fan.tv|fox-fan.tv|nf-fan.tv
 @@||nf-fan.tv/*.js|$script,domain=cc-fan.tv|cn-fan.tv|fox-fan.tv|nf-fan.tv
 @@||sports.ru^*/adfox.$xmlhttprequest
