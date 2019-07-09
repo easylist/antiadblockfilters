@@ -46,7 +46,7 @@ _adblock_killer.
 @@||anime-vf.fr/catalog/view/javascript/ads.js$script,~third-party
 @@||animedigitalnetwork.fr/templates/*/js/advertising.min.js?$script,~third-party
 @@||ausujet.com/skins/common/ads.js
-@@||cdncontent.wakanim.tv/scripts/dist/ads.js$script,~third-party
+@@||cdncontent.wakanim.tv/scripts/dist/ads.js$script,xmlhttprequest,~third-party
 @@||cyberdean.fr/js/advertisement.js
 @@||dbz-fantasy.com/ads.css
 @@||dev-dyod.fr/styles/ads.css
