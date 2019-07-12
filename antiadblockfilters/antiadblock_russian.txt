@@ -49,7 +49,7 @@ eurabota.com##.abtop
 sprashivalka.com##.ad
 topcraft.ru##.ad-info
 besplatka.ua##.adBl
-cc-fan.tv,cn-fan.tv,fox-fan.tv,goodfon.ru,nf-fan.tv,satsis.info,swordmaster.org##.adb
+bycard.by,cc-fan.tv,cn-fan.tv,fox-fan.tv,goodfon.ru,nf-fan.tv,satsis.info,swordmaster.org##.adb
 vsadu.ru##.adb-block
 andevice.ru,dietdo.ru##.adb-def
 tuchkatv.ru##.adb_m
