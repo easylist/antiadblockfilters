@@ -119,6 +119,7 @@ forum.bestflowers.ru##.xenOverlay
 /cookie_check.min.js$domain=acetv.me
 /forum/docs/requests.js$script,domain=nnm-club.lib|nnm-club.me|nnm-club.ws|nnmclub.ro|nnmclub.to|nontorclub.in.net
 /fuckadblock.js$domain=ace-stream.tv
+@@||a.republer.com/render.js$script,domain=cc-fan.tv|cn-fan.tv|fox-fan.tv|nf-fan.tv
 @@||an.yandex.ru/jstracer?aab_detect=$xmlhttprequest,domain=yandex.by|yandex.kz|yandex.ru|yandex.ua
 @@||anidub.com/ads.js|$script,domain=anidub.com
 @@||cc-fan.tv/*.js|$script,domain=cc-fan.tv|cn-fan.tv|fox-fan.tv|nf-fan.tv
@@ -168,7 +169,6 @@ lostfilm.tv##div[class^="alarm"]
 gismeteo.by,gismeteo.ru##div[class^="stopblock"]
 finfront.ru##div[class^="swal2"]
 savevideo.me##div[id^="ads_notice_"]
-cc-fan.tv,cn-fan.tv,fox-fan.tv,nf-fan.tv#@#div[id^="advertur_"]
 forvk.space##div[id^="block"][style*="display: block;"]
 acomics.ru##div[style*="/design/common/pic/please"]
 abc-people.com##div[style*="background-color"][style*="position"][style*="z-index"]
