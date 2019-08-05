@@ -153,6 +153,8 @@ olegon.ru##body > div:not([id]):not([class])[style^="color"][style*="position: f
 katalog-aktsii.ru,rp5.by,rp5.kz,rp5.ru,rp5.ua,vikings-warofclans.ru##body > div:not([id]):not([class])[style^="position"][style*="background"][style*="z-index"]
 factorio.su##body > div[class][style*="background"][style*="display: block"]
 gdekluet.ru##body > div[class^="stop-block"]
+igorchernomoretz.com##body > div[id^="ab"]
+igorchernomoretz.com##body > div[id^="ab"] + div[style*="cursor"]
 glav.su##body > div[id]:not([class])[style*="background"][style*="display: block"]
 logist.uxxo.ru,maxpark.com,meteoservice.ru,newdeaf-online.net,newsland.com,pawno-info.ru,scrin.org,smolensk-auto.ru##body > div[id]:not([class])[style="display: block;"]
 factorio.su##body > div[id][class][style*="background"][style*="visible"]
