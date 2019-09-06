@@ -26,7 +26,7 @@ poncy.ru###hide-adblock
 artfile.me###jadb
 doefiratv.net###ko-bind > div[style^="display"]:not([id^="player"])
 kissvk.com###madBlockModal,.modal-backdrop
-aratta-ukraine.com,gisclub.tv,teremok.org.ua,webos-forums.ru###mdl_adb
+aratta-ukraine.com,drawnstories.ru,gisclub.tv,teremok.org.ua,webos-forums.ru###mdl_adb
 beadeath.dclans.ru###mdl_ctnr
 photolessons.org###modal-adbmon-div
 ostroh.info###modal.modal-bg
