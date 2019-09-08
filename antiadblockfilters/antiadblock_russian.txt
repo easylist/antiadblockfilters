@@ -24,7 +24,6 @@ pastenow.ru###google-block
 info-mage.ru###helpme[style="display: block;"]
 poncy.ru###hide-adblock
 artfile.me###jadb
-doefiratv.net###ko-bind > div[style^="display"]:not([id^="player"])
 kissvk.com###madBlockModal,.modal-backdrop
 aratta-ukraine.com,drawnstories.ru,gisclub.tv,teremok.org.ua,webos-forums.ru###mdl_adb
 beadeath.dclans.ru###mdl_ctnr
