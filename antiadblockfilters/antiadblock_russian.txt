@@ -116,7 +116,7 @@ fanfics.me##.red.nodata
 101.ru##.showMessageAdBlock
 playunturned.ru##.side_left > center
 playunturned.ru##.side_right > center
-mhelp.kz##.swal2-container
+l-a-w.ru,mhelp.kz##.swal2-container
 objavlenija.respublika.cz##.sweet-alert,.sweet-overlay
 kinoafisha.ua##.turn-off-add-block-text
 kinoprofi.net##.warning-adblock
