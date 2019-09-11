@@ -58,6 +58,7 @@ andevice.ru,dietdo.ru##.adb-def
 tuchkatv.ru##.adb_m
 brazzers-hdx.club##.adblck
 forum.qrz.ru,hentaiz.org,life.ru,mastergrad.com##.adblock
+pimpletv.ru##.adblock-notification
 nevasport.ru##.adblock-notify
 exler.ru##.adblock-pls
 zakon.kz##.adblock_alert
