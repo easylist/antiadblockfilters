@@ -167,7 +167,7 @@ gisher.news##body > div[id][class][style^="display"][style*="position"][style*="
 gta.com.ua##body > div[id][style*="background"][style*="visible"]
 portfel.info##body > div[id][style="display: block;"]
 tut.by##body > div[style*="position: fixed;"][style*="right: 0;"]
-1snau.ru,bychico.net,dyrik.ru,ecosounds.net,in-drive.ru,musecube.org,obozrevatel.com,oknotivi.ru,pogodnik.com,sandero.ru,tehnobzor.ru,turbominer.ru##body > div[style*="z-index"][style*="9999"]
+1snau.ru,bychico.net,dyrik.ru,ecosounds.net,in-drive.ru,inforpost.com,musecube.org,obozrevatel.com,oknotivi.ru,pogodnik.com,sandero.ru,tehnobzor.ru,turbominer.ru##body > div[style*="z-index"][style*="9999"]
 dugtor.ru##body > noindex
 www.qrz.ru#?#div[class]:-abp-has(> .inner > a[href="/help/adblock/"])
 blackdesert-info.ru##div[class][style*="z-index"][style*="999999;"][style*="background"][style*="rgb"]
