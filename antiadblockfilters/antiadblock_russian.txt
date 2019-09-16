@@ -31,6 +31,7 @@ beadeath.dclans.ru###mdl_ctnr
 photolessons.org###modal-adbmon-div
 ostroh.info###modal.modal-bg
 7days2die.info###nafikblock
+rbkgames.com###norris-detector
 all-episodes.net###odin
 mover.uz###oframeplayer > [class][style^="display: block"]
 center-yf.ru,lektsii.org,studopedia.com.ua,studopedia.org,studopedia.ru,studopedia.su###opaco,#popup
