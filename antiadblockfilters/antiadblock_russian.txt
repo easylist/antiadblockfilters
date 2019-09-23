@@ -22,6 +22,7 @@ myshared.ru###download_form > .uk-margin-top[style]
 forum.bestflowers.ru###exposeMask
 gk-stalker.xyz###gkadblock
 pastenow.ru###google-block
+gamesubject.com###headb
 provinceinfo.ru###header > .container > a[href="/menu"] ~ h2
 info-mage.ru###helpme[style="display: block;"]
 poncy.ru###hide-adblock
