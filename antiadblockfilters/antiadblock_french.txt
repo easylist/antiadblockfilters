@@ -1,6 +1,7 @@
 !
 -adblock-notice-
 -adblock-notice/*
+/abb-msg.js
 /ad-blocking-advisor/*
 /adbDetect.
 /adbDetect/*
@@ -142,6 +143,7 @@ _adblock_killer.
 ##.adbd-background
 ##.adbd-message
 ##.adbd-wrapper
+##.adblock-message
 ##.adblock-modal
 ##.adblock-modal-content
 ##.adblock-notification-wrapper
@@ -174,7 +176,7 @@ _adblock_killer.
 !
 wamiz.com###adblocker
 jaitoutcompris.com###antiBlock
-iphonesoft.fr,iphonetweak.fr###msgNoPub
+iphonesoft.fr,iphonetweak.fr###msgUser
 retinaboys.com###screen_block
 lagrosseradio.com###warn
 journaldugeek.com##.banner__content
