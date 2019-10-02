@@ -83,7 +83,7 @@ mel.fm##.b-ad-space__placeholder
 ixbt.com##.b-blockadblock
 d3.ru##.b-promo__placeholder
 cs-amba.ru##.banka
-it-actual.ru##.blok > div[class^="bl-"]
+it-actual.ru##.blokn
 electric-house.ru##.blok_forum > div[style]
 audio-hi-fi.ru,electro-sila.ru##.blok_new > div[style]
 rutor1.ru##.box_in > .text > p > font
