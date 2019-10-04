@@ -83,6 +83,7 @@ mel.fm##.b-ad-space__placeholder
 ixbt.com##.b-blockadblock
 d3.ru##.b-promo__placeholder
 cs-amba.ru##.banka
+medical-club.net##.blocker-notice,.blocker-overlay
 it-actual.ru##.blokn
 electric-house.ru##.blok_forum > div[style]
 audio-hi-fi.ru,electro-sila.ru##.blok_new > div[style]
