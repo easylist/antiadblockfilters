@@ -3,7 +3,8 @@
 /deadblocker/*
 /mod_ablockdetector/*
 !
-@@||cdn.egy.best/static/global/js/adblock.js$script
+@@/advertisement.js$script,~third-party,domain=arabe-media.com
+!
 @@||play.bokracdn.run/v2/adsjs/ads.js$script,~third-party
 !
 ###adblock_screen
@@ -13,8 +14,10 @@
 ##.adblock_msg
 ##.ads-block-warning
 ##.deadblocker-header-bar
+##.detected-block-modal
+##.no-ad-reminder
 !
-myegy.cc##.disclaimer
+myegy.cc,myegy.io,myegy.to##.disclaimer
 4algeria.com###exposeMask
 chahid4u.tk###unblocker
 4algeria.com##.xenOverlay
