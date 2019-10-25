@@ -70,7 +70,6 @@ zakon.kz##.adblock_alert
 ogorod.ru##.adblock_popup_warning
 hentaiz.org##.adblocker
 kubik3.ru##.adbs
-print-post.com##.addbl
 ideya-biznesa.ru##.admania_adblock_detector
 24video.xxx##.adt
 rusrek.com##.alert
