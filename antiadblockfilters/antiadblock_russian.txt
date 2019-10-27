@@ -36,7 +36,7 @@ ostroh.info###modal.modal-bg
 rbkgames.com###norris-detector
 all-episodes.net###odin
 mover.uz###oframeplayer > [class][style^="display: block"]
-filmix.cc,filmix.co,filmix.ink,filmix.site,filmix.today#?##oframeplayer > pjsdiv:-abp-has(> pjsdiv:-abp-contains(/adblock/i))
+filmix.cc,filmix.co,filmix.ink,filmix.site,filmix.today###oframeplayer > pjsdiv[style^="position: absolute; left:"][style*="display: block; visibility: visible;"] ~ pjsdiv[style^="position: absolute; left:"][style*="display: block; visibility: visible;"]
 center-yf.ru,lektsii.org,studopedia.com.ua,studopedia.org,studopedia.ru,studopedia.su###opaco,#popup
 md4u.ru###pagecontent > div[style*="background-color"]
 alensat.org,forummikrotik.ru###phpbb-ads-ab
