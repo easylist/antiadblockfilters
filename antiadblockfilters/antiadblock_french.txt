@@ -16,6 +16,7 @@
 /adblock_alerter/*
 /adblock_gate/images/animated.gif?
 /adblock_notify.js
+/adblocker/modal.
 /adblocker_message_
 /AdblockMessage.
 /antiadblockmsg.
@@ -23,6 +24,7 @@
 /blockadblock.$script
 /disable-adblock.
 /inc/antiblock.
+/nonAdBlock/*
 /testAB.bundle.
 /wp-content/plugins/ad-block-defender/*
 /wp-content/plugins/deadblocker/*
@@ -52,7 +54,6 @@ _adblock_killer.
 @@||cyberdean.fr/js/advertisement.js
 @@||dbz-fantasy.com/ads.css
 @@||forums.macg.co/js/audentio/funbox/advertisement.js
-@@||france.carbu.com/templates/media/js/ads.js$script
 @@||frandroid.com/ads.js
 @@||free-reseau.fr/css/publicite.css|$stylesheet
 @@||fusacq.com/javascript/advertising.js|$script
@@ -63,7 +64,6 @@ _adblock_killer.
 @@||jeuxvideo-live.com/js/ads.js
 @@||ktu.sv2.biz/sv3/advertisement.js
 @@||larvf.com/js/ads.js
-@@||macg.co/js/audentio/funbox/advertisement.js
 @@||manga-news.com/js/advert.js$script
 @@||numerama.com/ads.js
 @@||pagerank.fr/js*/advert.js?$script
@@ -75,7 +75,6 @@ _adblock_killer.
 @@||static.koreus.com/js/advert.js
 @@||cdn4.tennistemple.com/js/advert.js|$script,~third-party
 @@||universfreebox.com/js/advertisement.js
-@@||uplea.com/js/advertisement.js
 @@||peimg.fr/js/ads.js$script,domain=pubeco.fr
 @@||v.fwmrm.net/ad/g/1?$xmlhttprequest,domain=www.mycanal.fr
 @@||wamiz.com/css/ads.css
@@ -131,6 +130,8 @@ _adblock_killer.
 ##.ad-blocker-warning
 ##.ad-blocking-advisor-wrapper
 ##.ad_blocker
+##.adBlock-banner
+##.adBlockDetectModal
 ##.adBlockDetectedSign
 ##.adBlockNotification
 ##.adBlockNotificationOverlay
@@ -191,10 +192,8 @@ pausecafein.fr###adb-pop
 !
 #@##adblocktest
 !
-tf1.fr#@#.ad-placement
 dbz-fantasy.com#@##adTeaser
 fstore.biz#@##adblockinfo
-tf1.fr#@#.adsbox
 dz-android.com,freeiphone.fr,hommedumatch.fr,jetetroll.com,testious.com#@##adsense
 debrideurstream.fr#@##pubdirecte
 ot-boutique.fr#@##publicite
