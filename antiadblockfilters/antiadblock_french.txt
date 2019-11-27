@@ -118,9 +118,12 @@ _adblock_killer.
 ###fondAdblock
 ###js-popup-blocker
 ###message_adblock
+###modal-adblocker
 ###notify-adblock
+##.AdblockBanner
 ##.AdblockMessage
 ##.AdblockMessage_msg
+##.BrokenAd
 ##.ad-alert-message-text
 ##.ad-alert-wrapper
 ##.ad-block-detected
