@@ -101,6 +101,7 @@ _adblock_killer.
 ###adblock-overlay
 ###adblock-warning
 ###adblockDetect
+###adblockWrap
 ###adblock_detected
 ###adblocker_announce
 ###adblocker_message
