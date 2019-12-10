@@ -21,6 +21,7 @@ rusnext.ru###detectAdblock
 sd-company.su###dom_adblock
 myshared.ru###download_form > .uk-margin-top[style]
 forum.bestflowers.ru###exposeMask
+internet-law.ru###fab-enabled
 gk-stalker.xyz###gkadblock
 pastenow.ru###google-block
 gamesubject.com###headb
