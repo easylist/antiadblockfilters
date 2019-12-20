@@ -38,8 +38,8 @@ ostroh.info###modal.modal-bg
 rbkgames.com###norris-detector
 all-episodes.net###odin
 mover.uz###oframeplayer > [class][style^="display: block"]
-filmix.cc,filmix.co,filmix.ink,filmix.site,filmix.today###oframeplayer > pjsdiv[style="position: absolute; left: 470px; top: 11.5px; opacity: 1; font-size: 14px; line-height: 1em; pointer-events: none; display: block; visibility: visible;"]
 filmix.cc,filmix.co,filmix.ink,filmix.site,filmix.today###oframeplayer > pjsdiv[style^="position: absolute; left:"][style*="display: block; visibility: visible;"] ~ pjsdiv[style^="position: absolute; left:"][style*="pointer-events: none; display: block; visibility:"]
+filmix.cc,filmix.co,filmix.ink,filmix.site,filmix.today#?##oframeplayer > pjsdiv[style^="position: absolute; left:"][style*="display: block; visibility: visible;"]:-abp-contains(/adblock/i)
 md4u.ru###pagecontent > div[style*="background-color"]
 alensat.org,forummikrotik.ru###phpbb-ads-ab
 kompravda.eu,kp.ru###popapIsBlockedAd
