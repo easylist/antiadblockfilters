@@ -187,7 +187,7 @@ savevideo.me##div[id^="ads_notice_"]
 forvk.space##div[id^="block"][style*="display: block;"]
 acomics.ru##div[style*="/design/common/pic/please"]
 abc-people.com##div[style*="background-color"][style*="position"][style*="z-index"]
-online.anidub.com#?#div[style^="position: fixed;"]:-abp-has(> h3:-abp-contains(Обнаружена блокировка рекламы))
+anime.anidub.life,online.anidub.com#?#div[style^="position: fixed;"]:-abp-has(> h3:-abp-contains(Обнаружена блокировка рекламы))
 pvcalc.ru##div[style^="position:fixed; top:0px; left:0px; opacity: 0.9;"]
 ph4.ru##div[style^="width: 728px; height: 90px;"]
 bdmbase.ru##html > .q1
