@@ -181,6 +181,7 @@ it-actual.ru#?#div:-abp-has(> img + [href])
 it-actual.ru#?#div:-abp-has(> img ~ a[href][style])
 it-actual.ru#?#div:-abp-has(> img ~ a[href][title])
 it-actual.ru#?#div:-abp-has(> .donlnk)
+it-actual.ru#?#div:-abp-properties(121*176*110)
 www.qrz.ru#?#div[class]:-abp-has(> .inner > a[href="/help/adblock/"])
 blackdesert-info.ru##div[class][style*="z-index"][style*="999999;"][style*="background"][style*="rgb"]
 megogo.net,megogo.ru##div[class^="adBlockBanner"]
