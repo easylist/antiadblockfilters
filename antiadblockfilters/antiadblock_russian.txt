@@ -1,4 +1,3 @@
-##.adblock-stop
 delfi.ee###ab--notification-ribbon
 minimultik.ru###abDetected
 patrioty.org.ua###ad_pu_modal
@@ -68,6 +67,7 @@ forum.qrz.ru,hentaiz.org,life.ru,mastergrad.com##.adblock
 pimpletv.ru##.adblock-notification
 nevasport.ru##.adblock-notify
 exler.ru##.adblock-pls
+##.adblock-stop
 zakon.kz##.adblock_alert
 ogorod.ru##.adblock_popup_warning
 hentaiz.org##.adblocker
@@ -175,13 +175,14 @@ igorchernomoretz.com##body > div[id^="ab"] + div[style*="cursor"]
 tut.by##body > div[style*="position: fixed;"][style*="right: 0;"]
 1snau.ru,bychico.net,dyrik.ru,ecosounds.net,in-drive.ru,inforpost.com,musecube.org,obozrevatel.com,oknotivi.ru,pogodnik.com,sandero.ru,tehnobzor.ru,turbominer.ru##body > div[style*="z-index"][style*="9999"]
 dugtor.ru##body > noindex
+it-actual.ru#?#div:-abp-has(> .donlnk)
 it-actual.ru#?#div:-abp-has(> [href="/donate.html"])
+it-actual.ru#?#div:-abp-has(> a[href^="/"]:not([title]))
+it-actual.ru#?#div:-abp-has(> img + [href])
+it-actual.ru#?#div:-abp-has(> img ~ a:-abp-properties(animation))
+it-actual.ru#?#div:-abp-has(> img ~ a[href][style])
 it-actual.ru#?#div:-abp-has(> img[src*="gif"] ~ a[href])
 it-actual.ru#?#div:-abp-has(> img[style] ~ a)
-it-actual.ru#?#div:-abp-has(> img + [href])
-it-actual.ru#?#div:-abp-has(> img ~ a[href][style])
-it-actual.ru#?#div:-abp-has(> img ~ a:-abp-properties(animation))
-it-actual.ru#?#div:-abp-has(> .donlnk)
 it-actual.ru#?#div:-abp-properties(animation)
 www.qrz.ru#?#div[class]:-abp-has(> .inner > a[href="/help/adblock/"])
 blackdesert-info.ru##div[class][style*="z-index"][style*="999999;"][style*="background"][style*="rgb"]
