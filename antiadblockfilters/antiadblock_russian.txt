@@ -178,7 +178,7 @@ dugtor.ru##body > noindex
 it-actual.ru#?#div:-abp-has(> .donlnk)
 it-actual.ru#?#div:-abp-has(> [href="/donate.html"])
 it-actual.ru#?#div:-abp-has(> a[href^="/"]:not([title]))
-it-actual.ru#?#div:-abp-has(> a[href][title="Поблагодарить автора, помочь сайту"])
+it-actual.ru#?#div:-abp-has(> a[href][title*="помочь"])
 it-actual.ru#?#div:-abp-has(> img + [href])
 it-actual.ru#?#div:-abp-has(> img ~ a:-abp-properties(animation))
 it-actual.ru#?#div:-abp-has(> img ~ a[href][style])
