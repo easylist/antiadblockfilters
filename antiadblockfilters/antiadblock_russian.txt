@@ -177,6 +177,7 @@ tut.by##body > div[style*="position: fixed;"][style*="right: 0;"]
 dugtor.ru##body > noindex
 it-actual.ru#?#div:-abp-has(> .donlnk)
 it-actual.ru#?#div:-abp-has(> [href="/donate.html"])
+it-actual.ru#?#div:-abp-has(> a[href^="/"]:not([href="/privacy.html"]))
 it-actual.ru#?#div:-abp-has(> a[href^="/"]:not([title]))
 it-actual.ru#?#div:-abp-has(> a[href][title*="поmочь"])
 it-actual.ru#?#div:-abp-has(> a[href][title*="пoмочь"])
