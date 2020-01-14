@@ -201,6 +201,7 @@ gismeteo.by,gismeteo.ru##div[class^="stopblock"]
 finfront.ru##div[class^="swal2"]
 savevideo.me##div[id^="ads_notice_"]
 forvk.space##div[id^="block"][style*="display: block;"]
+photoshop-online.biz##div[style="display:inline-block;width:728px;height:140px"]
 acomics.ru##div[style*="/design/common/pic/please"]
 abc-people.com##div[style*="background-color"][style*="position"][style*="z-index"]
 anime.anidub.life,online.anidub.com#?#div[style^="position: fixed;"]:-abp-has(> h3:-abp-contains(Обнаружена блокировка рекламы))
