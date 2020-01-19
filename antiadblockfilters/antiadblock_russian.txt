@@ -221,4 +221,4 @@ bigpuzzle.ru##td[valign="top"][width="200px"][height="600"] > div[style]
 ||shellcat.ru^$third-party
 ||stroi-help.ru/forum/script_new.js
 ||vazhno.ru/cdn-cgi/apps/head/*.js
-||vsthouse.ru/adregain-anti.js
+||vsthouse.ru/a-detector/
