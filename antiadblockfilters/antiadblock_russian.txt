@@ -200,7 +200,6 @@ ph4.ru##table[width][height="90"][style]
 bigpuzzle.ru##td[valign="top"][width="200px"][height="600"] > div[style]
 ||adscat.ru^$third-party
 ||allnorilsk.ru/js/adb.js
-||animeteatr.ru/a-detector/
 ||anivisual.net/mim*.js|$script,domain=anivisual.net
 ||avito.ru^*/some-pretty-script.js
 ||buhgalter.com.ua^*/blocker.
