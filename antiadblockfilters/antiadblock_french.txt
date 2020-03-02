@@ -121,10 +121,12 @@ _adblock_killer.
 ###message_adblock
 ###modal-adblocker
 ###notify-adblock
+###wrapperBlocker
 ##.AdblockBanner
 ##.AdblockMessage
 ##.AdblockMessage_msg
 ##.BrokenAd
+##.ab-detected
 ##.ad-alert-message-text
 ##.ad-alert-wrapper
 ##.ad-block-detected
