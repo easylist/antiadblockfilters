@@ -29,6 +29,7 @@ gamesubject.com###headb
 provinceinfo.ru###header > .container > a[href="/menu"] ~ h2
 info-mage.ru###helpme[style="display: block;"]
 poncy.ru###hide-adblock
+nv.ua##img[src="/images/dis_blocker_big.jpg"]
 artfile.me###jadb
 kissvk.com###madBlockModal,.modal-backdrop
 aratta-ukraine.com,drawnstories.ru,gisclub.tv,teremok.org.ua,webos-forums.ru###mdl_adb
