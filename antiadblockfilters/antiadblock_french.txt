@@ -103,6 +103,8 @@ _adblock_killer.
 ###adblockDetect
 ###adblockWrap
 ###adblock_detected
+###adblock_msg
+###adblock_tooltip
 ###adblocker_announce
 ###adblocker_message
 ###adblocker_modal_overlay
@@ -171,6 +173,7 @@ _adblock_killer.
 ##.js-ad-whitelist-notice
 ##.js-checkad-warning
 ##.kill-adblock-container
+##.msg-adblock
 ##.noadblock
 ##.remove-adblock-msg
 ##.svg-adblock-full
