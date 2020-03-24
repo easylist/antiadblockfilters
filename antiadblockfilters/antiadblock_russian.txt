@@ -124,6 +124,7 @@ animedub.ru##.poverh
 pythonworld.ru##.pythonworld-contributor
 veseloeradio.ru##.racy_sidebar
 fanfics.me##.red.nodata
+webofcomics.ru##.reklandvipinfo
 101.ru##.showMessageAdBlock
 playunturned.ru##.side_left > center
 playunturned.ru##.side_right > center
