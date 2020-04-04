@@ -133,6 +133,7 @@ l-a-w.ru,mhelp.kz##.swal2-container
 objavlenija.respublika.cz##.sweet-alert,.sweet-overlay
 kinoafisha.ua##.turn-off-add-block-text
 helpsetup.ru##.veramoy
+stalkerportaal.ru##.video_adsense
 e-xecutive.ru##.warning
 kinoprofi.net##.warning-adblock
 xn--80aikhbrhr.net,кинокрад.net##.warning-adblock-box
