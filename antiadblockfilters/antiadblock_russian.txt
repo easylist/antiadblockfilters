@@ -106,6 +106,7 @@ doctorrouter.ru##.jgcabd-container
 go.mail.ru##.js-adb-msg
 ppc.world##.js-detected-block
 space.utema.ru##.main-content-padding > div[class]:not([itemprop])
+peers.tv##.moanerwrap
 megatest.online##.msg-AdBlock
 ykt.ru##.n-banner--adblocked
 animeland.su,itcats.ru,nekto.me,noadsradio.ru,sharkgame.ru,studies.in.ua,w10.jeanzzz.ru##.no-adb
