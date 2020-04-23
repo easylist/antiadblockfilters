@@ -143,7 +143,7 @@ forum.bestflowers.ru##.xenOverlay
 @@||anidub.com/ads.js|$script,domain=anidub.com
 @@||goha.ru/app/video/adblock.teaser.js|$script,domain=goha.ru
 @@||sports.ru^*/adfox.$xmlhttprequest
-@@||turbobit.qpython.club^$generichide
+@@||qpython.club^$generichide
 i.factor.ua##[data-place-block]
 auto62rus.ru,eset-key.ru,mycrib.ru,piggy-bank.online,politonline.ru,showmehow.ru##[data-type="anti-abp"]
 lr-club.com##a[href="https://adblockplus.org/ru/faq_basics#disable"]
