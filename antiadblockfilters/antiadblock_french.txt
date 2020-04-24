@@ -20,6 +20,7 @@
 /adblocker_message_
 /AdblockMessage.
 /antiadblockmsg.
+/bloackdas.js
 /blockAndInf.js
 /blockadblock.$script
 /disable-adblock.
@@ -138,6 +139,7 @@ _adblock_killer.
 ##.ad-blocker-warning
 ##.ad-blocking-advisor-wrapper
 ##.ad_block_detected
+##.ad_block_off
 ##.ad_blocker
 ##.adBlock-banner
 ##.adBlockDetectModal
@@ -183,6 +185,7 @@ _adblock_killer.
 ##.top-bar-adblock
 ##[class][data-sitename][data-header-version] > div[id^="detection-block"]
 ##adblock-detect
+##adblock-modal-component
 ##adblocker
 !
 wamiz.com###adblocker
