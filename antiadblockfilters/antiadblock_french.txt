@@ -158,6 +158,7 @@ _adblock_killer.
 ##.adblock_detector
 ##.adblock_enabled
 ##.adblock_floating_message
+##.adblockalert
 ##.adblocker-message
 ##.adblocker-wrap
 ##.ads-block-warning
@@ -182,6 +183,7 @@ _adblock_killer.
 ##.top-bar-adblock
 ##[class][data-sitename][data-header-version] > div[id^="detection-block"]
 ##adblock-detect
+##adblocker
 !
 wamiz.com###adblocker
 jaitoutcompris.com###antiBlock
@@ -190,6 +192,7 @@ retinaboys.com###screen_block
 lagrosseradio.com###warn
 journaldugeek.com##.banner__content
 closermag.fr,grazia.fr,topsante.com##.dfp-slot
+soonnight.com##.display_natural
 ceesty.com,clkme.me,clkmein.com,cllkme.com,corneey.com,destyy.com,festyy.com,gestyy.com,jigbig.tk,newsfortrump.ga,sh.st,shorte.st,skiip.me,skipp.io,viid.me,wiid.me##.information-container
 etr.fr##.no_block
 radiox.com##.notifyjs-corner
