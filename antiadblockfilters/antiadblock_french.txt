@@ -16,6 +16,7 @@
 /adblock_alerter/*
 /adblock_gate/images/animated.gif?
 /adblock_notify.js
+/adblocker-detected.
 /adblocker/modal.
 /adblocker_message_
 /AdblockMessage.
@@ -115,6 +116,7 @@ _adblock_killer.
 ###adsblocker_detected
 ###advertisementjsalert
 ###anti_adblock
+###box-adblocker-wrap
 ###detection-block
 ###detection-block-overlay
 ###detectadblock
