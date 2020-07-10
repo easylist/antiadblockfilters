@@ -56,8 +56,8 @@ ganoderma-mushrooms.com,korrektor.name,varicream.org###turn_advert.adblock
 czx.to###vdl_ctnr
 chipinfo.pro###warning
 vsaduidoma.com##.ABD_display_wrapper
-sport-express.ru##.a-notice
 eurabota.com##.abtop
+sport-express.ru##.ab-notice
 sprashivalka.com##.ad
 topcraft.ru##.ad-info
 besplatka.ua##.adBl
