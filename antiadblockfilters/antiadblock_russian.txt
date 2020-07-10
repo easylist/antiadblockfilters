@@ -6,6 +6,7 @@ mambaru###adblock-in-browser
 dressupmix.ru,teensgames.ru###adblock_popup
 vesti-ukr.com###adblockpopup
 happy-hack.ru###admitad-cookie-check-popup
+polska-ie.com#@##adsense
 wotactions.com###ads_warning
 firebit.info###adv-300 + div[class][align="center"][style^="background-color"]
 novostroy-m.ru###advert_result
