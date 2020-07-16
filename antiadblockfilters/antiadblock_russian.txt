@@ -28,6 +28,7 @@ internet-law.ru###fab-enabled
 gk-stalker.xyz###gkadblock
 pastenow.ru###google-block
 gamesubject.com###headb
+glav.su##header + :not([id]):not([class])
 glav.su##header + div[id]:not([class])
 provinceinfo.ru###header > .container > a[href="/menu"] ~ h2
 info-mage.ru###helpme[style="display: block;"]
