@@ -141,6 +141,7 @@ forum.bestflowers.ru##.xenOverlay
 /cookie_check.min.js$domain=acetv.me
 /forum/docs/requests.js$script,domain=nnm-club.lib|nnm-club.me|nnm-club.ws|nnmclub.ro|nnmclub.to|nontorclub.in.net
 /fuckadblock.js$domain=ace-stream.tv
+/js/helpus.js$domain=coop-land.ru|online-fix.me
 @@/fuckadblock.js|$script,domain=cc-fan.tv|cn-fan.tv|fox-fan.tv|nf-fan.tv
 @@||an.yandex.ru/jstracer?aab_detect=$xmlhttprequest,domain=yandex.by|yandex.kz|yandex.ru|yandex.ua
 @@||anidub.com/ads.js|$script,domain=anidub.com
@@ -215,7 +216,6 @@ bigpuzzle.ru##td[valign="top"][width="240px"][height="600"]
 ||avito.ru^*/some-pretty-script.js
 ||buhgalter.com.ua^*/blocker.
 ||buhgalter911.com^*/blocker.
-||coop-land.ru/templates/*/js/helpus.js
 ||fainaidea.com/wp-content/uploads/*/*?ver=$script,stylesheet,domain=fainaidea.com
 ||fairtop.in/template/js/fdetect.js
 ||helpsetup.ru/home/solnisko.php
