@@ -28,6 +28,7 @@
 /inc/antiblock.
 /nonAdBlock/*
 /testAB.bundle.
+/wdbloogablock.js
 /wp-content/plugins/ad-block-defender/*
 /wp-content/plugins/deadblocker/*
 /wp-content/uploads/an-temp/*$script,stylesheet
@@ -157,6 +158,7 @@ _adblock_killer.
 ##.adblock-modal
 ##.adblock-modal-content
 ##.adblock-notification-wrapper
+##.adblock-player
 ##.adblock-warning-teaser
 ##.adblockOverlay
 ##.adblock_detector
