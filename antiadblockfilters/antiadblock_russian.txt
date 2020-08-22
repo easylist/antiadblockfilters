@@ -100,6 +100,7 @@ kinoafisha.info,tvcook.ru##.cat
 rusopen.com##.classblsi.addshr
 ppc.world##.detected-block-modal
 smotrisport.online,smotrisport.tv##.dont-add-our-site-pls
+newsru.com##.fc-ab-root
 goha.ru#@#.goha_ads
 goha.ru#@#.goha_ads_acceptable
 the-village.com.ua##.infoA
