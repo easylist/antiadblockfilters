@@ -45,6 +45,7 @@ filmix.cc,filmix.co,filmix.email,filmix.ink,filmix.ltd,filmix.online,filmix.site
 md4u.ru###pagecontent > div[style*="background-color"]
 alensat.org,forummikrotik.ru###phpbb-ads-ab
 kompravda.eu,kp.ru###popapIsBlockedAd
+3dsmaxvideo.ru,archicadvideo.ru,autocadvideo.ru,coreldrawvideo.ru,excelvideo.ru,kompasvideo.ru,photoshopvideo.ru,solidworksvideo.ru,wordvideo.ru###prozrachnyi2,#video_window2
 sostav.ru###rek_blocker
 math-prosto.ru###requestShutOfBlocker
 pb.wtf,piratbit.org,piratbit.ru###result > .request
@@ -144,7 +145,9 @@ forum.bestflowers.ru##.xenOverlay
 /cookie_check.min.js$domain=acetv.me
 /forum/docs/requests.js$script,domain=nnm-club.lib|nnm-club.me|nnm-club.ws|nnmclub.ro|nnmclub.to|nontorclub.in.net
 /fuckadblock.js$domain=ace-stream.tv
+/js/1.js|$script,~third-party,domain=3dsmaxvideo.ru|archicadvideo.ru|autocadvideo.ru|coreldrawvideo.ru|excelvideo.ru|kompasvideo.ru|photoshopvideo.ru|solidworksvideo.ru|wordvideo.ru
 /js/helpus.js$domain=coop-land.ru|online-fix.me
+/js/include_name.js|$script,~third-party,domain=3dsmaxvideo.ru|archicadvideo.ru|autocadvideo.ru|coreldrawvideo.ru|excelvideo.ru|kompasvideo.ru|photoshopvideo.ru|solidworksvideo.ru|wordvideo.ru
 @@/fuckadblock.js|$script,domain=cc-fan.tv|cn-fan.tv|fox-fan.tv|nf-fan.tv
 @@||an.yandex.ru/jstracer?aab_detect=$xmlhttprequest,domain=yandex.by|yandex.kz|yandex.ru|yandex.ua
 @@||anidub.com/ads.js|$script,domain=anidub.com
