@@ -1,3 +1,4 @@
+exampless.com###example
 delfi.ee###ab--notification-ribbon
 minimultik.ru###abDetected
 patrioty.org.ua###ad_pu_modal
