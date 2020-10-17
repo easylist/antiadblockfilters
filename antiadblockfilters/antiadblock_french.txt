@@ -128,6 +128,7 @@ _adblock_killer.
 ###message_adblock
 ###modal-adblocker
 ###notify-adblock
+###tie-popup-adblock
 ###wrapperBlocker
 ##.AdblockBanner
 ##.AdblockMessage
