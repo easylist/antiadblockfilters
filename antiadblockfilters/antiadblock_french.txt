@@ -24,6 +24,7 @@
 /bloackdas.js
 /blockAndInf.js
 /blockadblock.$script
+/blockblock.jquery.
 /disable-adblock.
 /inc/antiblock.
 /nonAdBlock/*
@@ -177,6 +178,7 @@ _adblock_killer.
 ##.dispositifAdblockMessageBox
 ##.fuckYouAdBlock
 ##.fuckYouAdBlock2
+##.header-blocked-ad
 ##.js-ad-whitelist-notice
 ##.js-checkad-warning
 ##.kill-adblock-container
