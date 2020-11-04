@@ -117,6 +117,7 @@ ykt.ru##.n-banner--adblocked
 animeland.su,itcats.ru,nekto.me,noadsradio.ru,sharkgame.ru,studies.in.ua,w10.jeanzzz.ru##.no-adb
 mail.rambler.ru##.notification-warning
 delfi.lv##.notification-widget
+radio.yandex.by,radio.yandex.kz,radio.yandex.ru,radio.yandex.ua##.notify
 alexfilm.cc##.panel-primary
 darkteam.net##.pls_rmv
 izmailov.tv##.popupBlock
