@@ -197,6 +197,7 @@ _adblock_killer.
 !
 wamiz.com###adblocker
 jaitoutcompris.com###antiBlock
+wikihow.com###contribute_footer
 iphonesoft.fr,iphonetweak.fr###msgUser
 retinaboys.com###screen_block
 lagrosseradio.com###warn
