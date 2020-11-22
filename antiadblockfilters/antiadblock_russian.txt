@@ -77,6 +77,7 @@ ogorod.ru##.adblock_popup_warning
 hentaiz.org##.adblocker
 kubik3.ru##.adbs
 ideya-biznesa.ru##.admania_adblock_detector
+cofp.ru##.admitad-checker-popup
 24video.xxx##.adt
 rusrek.com##.alert
 benfilm.net##.alert-block
