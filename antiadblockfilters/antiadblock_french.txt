@@ -14,6 +14,7 @@
 /adblock-warning-teaser/*
 /adblock_alerter.
 /adblock_alerter/*
+/adblock_erreur.
 /adblock_gate/images/animated.gif?
 /adblock_notify.js
 /adblocker-detected.
@@ -96,6 +97,7 @@ _adblock_killer.
 ###adb-enabled
 ###adb-enabled3
 ###adb-warning
+###adbWarnContainer
 ###adbcontainer-popup
 ###adblock-alert
 ###adblock-box
