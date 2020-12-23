@@ -9,6 +9,7 @@
 /adbl_dtct.
 /adbl_dtct1.
 /adblock-detect/*
+/adblock-modal.
 /adblock-notice-
 /adblock-notify-by-bweb/*
 /adblock-warning-teaser/*
@@ -144,6 +145,7 @@ _adblock_killer.
 ##.ad-block-detected
 ##.ad-block-enabled
 ##.ad-block-message
+##.ad-block__overlay
 ##.ad-blocked
 ##.ad-blocker-warning
 ##.ad-blocking-advisor-wrapper
@@ -211,6 +213,7 @@ soonnight.com##.display_natural
 ceesty.com,clkme.me,clkmein.com,cllkme.com,corneey.com,destyy.com,festyy.com,gestyy.com,jigbig.tk,newsfortrump.ga,sh.st,shorte.st,skiip.me,skipp.io,viid.me,wiid.me##.information-container
 etr.fr##.no_block
 radiox.com##.notifyjs-corner
+malekal.com##.topad
 papergeek.fr##[id^="padb_widget_"]
 forumdz.com##body .breadcrumb + center > [color="red"] > b
 forum.pcastuces.com##div > [src] + [id] + [class][style^="display: block;"]
