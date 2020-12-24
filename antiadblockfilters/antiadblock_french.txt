@@ -167,6 +167,7 @@ _adblock_killer.
 ##.adblock-modal-content
 ##.adblock-notification-wrapper
 ##.adblock-player
+##.adblock-stop
 ##.adblock-warning-teaser
 ##.adblockOverlay
 ##.adblock_detector
@@ -207,6 +208,7 @@ wikihow.com###contribute_footer
 iphonesoft.fr,iphonetweak.fr###msgUser
 retinaboys.com###screen_block
 lagrosseradio.com###warn
+trackr.fr##.alert-dashed
 journaldugeek.com##.banner__content
 closermag.fr,grazia.fr,topsante.com##.dfp-slot
 soonnight.com##.display_natural
