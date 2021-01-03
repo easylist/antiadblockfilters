@@ -83,6 +83,7 @@ vk.barkov.net##.alert-danger
 2ip.me,2ip.ua##.alert-mess > .row
 stroi-help.ru##.alert_warn
 ria.ru##.antiblock
+7days2die.info#?#.articleContent > p:-abp-has(> span + strong[style])
 rufilmtv.org##.attention
 mel.fm##.b-ad-space__placeholder
 d3.ru##.b-promo__placeholder
