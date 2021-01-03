@@ -14,7 +14,6 @@ cxem.net###antiAdBlock
 photoshop-online.biz###aslot
 elhow.ru###b-info-wrapper
 piratia.su###block-warning
-gisher.org###blockadbenabled
 ma.by###bodysubcont > div[style^="padding"]:not([id]):not([class])
 ucoin.net###bottom-notice
 pln-pskov.ru###check_ad_block
