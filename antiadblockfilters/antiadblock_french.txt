@@ -10,6 +10,7 @@
 /adbl_dtct1.
 /adblock-detect/*
 /adblock-modal.
+/adblock-modal-
 /adblock-notice-
 /adblock-notify-by-bweb/*
 /adblock-warning-teaser/*
@@ -114,6 +115,7 @@ _adblock_killer.
 ###adblock_detected
 ###adblock_msg
 ###adblock_tooltip
+###adblockerModal
 ###adblocker_announce
 ###adblocker_message
 ###adblocker_modal_overlay
