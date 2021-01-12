@@ -29,6 +29,7 @@
 /blockadblock.$script
 /blockblock.jquery.
 /disable-adblock.
+/google-adblock.
 /inc/antiblock.
 /nonAdBlock/*
 /testAB.bundle.
@@ -132,6 +133,7 @@ _adblock_killer.
 ###fnAdblockingOverlay
 ###fondAdblock
 ###js-popup-blocker
+###mdp-deblocker-js-disabled
 ###message_adblock
 ###modal-adblocker
 ###notify-adblock
