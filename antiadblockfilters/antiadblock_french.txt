@@ -26,7 +26,7 @@
 /antiadblockmsg.
 /bloackdas.js
 /blockAndInf.js
-/blockadblock.$script
+/blockadblock.$script,xmlhttprequest
 /blockblock.jquery.
 /disable-adblock.
 /google-adblock.
@@ -172,6 +172,7 @@ _adblock_killer.
 ##.adblock-notification-wrapper
 ##.adblock-player
 ##.adblock-stop
+##.adblock-warning-partial-component
 ##.adblock-warning-teaser
 ##.adblockOverlay
 ##.adblock_detector
