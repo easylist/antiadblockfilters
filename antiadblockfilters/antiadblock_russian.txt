@@ -212,6 +212,7 @@ pvcalc.ru##div[style^="position:fixed; top:0px; left:0px; opacity: 0.9;"]
 ph4.ru##div[style^="width: 728px; height: 90px;"]
 bdmbase.ru##html > .q1
 7sim.net##html > body ~ div
+rt02.ru##img[alt="Блокировщики рекламы нарушают работоспособность блога"]
 nv.ua##img[src="/images/dis_blocker_big.jpg"]
 drive2.ru##img[src^="https://avatars.mds.yandex.net/get-adfox-content/"]
 d3.ru##section[data-uid="ad"]
