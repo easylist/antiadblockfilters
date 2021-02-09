@@ -7,6 +7,7 @@ dressupmix.ru,teensgames.ru###adblock_popup
 vesti-ukr.com###adblockpopup
 happy-hack.ru###admitad-cookie-check-popup
 wotactions.com###ads_warning
+ru.audiotag.info###adsclaim
 polska-ie.com#@##adsense
 firebit.info###adv-300 + div[class][align="center"][style^="background-color"]
 novostroy-m.ru###advert_result
@@ -99,6 +100,7 @@ kanobu.ru##.c-moneyPlace_empty
 kinoafisha.info,tvcook.ru##.cat
 rusopen.com##.classblsi.addshr
 ppc.world##.detected-block-modal
+ru.audiotag.info##.dialog-fog
 smotrisport.online,smotrisport.tv##.dont-add-our-site-pls
 ixbt.com##.fc-ab-root
 goha.ru#@#.goha_ads
