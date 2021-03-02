@@ -11,7 +11,6 @@ ru.audiotag.info###adsclaim
 polska-ie.com#@##adsense
 firebit.info###adv-300 + div[class][align="center"][style^="background-color"]
 novostroy-m.ru###advert_result
-cxem.net###antiAdBlock
 photoshop-online.biz###aslot
 elhow.ru###b-info-wrapper
 piratia.su###block-warning
@@ -147,7 +146,6 @@ forum.bestflowers.ru##.xenOverlay
 /forum/docs/requests.js$script,domain=nnm-club.lib|nnm-club.me|nnm-club.ws|nnmclub.ro|nnmclub.to|nontorclub.in.net
 /gogl_detector$script,domain=meddaily.ru|newsru.com
 /js/1.js|$script,~third-party,domain=3dsmaxvideo.ru|archicadvideo.ru|autocadvideo.ru|coreldrawvideo.ru|excelvideo.ru|kompasvideo.ru|photoshopvideo.ru|solidworksvideo.ru|wordvideo.ru
-/js/helpus.js$domain=coop-land.ru|online-fix.me
 /js/include_name.js|$script,~third-party,domain=3dsmaxvideo.ru|archicadvideo.ru|autocadvideo.ru|coreldrawvideo.ru|excelvideo.ru|kompasvideo.ru|photoshopvideo.ru|solidworksvideo.ru|wordvideo.ru
 @@/fuckadblock.js|$script,domain=cc-fan.tv|cn-fan.tv|fox-fan.tv|nf-fan.tv
 @@||an.yandex.ru/jstracer?aab_detect=$xmlhttprequest,domain=yandex.by|yandex.kz|yandex.ru|yandex.ua
