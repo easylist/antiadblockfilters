@@ -18,6 +18,7 @@ piratia.su###block-warning
 ma.by###bodysubcont > div[style^="padding"]:not([id]):not([class])
 ucoin.net###bottom-notice
 pln-pskov.ru###check_ad_block
+chipinfo.pro###content-container > div[style^="position: fixed;"]
 delfi.ee###delfiTopBar
 rusnext.ru###detectAdblock
 sd-company.su###dom_adblock
@@ -54,7 +55,6 @@ kaermorhen.ru###top-line-container
 numberempire.com###toplink > h3[style="color: red"]
 ganoderma-mushrooms.com,korrektor.name,varicream.org###turn_advert.adblock
 czx.to###vdl_ctnr
-chipinfo.pro###warning
 vsaduidoma.com##.ABD_display_wrapper
 eurabota.com##.abtop
 sprashivalka.com##.ad
