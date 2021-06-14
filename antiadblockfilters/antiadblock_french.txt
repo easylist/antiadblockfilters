@@ -184,9 +184,11 @@ _adblock_killer.
 ##.adblocker-wrap
 ##.ads-block-warning
 ##.adsblocked
+##.blockingAd
 ##.counterAdblocks
 ##.deadblocker-header-bar
 ##.deadblocker-header-bar-inner
+##.detectBlockBox
 ##.dispositifAdblock
 ##.dispositifAdblockContent
 ##.dispositifAdblockMessageBox
