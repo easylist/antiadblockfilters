@@ -3,6 +3,7 @@
 /adblock-img.
 ! General hide
 ##.ad-blocker-warning
+##.main_adbalert
 ##.pane-emediate
 ! Specific block
 ||amazonaws.com^*/abb-msg.js$domain=hardocp.com
