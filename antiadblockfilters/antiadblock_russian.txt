@@ -112,6 +112,7 @@ ivi.ru##.ivi-footer ~ div[class] > style + div[class]
 doctorrouter.ru##.jgcabd-container
 go.mail.ru##.js-adb-msg
 ppc.world##.js-detected-block
+dtf.ru,tjournal.ru,vc.ru##.layout__right-column > div[class*=" "][style="--offset-top:16px;"] > div[class*=" "]
 space.utema.ru##.main-content-padding > div[class]:not([itemprop])
 peers.tv##.moanerwrap
 megatest.online##.msg-AdBlock
