@@ -139,6 +139,7 @@ qaru.site##.similar.a[style]
 megogo.net,megogo.ru##.specialBlock_v1
 l-a-w.ru,mhelp.kz##.swal2-container
 objavlenija.respublika.cz##.sweet-alert,.sweet-overlay
+savevideo.me##td > div[class]:not([id])[style*="important"]
 kinoafisha.ua##.turn-off-add-block-text
 helpsetup.ru##.veramoy
 stalkerportaal.ru##.video_adsense
