@@ -5,7 +5,6 @@ i.factor.ua###adb-info
 mambaru###adblock-in-browser
 dressupmix.ru,teensgames.ru###adblock_popup
 vesti-ukr.com###adblockpopup
-happy-hack.ru###admitad-cookie-check-popup
 wotactions.com###ads_warning
 ru.audiotag.info###adsclaim
 polska-ie.com#@##adsense
