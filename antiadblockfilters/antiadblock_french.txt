@@ -37,6 +37,7 @@
 /wp-content/plugins/ad-block-defender/*
 /wp-content/plugins/deadblocker/*
 /wp-content/uploads/an-temp/*$script,stylesheet
+/wutime_adblock/*
 /SvgAdblockDetected/*
 _adblocker_detected
 _adblock_killer.
@@ -106,6 +107,7 @@ _adblock_killer.
 ###adbcontainer-popup
 ###adblock-alert
 ###adblock-box
+###adblock-honeypot
 ###adblock-modal
 ###adblock-msg
 ###adblock-notice
