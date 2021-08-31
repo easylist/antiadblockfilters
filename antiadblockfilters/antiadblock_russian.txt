@@ -200,6 +200,7 @@ blackdesert-info.ru##div[class][style*="z-index"][style*="999999;"][style*="back
 freerutor.com,imgrutor.com,playtor.tv##div[class^="adblock-warning"]
 game2day.ru##div[class^="adblock_"]
 lostfilm.tv##div[class^="alarm"]
+rutab.net##div[class^="ggmodale"]
 gismeteo.by,gismeteo.ru##div[class^="stopblock"]
 finfront.ru##div[class^="swal2"]
 tsn.ua##div[data-picture-placeholder*="/placeholders/premium-"]
