@@ -1,3 +1,4 @@
+##div[style*="box-shadow: rgb(136, 136, 136) 0px 0px 12px; color: "]
 delfi.ee###ab--notification-ribbon
 minimultik.ru###abDetected
 patrioty.org.ua###ad_pu_modal
