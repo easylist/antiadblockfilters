@@ -77,7 +77,7 @@ kubik3.ru##.adbs
 ideya-biznesa.ru##.admania_adblock_detector
 cofp.ru##.admitad-checker-popup
 24video.xxx##.adt
-rusrek.com##.alert
+nonameno.com,rusrek.com##.alert
 vk.barkov.net##.alert-danger
 2ip.me,2ip.ua##.alert-mess > .row
 stroi-help.ru##.alert_warn
