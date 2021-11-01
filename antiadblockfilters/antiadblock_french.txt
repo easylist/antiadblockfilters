@@ -227,6 +227,7 @@ journaldugeek.com##.banner__content
 closermag.fr,grazia.fr,topsante.com##.dfp-slot
 soonnight.com##.display_natural
 ceesty.com,clkme.me,clkmein.com,cllkme.com,corneey.com,destyy.com,festyy.com,gestyy.com,jigbig.tk,newsfortrump.ga,sh.st,shorte.st,skiip.me,skipp.io,viid.me,wiid.me##.information-container
+dzfoot.com##.messageB
 etr.fr##.no_block
 radiox.com##.notifyjs-corner
 malekal.com##.topad
