@@ -29,6 +29,7 @@
 /blockAndInf.js
 /blockadblock.$script,xmlhttprequest
 /blockblock.jquery.
+/dh-anti-adblocker/*
 /disable-adblock.
 /google-adblock.
 /inc/antiblock.
@@ -131,6 +132,7 @@ _adblock_killer.
 ###advertisementjsalert
 ###anti_adblock
 ###box-adblocker-wrap
+###content_adblock_message
 ###detection-block
 ###detection-block-overlay
 ###detectadblock
