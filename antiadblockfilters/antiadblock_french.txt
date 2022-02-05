@@ -218,7 +218,7 @@ _adblock_killer.
 ##adblock-modal-component
 ##adblocker
 !
-wamiz.com###adblocker
+cowcotland.com,wamiz.com###adblocker
 jaitoutcompris.com###antiBlock
 wikihow.com###contribute_footer
 iphonesoft.fr,iphonetweak.fr###msgUser
