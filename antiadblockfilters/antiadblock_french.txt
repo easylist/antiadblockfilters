@@ -79,6 +79,7 @@ _adblock_killer.
 @@||ktu.sv2.biz/sv3/advertisement.js
 @@||larvf.com/js/ads.js
 @@||manga-news.com/js/advert.js$script
+@@||nouvelle-fiat500.fr/ad-pub.js$script
 @@||numerama.com/ads.js
 @@||pagerank.fr/js*/advert.js?$script
 @@||ams.cdn.arkadiumhosted.com/assets/arena-4/arena/heap/advertisements.js$script,domain=jeux.lemonde.fr
