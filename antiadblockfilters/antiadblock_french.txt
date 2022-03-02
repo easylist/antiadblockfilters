@@ -139,6 +139,8 @@ _adblock_killer.
 ###detectadblock
 ###fnAdblockingOverlay
 ###fondAdblock
+###gothamadblock_msg
+###gothamadblock_overlayh_n
 ###js-popup-blocker
 ###mdp-deblocker-js-disabled
 ###message_adblock
