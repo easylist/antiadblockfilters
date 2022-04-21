@@ -12,6 +12,7 @@
 ||static.game-state.com/images/main/alert/replacement/
 ||www.google.*/ajax/pi/phd?abd=0$xmlhttprequest
 ! Specific hide
+*.bankbinlist.com###overlay
 mediafire.com###abnotify
 flightradar24.com###bottomRightPanel
 videofun.me###flowplayer > div[class][style]:first-child
