@@ -55,7 +55,6 @@ czx.to###vdl_ctnr
 vsaduidoma.com##.ABD_display_wrapper
 eurabota.com##.abtop
 sprashivalka.com##.ad
-dfm.ru##.ad-blocked-message
 topcraft.ru##.ad-info
 besplatka.ua##.adBl
 bycard.by,goodfon.ru,old-games.ru,satsis.info,swordmaster.org##.adb
