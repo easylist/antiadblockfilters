@@ -234,6 +234,7 @@ bigpuzzle.ru##td[valign="top"][width="240px"][height="600"]
 ||gamemag.ru/assets/*/js.cookie.js
 ||helpsetup.ru/home/solnisko.php
 ||i140.ru/js/etxm*.js|$script
+||imageban.ru/template/js/nt.js
 ||ipprof.ru/wp-content/plugins/ad-blocking-advisor/
 ||kontrolnaya-rabota.ru^*/fuckadblock.$script
 ||kontrolnaya-rabota.ru^*/toastr.$script,stylesheet
