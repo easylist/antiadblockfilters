@@ -3,7 +3,4 @@ dumpert.nl#@#.ads_box
 fok.nl#@##advertentie
 @@||hb.improvedigital.com/pbw/headerlift.min.js$script,third-party,domain=funnygames.be|funnygames.nl|spele.be|spele.nl
 ||goplay.be/js/sourcepoint/msg?v=
-@@*&ad$xhr,domain=kijk.nl
-@@||ads-talpa.adhese.com/json/$xhr,domain=kijk.nl
-meerdangewenst.nl##[class*="footer-section"] > *:style(display: none !important;)
 @@||quantcast.mgr.consensu.org/tcfv2/*/cmp2.js$script,domain=www.vi.nl
