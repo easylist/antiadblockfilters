@@ -38,8 +38,7 @@ photolessons.org###modal-adbmon-div
 ostroh.info###modal.modal-bg
 all-episodes.net###odin
 mover.uz###oframeplayer > [class][style^="display: block"]
-filmix.ac,filmix.beer,filmix.biz,filmix.buzz,filmix.cc,filmix.click,filmix.co,filmix.email,filmix.gay,filmix.ink,filmix.love,filmix.ltd,filmix.online,filmix.site,filmix.today,filmix.wiki,filmix.zone###oframeplayer > pjsdiv[style^="position: absolute; left:"][style*="display: block; visibility: visible;"] ~ pjsdiv[style^="position: absolute; left:"][style*="pointer-events: none; display: block; visibility:"]
-filmix.ac,filmix.beer,filmix.biz,filmix.buzz,filmix.cc,filmix.click,filmix.co,filmix.email,filmix.gay,filmix.ink,filmix.love,filmix.ltd,filmix.online,filmix.site,filmix.today,filmix.wiki,filmix.zone#?##oframeplayer > pjsdiv[style^="position: absolute; left:"][style*="display: block; visibility: visible;"]:-abp-contains(/adblock/i)
+filmix.ac,filmix.beer,filmix.biz,filmix.buzz,filmix.cc,filmix.click,filmix.co,filmix.email,filmix.gay,filmix.ink,filmix.love,filmix.ltd,filmix.online,filmix.site,filmix.today,filmix.wiki,filmix.zone###oframeplayer > #player_control_play-icon ~ pjsdiv[style^="position: absolute; left:"][style*="pointer-events: none; display: block; visibility:"]
 md4u.ru###pagecontent > div[style*="background-color"]
 alensat.org,forummikrotik.ru###phpbb-ads-ab
 3dsmaxvideo.ru,archicadvideo.ru,autocadvideo.ru,coreldrawvideo.ru,excelvideo.ru,kompasvideo.ru,photoshopvideo.ru,solidworksvideo.ru,wordvideo.ru###prozrachnyi2,#video_window2
