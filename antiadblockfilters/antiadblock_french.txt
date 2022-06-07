@@ -71,6 +71,7 @@ _adblock_killer.
 @@||frandroid.com/ads.js
 @@||free-reseau.fr/css/publicite.css|$stylesheet
 @@||fusacq.com/javascript/advertising.js|$script
+@@||gamaniak.com/js/check_adsense.js$script
 @@||grattable.com/blogads.css
 @@||hdnumerique.com/tpl/jscript/advert.js
 @@||item-voyage.fr/ads.css
@@ -260,6 +261,7 @@ ot-boutique.fr#@##publicite
 iwin.com#@##sponsorText
 fairytailmx.com#@##sponsored-ad
 forum.virtualdjing.com#@#.adFrame
+gamaniak.com#@#.adsbygoogle
 dealerdunet.fr#@#.text_ads
 comptoir-info.com#@#.textad
 !
