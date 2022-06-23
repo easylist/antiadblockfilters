@@ -260,6 +260,7 @@ debrideurstream.fr#@##pubdirecte
 ot-boutique.fr#@##publicite
 iwin.com#@##sponsorText
 fairytailmx.com#@##sponsored-ad
+hypebeast.com#@#.ad-blocked
 forum.virtualdjing.com#@#.adFrame
 gamaniak.com#@#.adsbygoogle
 dealerdunet.fr#@#.text_ads
