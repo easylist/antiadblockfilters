@@ -23,7 +23,7 @@ sd-company.su###dom_adblock
 myshared.ru###download_form > .uk-margin-top[style]
 forum.bestflowers.ru###exposeMask
 internet-law.ru###fab-enabled
-ww2.frkp.lol###film > #content > span[style="color:#ff6a00;"]
+frkp.lol###film > #content > span[style="color:#ff6a00;"]
 gk-stalker.xyz###gkadblock
 pastenow.ru###google-block
 gamesubject.com###headb
