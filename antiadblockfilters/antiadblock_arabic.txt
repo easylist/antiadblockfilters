@@ -3,8 +3,10 @@
 /adb_script/*
 /deadblocker/*
 /mod_ablockdetector/*
+/npsblocker/js/ads.
 !
 @@/advertisement.js$script,~third-party,domain=arabe-media.com
+@@/adsbygoogle.js$script,domain=arabiaweather.com
 !
 @@||play.bokracdn.run/v2/adsjs/ads.js$script,~third-party
 !
