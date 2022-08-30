@@ -10,6 +10,8 @@
 ||corrosif.science^$domain=filerev.cc|pencurimovie.pw
 ||rockradio.com^*/blockadblock-$script,domain=rockradio.com
 ||static.game-state.com/images/main/alert/replacement/
+||tritoshi.com/libs/check.js
+||tristoshink.online/libs/check.js
 ||www.google.*/ajax/pi/phd?abd=0$xmlhttprequest
 ! Specific hide
 mediafire.com###abnotify
