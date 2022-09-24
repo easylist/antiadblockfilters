@@ -229,6 +229,7 @@ _adblock_killer.
 !
 cowcotland.com,wamiz.com###adblocker
 jaitoutcompris.com###antiBlock
+nautiljon.com###cmsg
 wikihow.com###contribute_footer
 iphonesoft.fr,iphonetweak.fr###msgUser
 retinaboys.com###screen_block
