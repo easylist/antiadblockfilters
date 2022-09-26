@@ -53,3 +53,5 @@ redtube.com###as_131
 redtube.com###slidePanelContainerAB
 redtube.com##.qb
 shadbase.com##img[alt="adblock"]
+! Generichide
+@@||docs.w3cub.com^$generichide
