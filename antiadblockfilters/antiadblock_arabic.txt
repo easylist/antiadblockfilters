@@ -20,7 +20,6 @@
 ##.no-ad-reminder
 !
 kimo.ma##.adb
-myegy.cc,myegy.io,myegy.to##.disclaimer
 4algeria.com###exposeMask
 chahid4u.tk###unblocker
 4algeria.com##.xenOverlay
