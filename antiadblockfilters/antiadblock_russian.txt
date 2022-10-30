@@ -8,7 +8,6 @@ vesti-ukr.com###adblockpopup
 wotactions.com###ads_warning
 ru.audiotag.info###adsclaim
 polska-ie.com#@##adsense
-firebit.info###adv-300 + div[class][align="center"][style^="background-color"]
 novostroy-m.ru###advert_result
 cxem.net###antiAdBlock
 elhow.ru###b-info-wrapper
