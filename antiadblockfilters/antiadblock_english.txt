@@ -1,6 +1,7 @@
 ! General block
 /adblock-alerter/js/adblock_alerter.js
 /adblock-img.
+/adsmatcher-anti-adblock/*
 ! General hide
 ##.ad-blocker-warning
 ##.main_adbalert
@@ -136,6 +137,7 @@ spanishdict.com##.whitelist
 play44.net,videobug.net,videofun.me,vidzur.com,yucache.net##[style^="position: absolute; width: 100%;"]
 pkmods.com##body > div[style*="z-index"][style*="background"]
 leechyscripts.com##div[class^="chp_ads_block_modal"]
+freelogovectors.net##div[class^="popup"]
 financerites.com##div[id^="__vliadb"]
 strikeout.co,vipbox.sx,vipleague.co,vipleague.is##div[style="display: block;"]
 nexusmods.com##div[style="float: left; width: 728px; height: 90px; background: #313131;"]
