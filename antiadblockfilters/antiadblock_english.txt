@@ -116,6 +116,7 @@ videofun.me###flowplayer > div[class][style]:first-child
 abc-fonts.me###galepro-core-adb-enabled
 yocast.tv###ra9e
 flightradar24.com###responsiveBottomPanel
+techonthenet.com###sabl
 outlook.live.com##.N3k7EN5vRGTrONWBPg250
 myanimelist.net##._unit
 ##.ad-blocker-warning
