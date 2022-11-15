@@ -2,6 +2,7 @@
 /adblock-alerter/js/adblock_alerter.js
 /adblock-img.
 /adsmatcher-anti-adblock/*
+/arlinablock.js
 ! General hide
 ##.ad-blocker-warning
 ##.main_adbalert
