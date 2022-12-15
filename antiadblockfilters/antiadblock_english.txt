@@ -14,6 +14,7 @@
 ||static.game-state.com/images/main/alert/replacement/
 ||tritoshi.com/libs/check.js
 ||tristoshink.online/libs/check.js
+||venea.net/web/ab_message?
 ||www.google.*/ajax/pi/phd?abd=0$xmlhttprequest
 ! Admiral antiadb
 ||absorbingcorn.com^$third-party
