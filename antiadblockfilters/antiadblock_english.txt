@@ -155,3 +155,4 @@ redtube.com##.qb
 shadbase.com##img[alt="adblock"]
 ! Generichide
 @@||docs.w3cub.com^$generichide
+@@||www.ifon.ca^$generichide
