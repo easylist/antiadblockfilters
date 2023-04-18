@@ -131,6 +131,7 @@ euroiphone.eu##.div-download-v
 findretros.com##.fuck-adblock
 technologypep.com##.main-container-wrap > div[class$="-bg"]
 technologypep.com##.main-container-wrap > div[id][class][style*="opacity"]
+tumblr.com##+js(nostif, adFreeCtaBanner)
 biggestplayer.me##.masr
 videobug.net,videofun.me,vidzur.com##.randid
 toolslib.net##.row > .col-md-7 > .panel-default
