@@ -114,6 +114,7 @@
 mediafire.com###abnotify
 llifle.com###ad_blocker_found
 flightradar24.com###bottomRightPanel
+audiotag.info###dclaim
 videofun.me###flowplayer > div[class][style]:first-child
 abc-fonts.me###galepro-core-adb-enabled
 yocast.tv###ra9e
@@ -126,6 +127,7 @@ biggestplayer.me##.adblock + *
 nexusmods.com##.areplacer
 hearthhead.com,wowhead.com##.block-bg
 wowhead.com##.block-bgimg
+audiotag.info##.dialog-fog
 euroiphone.eu##.div-download-h
 euroiphone.eu##.div-download-v
 findretros.com##.fuck-adblock
