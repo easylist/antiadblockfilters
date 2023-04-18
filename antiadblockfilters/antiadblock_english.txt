@@ -155,6 +155,8 @@ redtube.com###as_131
 redtube.com###slidePanelContainerAB
 redtube.com##.qb
 shadbase.com##img[alt="adblock"]
+! Thirdparty whitelist
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=rockmods.net
 ! Generichide
 @@||docs.w3cub.com^$generichide
 @@||www.ifon.ca^$generichide
