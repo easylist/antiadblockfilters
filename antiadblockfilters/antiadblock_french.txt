@@ -23,6 +23,7 @@
 /adblocker-feature?
 /adblocker/modal.
 /adblocker_message_
+/adblockDetector.
 /AdblockMessage.
 /antiadblockmsg.
 /bloackdas.js
@@ -33,12 +34,15 @@
 /disable-adblock.
 /google-adblock.
 /inc/antiblock.
+/levelmaxblock.js
 /nonAdBlock/*
 /popup/adblocker
 /testAB.bundle.
 /wdbloogablock.js
 /wp-content/plugins/ad-block-defender/*
+/wp-content/plugins/adunblocker/*
 /wp-content/plugins/deadblocker/*
+/wp-content/plugins/deblocker/*
 /wp-content/uploads/an-temp/*$script,stylesheet
 /wutime_adblock/*
 /SvgAdblockDetected/*
@@ -138,6 +142,7 @@ _adblock_killer.
 ###advertisementjsalert
 ###anti_adblock
 ###box-adblocker-wrap
+###checkadblockernow
 ###content_adblock_message
 ###detection-block
 ###detection-block-overlay
@@ -148,6 +153,7 @@ _adblock_killer.
 ###gothamadblock_msg
 ###gothamadblock_overlayh_n
 ###js-popup-blocker
+###mdp-deblocker-ads
 ###mdp-deblocker-js-disabled
 ###message_adblock
 ###modal-adblocker
@@ -180,6 +186,7 @@ _adblock_killer.
 ##.adBlockNotificationOverlay
 ##.adBlockWarning
 ##.adace-popup-detector
+##.adb-detect.simple-alert-boxes
 ##.adb-enabled
 ##.adbd-background
 ##.adbd-message
