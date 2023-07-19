@@ -22,6 +22,7 @@
 ##.no-ad-reminder
 !
 kimo.ma##.adb
+freestore.app##.adbn2-wrap2
 4algeria.com###exposeMask
 chahid4u.tk###unblocker
 okanime.tv##.jconfirm
