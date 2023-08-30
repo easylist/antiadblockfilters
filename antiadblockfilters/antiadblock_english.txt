@@ -78,6 +78,7 @@
 ||firstfrogs.com^$third-party
 ||flimsythought.com^$third-party
 ||flowerstreatment.com^$third-party
+||floweryfact.com^$third-party
 ||floweryflavor.com^$third-party
 ||friendwool.com^$third-party
 ||fuzzyerror.com^$third-party
