@@ -255,7 +255,9 @@ shadbase.com##img[alt="adblock"]
 ! Firstparty whitelist
 @@||ankrzkz.sbs/js/boxad.js?$script,~third-party
 ! Thirdparty whitelist
+@@||alwingulla.com/88/tag.min.js$domain=darkino.online
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=rockmods.net
 ! Generichide
+@@||darkino.online^$generichide
 @@||docs.w3cub.com^$generichide
 @@||www.ifon.ca^$generichide
