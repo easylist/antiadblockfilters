@@ -252,6 +252,8 @@ redtube.com###as_131
 redtube.com###slidePanelContainerAB
 redtube.com##.qb
 shadbase.com##img[alt="adblock"]
+! Firstparty whitelist
+@@||ankrzkz.sbs/js/boxad.js?$script,~third-party
 ! Thirdparty whitelist
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=rockmods.net
 ! Generichide
