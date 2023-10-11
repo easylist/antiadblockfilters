@@ -50,6 +50,7 @@ _adblocker_detected
 _adblock_killer.
 !
 ||bdgest.com/js/site.js?
+||bleachmx.fr/wp-content/plugins/yeptmixnsykgrb/bjns-fcknj.js
 ||cmath.fr/images/fond2.gif
 ||cmath.fr/images/fondsticky.gif
 ||developpez.com/template/*.jpg$xmlhttprequest
