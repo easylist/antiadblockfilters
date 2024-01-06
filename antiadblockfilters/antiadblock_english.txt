@@ -9,6 +9,7 @@
 ##.pane-emediate
 ! Specific block
 ||amazonaws.com^*/abb-msg.js$domain=hardocp.com
+||baeldung.com/*/library/dist/js/ad-recovery.min.js
 ||corrosif.science^$domain=filerev.cc|pencurimovie.pw
 ||rockradio.com^*/blockadblock-$script,domain=rockradio.com
 ||static.game-state.com/images/main/alert/replacement/
