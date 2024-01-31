@@ -23,12 +23,14 @@
 ##.no-ad-reminder
 !
 kimo.ma##.adb
+azrotv.com##.adbn-wrap
 freestore.app##.adbn2-wrap2
 4algeria.com###exposeMask
 chahid4u.tk###unblocker
 okanime.tv##.jconfirm
 fctvhd.com##.mw-adblock
 4algeria.com##.xenOverlay
+azrotv.com##div[id^="laoad_Adb"]
 !
 shahid4u.club#@#.adsBox
 !
