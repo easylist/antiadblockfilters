@@ -166,6 +166,7 @@ _adblock_killer.
 ##.AdblockMessage_msg
 ##.BrokenAd
 ##.ab-detected
+##.ab-detector-wrap
 ##.ad-alert-message-text
 ##.ad-alert-wrapper
 ##.ad-block-detected
