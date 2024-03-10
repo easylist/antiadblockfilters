@@ -17,6 +17,9 @@
 ||tristoshink.online/libs/check.js
 ||venea.net/web/ab_message?
 ||www.google.*/ajax/pi/phd?abd=0$xmlhttprequest
+! Third-party servers
+||content-settings.com^$third-party
+||site-config.com^$third-party
 ! Admiral antiadb
 ||absorbingcorn.com^$third-party
 ||acceptableauthority.com^$third-party
