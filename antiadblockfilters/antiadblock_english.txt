@@ -281,6 +281,7 @@ techonthenet.com###sabl
 outlook.live.com##.N3k7EN5vRGTrONWBPg250
 myanimelist.net##._unit
 ##.ad-blocker-warning
+photofilters.com##.adBlocked
 biggestplayer.me##.adblock + *
 nexusmods.com##.areplacer
 hearthhead.com,wowhead.com##.block-bg
