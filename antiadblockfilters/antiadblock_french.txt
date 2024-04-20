@@ -278,6 +278,7 @@ iwin.com#@##sponsorText
 fairytailmx.com#@##sponsored-ad
 hypebeast.com,hypebeast.kr#@#.ad-blocked
 forum.virtualdjing.com#@#.adFrame
+japscan.lol#@#.ad_slot
 gamaniak.com#@#.adsbygoogle
 dealerdunet.fr#@#.text_ads
 comptoir-info.com#@#.textad
