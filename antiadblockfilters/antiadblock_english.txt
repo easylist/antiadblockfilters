@@ -12,6 +12,7 @@
 ||baeldung.com/*/library/dist/js/ad-recovery.min.js
 ||corrosif.science^$domain=filerev.cc|pencurimovie.pw
 ||rockradio.com^*/blockadblock-$script,domain=rockradio.com
+||samfw.com/js/script.js
 ||static.game-state.com/images/main/alert/replacement/
 ||tritoshi.com/libs/check.js
 ||tristoshink.online/libs/check.js
