@@ -17,6 +17,7 @@
 ||tritoshi.com/libs/check.js
 ||tristoshink.online/libs/check.js
 ||venea.net/web/ab_message?
+||wheregoes.com/c/uploads/$script
 ||www.google.*/ajax/pi/phd?abd=0$xmlhttprequest
 ! Third-party servers
 ||content-settings.com^$third-party
