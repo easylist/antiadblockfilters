@@ -1554,6 +1554,7 @@ shadbase.com##img[alt="adblock"]
 @@||download.megaup.net/openads.js$script,~third-party
 ! Thirdparty whitelist
 @@||alwingulla.com/88/tag.min.js$domain=darkino.online
+@@||fundingchoicesmessages.google.com^$script,domain=hurriyet.com.tr
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=rockmods.net
 ! Generichide
 @@||darkino.online^$generichide
