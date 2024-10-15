@@ -9,6 +9,8 @@ wotactions.com###ads_warning
 polska-ie.com#@##adsense
 novostroy-m.ru###advert_result
 cxem.net###antiAdBlock
+e.mail.ru,octavius.mail.ru#@##app-canvas .layout__overflow-container > .advert-column
+e.mail.ru,octavius.mail.ru#@##app-canvas .layout__overflow-container > .slot
 elhow.ru###b-info-wrapper
 piratia.su###block-warning
 ma.by###bodysubcont > div[style^="padding"]:not([id]):not([class])
@@ -97,6 +99,7 @@ doctorrouter.ru##.jgcabd-container
 ppc.world##.js-detected-block
 anime-bit.ru##.layer_box > #header
 dtf.ru,vc.ru##.layout__right-column > div[class*=" "][style] > div[class*=" "] > div:only-child
+e.mail.ru,octavius.mail.ru#@#.letter-list-item-adv
 space.utema.ru##.main-content-padding > div[class]:not([itemprop])
 shuba.life##.md\:u-block
 peers.tv##.moanerwrap
