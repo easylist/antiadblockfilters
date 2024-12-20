@@ -285,4 +285,5 @@ dealerdunet.fr#@#.text_ads
 comptoir-info.com#@#.textad
 !
 @@||jeux.meteocity.com^$generichide
+@@||toplien.fr^$generichide
 !
