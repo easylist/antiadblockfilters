@@ -1558,6 +1558,7 @@ shadbase.com##img[alt="adblock"]
 @@||fundingchoicesmessages.google.com^$script,domain=hurriyet.com.tr|milliyet.com.tr
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=rockmods.net
 ! Generichide
+@@||cheatography.com^$generichide
 @@||darkino.online^$generichide
 @@||docs.w3cub.com^$generichide
 @@||www.ifon.ca^$generichide
