@@ -80,7 +80,6 @@ _adblock_killer.
 @@||gamaniak.com/js/check_adsense.js$script
 @@||grattable.com/blogads.css
 @@||hdnumerique.com/tpl/jscript/advert.js
-@@||ipv4.seeip.org/jsonip$domain=empire-anime.com
 @@||item-voyage.fr/ads.css
 @@||jeux-geographiques.com/js/adblock_detector.js
 @@||jeuxvideo-live.com/js/ads.js
@@ -89,7 +88,7 @@ _adblock_killer.
 @@||manga-news.com/js/advert.js$script
 @@||nouvelle-fiat500.fr/ad-pub.js$script
 @@||numerama.com/ads.js
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=empire-anime.com
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=empire-anime.com|empire-streamz.fr
 @@||pagerank.fr/js*/advert.js?$script
 @@||ams.cdn.arkadiumhosted.com/assets/arena-4/arena/heap/advertisements.js$script,domain=jeux.lemonde.fr
 @@||penducado.com/styles/ads.css
