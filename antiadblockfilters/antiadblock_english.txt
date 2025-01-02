@@ -1330,7 +1330,7 @@ shadbase.com##img[alt="adblock"]
 ! Thirdparty whitelist
 @@||alwingulla.com/88/tag.min.js$domain=darkino.online
 @@||fundingchoicesmessages.google.com^$script,domain=hurriyet.com.tr|milliyet.com.tr
-@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=rockmods.net
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=fileink.com|rockmods.net
 ! Generichide
 @@||cheatography.com^$generichide
 @@||darkino.online^$generichide
