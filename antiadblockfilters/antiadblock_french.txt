@@ -1,6 +1,8 @@
 !
 -adblock-notice-
 -adblock-notice/*
+/160x600adblock.
+/728x90adblock.
 /abb-msg.js
 /ad-blocking-advisor/*
 /adbDetect.
