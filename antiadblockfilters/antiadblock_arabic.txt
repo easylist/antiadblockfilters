@@ -26,6 +26,7 @@ kimo.ma##.adb
 azrotv.com##.adbn-wrap
 freestore.app##.adbn2-wrap2
 4algeria.com###exposeMask
+ak.sv###ignielAdBlock
 chahid4u.tk###unblocker
 okanime.tv##.jconfirm
 fctvhd.com##.mw-adblock
@@ -34,6 +35,7 @@ azrotv.com##div[id^="laoad_Adb"]
 !
 shahid4u.club#@#.adsBox
 !
+@@||ak.sv^$generichide
 @@||al-aqsanews.com
 @@||ency-educ.com^$generichide
 @@||shahid.mbc.net^$generichide
