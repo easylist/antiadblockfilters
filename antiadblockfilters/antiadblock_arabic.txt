@@ -34,6 +34,7 @@ azrotv.com##div[id^="laoad_Adb"]
 !
 shahid4u.club#@#.adsBox
 !
+@@||al-aqsanews.com
 @@||ency-educ.com^$generichide
 @@||shahid.mbc.net^$generichide
 @@||yacine-app.com^$generichide
