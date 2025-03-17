@@ -8,6 +8,7 @@
 ##.main_adbalert
 ##.pane-emediate
 ! Specific block
+||4k.video/b.js
 ||amazonaws.com^*/abb-msg.js$domain=hardocp.com
 ||baeldung.com/*/library/dist/js/ad-recovery.min.js
 ||corrosif.science^$domain=filerev.cc|pencurimovie.pw
