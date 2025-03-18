@@ -268,6 +268,7 @@ papergeek.fr##[id^="padb_widget_"]
 forumdz.com##body .breadcrumb + center > [color="red"] > b
 forum.pcastuces.com##div > [src] + [id] + [class][style^="display: block;"]
 closermag.fr##div[id^="detection-block"]
+forum-xiaomi.com##div[style="background: rgba(0, 0, 0, 0.9); display: block;"]
 bd-sanctuary.com,cine-sanctuary.com,comics-sanctuary.com,manga-sanctuary.com##div[style^="background:#444;"]
 pausecafein.fr###adb-pop
 !
