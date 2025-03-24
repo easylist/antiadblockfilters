@@ -1382,4 +1382,5 @@ shadbase.com##img[alt="adblock"]
 @@||cheatography.com^$generichide
 @@||darkino.online^$generichide
 @@||docs.w3cub.com^$generichide
+@@||haxnode.net^$generichide
 @@||www.ifon.ca^$generichide
