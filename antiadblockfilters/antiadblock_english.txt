@@ -1345,6 +1345,7 @@ findretros.com##.fuck-adblock
 technologypep.com##.main-container-wrap > div[class$="-bg"]
 technologypep.com##.main-container-wrap > div[id][class][style*="opacity"]
 biggestplayer.me##.masr
+scrolller.com##.popup
 rediafile.com##.protection:not(body)
 videobug.net,videofun.me,vidzur.com##.randid
 toolslib.net##.row > .col-md-7 > .panel-default
