@@ -1322,6 +1322,7 @@
 ||zlp6s.pw^$third-party
 ! Specific hide
 mediafire.com###abnotify
+codebeautify.org###adBlockerShare
 llifle.com###ad_blocker_found
 flightradar24.com###bottomRightPanel
 audiotag.info###dclaim
