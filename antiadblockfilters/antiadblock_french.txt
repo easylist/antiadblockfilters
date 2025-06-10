@@ -289,6 +289,7 @@ dealerdunet.fr#@#.text_ads
 comptoir-info.com#@#.textad
 !
 @@||jeux.meteocity.com^$generichide
+@@||lecrabeinfo.net^$generichide
 @@||mon-maire.fr^$generichide
 @@||toplien.fr^$generichide
 !
