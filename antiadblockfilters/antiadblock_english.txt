@@ -10,7 +10,8 @@
 ! Specific block
 ||4k.video/b.js
 ||amazonaws.com^*/abb-msg.js$domain=hardocp.com
-||baeldung.com/*/library/dist/js/ad-recovery.min.js
+||baeldung.com/*/library/dist/js/pro-recovery.
+||baeldung.com/*/library/dist/js/recovery.
 ||corrosif.science^$domain=filerev.cc|pencurimovie.pw
 ||ffmovies.lol/jss/dectector-2025.js
 ||freeiptvplayer.net/wp-content/uploads/$script
