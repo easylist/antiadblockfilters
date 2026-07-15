@@ -16,6 +16,7 @@
 ||ffmovies.lol/jss/dectector-2025.js
 ||freeiptvplayer.net/wp-content/uploads/$script
 ||full.video/btn.js
+||pastedownload.com/template/nova/js/adb/
 ||rockradio.com^*/blockadblock-$script,domain=rockradio.com
 ||samfw.com/js/script.js
 ||static.game-state.com/images/main/alert/replacement/
