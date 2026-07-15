@@ -2387,6 +2387,7 @@ wowhead.com##.block-bgimg
 audiotag.info##.dialog-fog
 euroiphone.eu##.div-download-h
 euroiphone.eu##.div-download-v
+coontool.com###fc-main-dialog
 findretros.com##.fuck-adblock
 technologypep.com##.main-container-wrap > div[class$="-bg"]
 technologypep.com##.main-container-wrap > div[id][class][style*="opacity"]
