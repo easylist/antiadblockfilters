@@ -2379,7 +2379,7 @@ flightradar24.com###responsiveBottomPanel
 techonthenet.com###sabl
 outlook.live.com##.N3k7EN5vRGTrONWBPg250
 myanimelist.net##._unit
-##.ad-blocker-warning
+firestream.to##.adblock-overlay
 photofilters.com##.adBlocked
 biggestplayer.me##.adblock + *
 nexusmods.com##.areplacer
