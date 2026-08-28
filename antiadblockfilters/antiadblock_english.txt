@@ -20,6 +20,7 @@
 ||polygon.com/fetch/next/mural/
 ||rockradio.com^*/blockadblock-$script,domain=rockradio.com
 ||samfw.com/js/script.js
+||savefiles.com/js/noadblocker.js
 ||static.game-state.com/images/main/alert/replacement/
 ||tritoshi.com/libs/check.js
 ||tristoshink.online/libs/check.js
